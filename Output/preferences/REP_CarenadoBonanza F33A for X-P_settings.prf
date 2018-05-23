@@ -1,0 +1,14 @@
+generalsettings.damages_on=0
+generalsettings.savestatus_on=0
+generalsettings.imperialunits_on=0
+generalsettings.failure_messages_on=1
+generalsettings.tip_messages_on=1
+generalsettings.enable_hypoxia=1
+generalsettings.hide_menu=0
+generalsettings.correct_roll=0
+generalsettings.correct_stall=0
+generalsettings.=0
+generalsettings.roll_steering=0
+generalsettings.engine_differencies=0
+generalsettings.engine_monitor_on=1
+currentversion=60
