@@ -1,0 +1,51 @@
+--Auto Generated Gizmo Preferences Data
+return{
+{
+ name="Shell_window_left",
+ value=300,
+},
+{
+ name="Shell_window_top",
+ value=20,
+},
+{
+ name="Shell_window_width",
+ value=320,
+},
+{
+ name="Shell_window_height",
+ value=160,
+},
+{
+ name="Console_window_left",
+ value=10,
+},
+{
+ name="Console_window_top",
+ value=80,
+},
+{
+ name="Console_window_width",
+ value=480,
+},
+{
+ name="Console_window_height",
+ value=304,
+},
+{
+ name="AutoLicenseUpdate_Always",
+ value=true,
+},
+{
+ name="xplugins_tooltray_disabled",
+ value=true,
+},
+{
+ name="AutoLicenseUpdate_Notify",
+ value=false,
+},
+{
+ name="xplugins_console_visible",
+ value=0,
+},
+}
