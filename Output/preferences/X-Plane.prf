@@ -10,13 +10,13 @@ _time_compression 1
 _data_rate_02 2
 _use_pbos 0
 _cloud_pref_number_rat 0.000000
-_wxr_init_type 3
+_wxr_init_type 0
 _coverage_rat 0.500000
 _intensity_rat 0.500000
 _temperature_rat 0.500000
 _cell_size_rat 0.500000
 _random_rat 0.000000
-_rwx_download_selected 1
+_rwx_download_selected 0
 _sound_on 1
 _voice_on 0
 _text_out 1
@@ -94,7 +94,7 @@ _g1000_audio 0
 _g1000_gdu_vers 
 _g1000_gia_part 
 _g1000_gia_vers 
-_tex_res 3
+_tex_res 0
 _aniso_filter 1
 _diff_FOV 0
 _default_view 0
@@ -20521,7 +20521,7 @@ gradient_alpha4 1.000000
 gradient_alpha5 0.650000
 gradient_alpha6 0.330000
 gradient_alpha7 0.000000
-_qfl_wxr 3
+_qfl_wxr 0
 _qfl_tim 0
 _metric_temp 0
 _metric_press 0
@@ -21448,10 +21448,10 @@ _joy_unique_id0 VID:1699PID:1891
 _joy_unique_id1 VID:1103PID:45322
 _joy_unique_id2 VID:1699PID:1884
 _joy_unique_id3 VID:1103PID:46727
-_joy_lru_time0 1522440538
-_joy_lru_time1 1522440539
+_joy_lru_time0 1522442144
+_joy_lru_time1 1522442144
 _joy_lru_time2 1492523694
-_joy_lru_time3 1522440539
+_joy_lru_time3 1522442144
 _joy_lru_time4 0
 _joy_lru_time5 0
 _joy_lru_time6 0
@@ -23856,7 +23856,7 @@ _joy_BUTN_use1596 sim/none/none
 _joy_BUTN_use1597 sim/none/none
 _joy_BUTN_use1598 sim/none/none
 _joy_BUTN_use1599 sim/none/none
-renopt_HDR 1
+renopt_HDR 0
 renopt_HDR_antial 0
 renopt_apt_03 0
 renopt_aurora 0
@@ -23870,15 +23870,15 @@ renopt_extended_dsf 0
 renopt_fire_ball 0
 renopt_for_05 0
 renopt_gload 0
-renopt_lod_04 2
-renopt_obj_06 2
+renopt_lod_04 0
+renopt_obj_06 0
 renopt_per_pix_liting 0
 renopt_planet 0
 renopt_scattering 0
 renopt_shadows_06 0
-renopt_sloped_runways 1
-renopt_static_acf 1
-renopt_vec_03 1
+renopt_sloped_runways 0
+renopt_static_acf 0
+renopt_vec_03 0
 renopt_view_ind 0
 renopt_volume_fog 0
 renopt_wat_05 0
