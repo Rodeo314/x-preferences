@@ -42,7 +42,7 @@ return{
 },
 {
  name="AutoLicenseUpdate_Notify",
- value=false,
+ value=true,
 },
 {
  name="xplugins_console_visible",
