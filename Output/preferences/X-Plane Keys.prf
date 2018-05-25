@@ -211,7 +211,7 @@ X <none> sim/view/chase
 Y <none> sim/view/flashlight_wht
 Return <none> sim/operation/contact_atc
 F16 <none> sim/view/chase
-F17 <none> sim/view/flashlight_red
+F17 <none> navP/switches/at_toga
 F18 <none> sim/engines/throttle_up
 F19 <none> sim/engines/throttle_down
 Numpad-Enter <none> navP/switches/cdu_toggle
