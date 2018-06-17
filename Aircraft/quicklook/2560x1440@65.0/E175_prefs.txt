@@ -109,4 +109,4 @@ _iql_circ_the_8 28.689636
 _iql_circ_dis_8 446.020111
 _iql_pscroll_x_pix_8 0.000000
 _iql_pscroll_y_pix_8 188.000000
-_livery_req 4
+_livery_req 0

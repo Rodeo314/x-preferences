@@ -121,4 +121,4 @@ _iql_circ_the_9 -26.180849
 _iql_circ_dis_9 99.734535
 _iql_pscroll_x_pix_9 0.000000
 _iql_pscroll_y_pix_9 896.000000
-_livery_req 1
+_livery_req 0

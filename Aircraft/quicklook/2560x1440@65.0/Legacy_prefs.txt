@@ -120,10 +120,10 @@ _iql_circ_the_9 20.756874
 _iql_circ_dis_9 18.180990
 _iql_pscroll_x_pix_9 0.000000
 _iql_pscroll_y_pix_9 147.000000
-_livery_req 3
-_track_up_0 0
+_livery_req 0
+_track_up_0 1
 _data_fields_0 0
-_track_up_1 0
+_track_up_1 1
 _data_fields_1 0
-_track_up_2 0
+_track_up_2 1
 _data_fields_2 0
