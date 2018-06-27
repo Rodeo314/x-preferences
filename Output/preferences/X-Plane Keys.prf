@@ -223,3 +223,4 @@ Numpad-= <none> navP/thrust/forward
 Clear <none> navP/thrust/idle_boost
 N <none> sim/view/night_vision
 H <none> sim/view/forward_with_hud
+U <none> navP/switches/ap_clmb
