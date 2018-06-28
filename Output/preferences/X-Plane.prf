@@ -22416,13 +22416,13 @@ _joy_BUTN_use156 sim/none/none
 _joy_BUTN_use157 sim/none/none
 _joy_BUTN_use158 sim/none/none
 _joy_BUTN_use159 sim/none/none
-_joy_BUTN_use160 navP/trims/pitch_up
+_joy_BUTN_use160 navP/trims/pitch_down
 _joy_BUTN_use161 sim/general/hat_switch_up_right
-_joy_BUTN_use162 navP/trims/aileron_right
+_joy_BUTN_use162 navP/trims/rudder_right
 _joy_BUTN_use163 sim/general/hat_switch_down_right
-_joy_BUTN_use164 navP/trims/pitch_down
+_joy_BUTN_use164 navP/trims/pitch_up
 _joy_BUTN_use165 sim/general/hat_switch_down_left
-_joy_BUTN_use166 navP/trims/aileron_left
+_joy_BUTN_use166 navP/trims/rudder_left
 _joy_BUTN_use167 sim/general/hat_switch_up_left
 _joy_BUTN_use168 sim/operation/contact_atc
 _joy_BUTN_use169 navP/switches/ap_disc
