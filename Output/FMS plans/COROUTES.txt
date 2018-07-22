@@ -1,0 +1,633 @@
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+TIM     ->    regular service
+TIX     ->    executive service
+00xx    ->    special operations
+01xx    ->    long-haul services
+1xxx    ->    within Switzerland
+2xxx    ->    CHE border countries
+3xxx    ->    to/from United Kingdom
+4xxx    ->    to/from European countries
+50xx    ->    to/from PilotEdge's ZLA area
+51xx    ->    to/from PilotEdge's ZSE and ZOA
+52xx    ->    to/from PilotEdge's ZAB/ZDV/ZLC
+53xx    ->    to/from United States (Western)
+54xx    ->    to/from United States (Eastern)
+55xx    ->    to/from Caribbean + nearby areas
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+USA self-limit: FL300 (<250nm), FL250 (<200nm)
+Except when overridden by procedure constraint
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+NOTE: some routes may only validate w/SID/STAR
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+TIM0001    LSGG    LSZH    dct-124nm    FL-160    MOLUS N871 BERSU
+TIM0002    LSZH    LSGG    dct-124nm    FL-150    VEBIT T50 ROTOS Z669 ULMES
+----------------------------------------------
+----------------------------------------------
+TIM0011    LSGG    LFMN    dct-161nm    FL-230    MEDAM UM623 VEVAR
+TIM0012    LFMN    LSGG    dct-161nm    FL-240    IRMAR UN853 KINES
+----------------------------------------------
+----------------------------------------------
+TIM0021    LSGG    LFMT    dct-184nm    FL-210    BALSI UY16 MTL MOLEN NG
+TIM0022    LFMT    LSGG    dct-184nm    FL-180    NG MOLEN MTL B16 BELUS
+----------------------------------------------
+----------------------------------------------
+TIM0101    LSGG    KBOS    dct----nm    FL----
+TIM0102    KBOS    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM0111    LSGG    KBWI    dct----nm    FL----
+TIM0112    KBWI    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM0121    LSZH    KMIA    dct----nm    FL----
+TIM0122    KMIA    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM1001    LSGG    LFSB    dct-100nm    FL-140    MOLUS N871 KONOL Z59 LUMEL
+TIM1002    LFSB    LSGG    dct-100nm    FL-150    BASUD Z55 ROTOS Z669 ULMES
+----------------------------------------------
+----------------------------------------------
+TIM1011    LSZH    LSGS    dct--90nm    FL----
+TIM1012    LSGS    LSZH    dct--90nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM1021    LSGG    LSZA    dct-118nm    FL----
+TIM1022    LSZA    LSGG    dct-118nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM1031    LSGG    LSZB    dct--70nm    FL----
+TIM1032    LSZB    LSGG    dct--70nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM1041    LSGG    LSZR    dct-161nm    FL----
+TIM1042    LSZR    LSGG    dct-161nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM2001    LSZH    LFKC    dct-296nm    FL-310    VEBIT T53 GERSA UN850 ODINA OLETI M858 LIGUR
+TIM2002    LFKC    LSZH    dct-296nm    FL-300    MEGER Z911 OLETI M858 GEN M985 MONEB N851 DESIP Z651 CANNE UZ651 KELIP
+----------------------------------------------
+----------------------------------------------
+TIM2011    LSZH    LFPG    dct-258nm    FL-300    VEBIT T51 LASUN UT10 TORPA UM624 LUL TRO
+TIM2012    LFPG    LSZH    dct-258nm    FL-310    BUBLI UG42 PILON UM606 BLM
+----------------------------------------------
+----------------------------------------------
+TIM2021    LSGG    LFPO    dct-213nm    FL-280    DIPIR UB37 IBABA UZ124 TUTAX
+TIM2021    LSGG    LFPO    dct-213nm    FL-280    SIROD Z124 IBABA UZ124 TUTAX
+TIM2022    LFPO    LSGG    dct-213nm    FL-270    PILUL UM975 PIXIS/F230 UM975 LUSAR    
+----------------------------------------------
+----------------------------------------------
+TIM2031    LSZH    LIEE    dct-493nm    FL-310    VEBIT T53 GERSA Z50 RESIA ROMPO KOVAS
+TIM2032    LIEE    LSZH    dct-493nm    FL-300    KOVAS M732 RAMEN M858 CORSI UM858 TORTU M858 GEN M985 MONEB N851 DESIP Z651 CANNE UZ651 KELIP
+----------------------------------------------
+----------------------------------------------
+TIM2041    LSZH    LIMC    dct-110nm    FL----
+TIM2042    LIMC    LSZH    dct-110nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM2051    LSGG    LIML    dct-141nm    FL----
+TIM2052    LIML    LSGG    dct-141nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM2061    LSGG    LIPZ    dct-265nm    FL-330    MOLUS UN871 MADEB/F300 UM738 NATAG M738 ADOSA L612 ALBET
+TIM2062    LIPZ    LSGG    dct-265nm    FL-300    VIC L615 OMETO/M070F220 L615 BANKO
+----------------------------------------------
+----------------------------------------------
+TIM2071    LSZH    LIRA    dct-381nm    FL-310    VEBIT T53 GERSA Z50 RESIA GITOD
+TIM2072    LIRA    LSZH    dct-381nm    FL-300    SOVAN L995 CANNE UZ651 KELIP
+----------------------------------------------
+----------------------------------------------
+TIM2081    LSGG    LIRF    dct-376nm    FL-310    MEDAM UM730 ATMAD M730 NITAM MOGBO ELKAP
+TIM2082    LIRF    LSGG    dct-376nm    FL-300    GILIO M729 TONDA/F220 M729 AOSTA L615 BANKO
+----------------------------------------------
+----------------------------------------------
+TIX2091    LSGG    LIRS    dct-298nm    FL-190    ROCCA M135 ABULO T345 LURAG M135 TOP L50 ELB
+TIX2091    LSGG    LIRS    dct-298nm    FL-290    MEDAM UM730 ATMAD M730 TOP L50 BAKRO/M070F190 L50 ELB L127 UPADU
+TIX2091    LSGG    LIRS    dct-298nm    FL--90    DEPUL G5 LSE A6 ROMAM B16 MTL R161 AMFOU A3 MIRSA L127 ELB
+TIX2092    LIRS    LSGG    dct-298nm    FL-300    BAMVU Y99 GILIO M729 TONDA/F220 M729 AOSTA L615 BANKO
+TIX2092    LIRS    LSGG    dct-298nm    FL-180    UPADU L127 MIRSA A3 RUBIT G7 MTG A6 MTL B16 BELUS
+TIX2092    LIRS    LSGG    dct-298nm    FL-100    UPADU L127 MIRSA A3 RUBIT G7 MTG A6 MTL B16 BELUS
+----------------------------------------------
+----------------------------------------------
+TIM2101    LSGG    LOWI    dct-225nm    FL-310    MOLUS UN871 DITON/F250 UN871 MADEB
+TIM2102    LOWI    LSGG    dct-225nm    FL-300    MOGTI UP66 KPT UL856 TRA Z69 OLBEN UN869 BENOT
+----------------------------------------------
+----------------------------------------------
+TIM2111    LSZH    LOWW    dct-327nm    FL-310    DEGES Z2 UMVEG ABTAN
+TIM2112    LOWW    LSZH    dct-327nm    FL-aut    SOVIL SITNI BAGSI MATIG TRAUN UL856 NEGRA
+----------------------------------------------
+----------------------------------------------
+TIM2121    LSZH    EDDF    dct----nm    FL----
+TIM2122    EDDF    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM2131    LSZH    EDDH    dct----nm    FL----
+TIM2132    EDDH    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM2141    LSGG    EDDK    dct----nm    FL----
+TIM2142    EDDK    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM2151    LSZH    EDDL    dct----nm    FL----
+TIM2152    EDDL    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM2161    LSGG    EDDM    dct----nm    FL----
+TIM2162    EDDM    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM2171    LSGG    EDDS    dct----nm    FL----
+TIM2172    EDDS    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM2181    LSGG    EDDT    dct----nm    FL----
+TIM2181    EDDT    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM3001    LSZH    EGAA    dct----nm    FL----
+TIM3002    EGAA    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM3011    LSGG    EGAC    dct----nm    FL----
+TIM3012    EGAC    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM3021    LSGG    EGBB    dct-484nm    FL-aut    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UM976 ABNUR UT10 ALESO T420 BUZAD
+TIM3021    LSGG    EGBB    dct-484nm    FL-aut    SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UM976 ABNUR UT10 ALESO T420 BUZAD
+TIM3022    EGBB    LSGG    dct-484nm    FL-aut    ADMEX Y321 EMKUK UL612 COWLY UQ70 BIG UL9 KONAN UL607 KOK UM150 DIK UN852 TIRSO UZ24 AKITO
+----------------------------------------------
+----------------------------------------------
+TIX3031    LSGG    EGCB    dct-545nm    FL-180    DIPIR B37 DJL A6 SOMDA T11 VATRI B3 RINTI L10 LAM N57 WELIN T420 TNT
+TIX3031    LSGG    EGCB    dct-545nm    FL-180    SIROD  A1 DJL A6 SOMDA T11 VATRI B3 RINTI L10 LAM N57 WELIN T420 TNT
+TIX3031    LSGG    EGCB    dct-545nm    FL-100    DIPIR B37 DJL A6 SOMDA B13 ARSIL G40 VATRI B3 RINTI L10 DVR L6 DET WELIN N57 TIPIL
+TIX3031    LSGG    EGCB    dct-545nm    FL-100    SIROD  A1 DJL A6 SOMDA B13 ARSIL G40 VATRI B3 RINTI L10 DVR L6 DET WELIN N57 TIPIL
+TIX3032    EGCB    LSGG    dct-545nm    FL--90    NUGRA Y53 PEDIG M605 DTY L10 BPK N601 DET L6 DVR L10 RINTI B3 VATRI G40 ARSIL B13 SOMDA A6 DJL
+TIX3032    EGCB    LSGG    dct-545nm    FL-190    NUGRA Y53 PEDIG M605 DTY L10 BPK N601 DET MOZ RINTI B3 VATRI T11 SOMDA A6 DJL
+----------------------------------------------
+----------------------------------------------
+TIM3041    LSZH    EGCC    dct-545nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613 SANDY UN57 WELIN T420 TNT
+TIM3042    EGCC    LSZH    dct-545nm    FL-aut    LISTO L612 HON UL15 BIG UL9 KONAN UL607 KOK UM150 DIK UN852 GTQ UT27 BLM
+----------------------------------------------
+----------------------------------------------
+TIM3051    LSZH    EGGD    dct-500nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613 DIDOR UT10 IRBAL UT421 BIG UL9 CPT
+TIM3052    EGGD    LSZH    dct-500nm    FL-aut    WOTAN GAVGO UL18 MID UL612 RESMI UN491 MELKO UM606 BLM
+----------------------------------------------
+----------------------------------------------
+TIM3061    LSZH    EGGP    dct-561nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613 SANDY UN57 WELIN T420 TNT
+TIM3062    EGGP    LSZH    dct-561nm    FL-aut    NANTI L8 HON UL15 BIG UL9 KONAN UL607 KOK UM150 DIK UN852 GTQ UT27 BLM
+----------------------------------------------
+----------------------------------------------
+TIM3071    LSGG    EGHI    dct-410nm    FL-320    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 SUBIP M8 ELDAX
+TIM3071    LSGG    EGHI    dct-410nm    FL-320    SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 SUBIP M8 ELDAX
+TIM3072    EGHI    LSGG    dct-410nm    FL-aut    GWC BENBO UL612 RESMI UM975 PILUL/M070F230 UM975 LUSAR
+----------------------------------------------
+----------------------------------------------
+TIM3081    LSGG    EGKK    dct-386nm    FL-aut    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 PIREG UT421 KUNAV
+TIM3081    LSGG    EGKK    dct-386nm    FL-aut    SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 PIREG UT421 KUNAV
+TIM3082    EGKK    LSGG    dct-386nm    FL-aut    BOGNA UL612 RESMI UM975 PILUL/N0400F230 UM975 LUSAR
+----------------------------------------------
+----------------------------------------------
+TIM3091    LSGG    EGLC    dct-396nm    FL-340    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 VESAN UL613 SOVAT
+TIM3091    LSGG    EGLC    dct-396nm    FL-340    SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 VESAN UL613 SOVAT
+TIM3092    EGLC    LSGG    dct-396nm    FL-aut    EKNIV M91 LYD UM189 HAWKE UL612 RESMI UM975 PILUL/F230 UM975 LUSAR
+----------------------------------------------
+----------------------------------------------
+TIM3101    LSZH    EGLL    dct-426nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613 DIDOR UT10 ALESO
+TIM3102    EGLL    LSZH    dct-426nm    FL-230    BPK N601 DET/F310 UL6 DVR UL9 KONAN UL607 KOK UM150 DIK UN852 GTQ UT27 BLM
+----------------------------------------------
+----------------------------------------------
+TIM3161    LSZH    EGSS    dct-419nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613 DIDOR UT10 IRBAL UT421 PIREG UM733 BANVA
+TIM3162    EGSS    LSZH    dct-419nm    FL-aut    CLN UM84 KONAN UL607 KOK UM150 DIK UN852 GTQ UT27 BLM
+----------------------------------------------
+----------------------------------------------
+TIM3111    LSZH    EGPD    dct----nm    FL----
+TIM3112    EGPD    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM3121    LSZH    EGPF    dct----nm    FL----
+TIM3122    EGPF    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM3131    LSGG    EGPK    dct----nm    FL----
+TIM3132    EGPK    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM3141    LSGG    EGPH    dct----nm    FL----
+TIM3142    EGPH    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM3151    LSZH    EGSH    dct----nm    FL----
+TIM3152    EGSH    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4001    LSZH    BIKF    dct1424nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613 TLA UN601 STN N610 RATSU NASBU
+TIM4002    BIKF    LSZH    dct1424nm    FL-aut    OSKUM RATSU N610 RUGID UP59 NEXUS N96 ROKAN M982 TOPPA SPY UN852 GTQ UT27 BLM
+----------------------------------------------
+----------------------------------------------
+TIM4011    LSGG    EBBR    dct-287nm    FL-240    ARBOS UL47 EPL UM624 DIK UN852 LNO
+TIM4012    EBBR    LSGG    dct-287nm    FL-230    ROUSY UT27 GTQ UN852 TIRSO UZ24 AKITO
+----------------------------------------------
+----------------------------------------------
+TIM4021    LSZH    EBCI    dct-242nm    FL-aut    VEBIT T51 LASUN UT10 TORPA UM624 DIK UY37 BATTY
+TIM4022    EBCI    LSZH    dct-242nm    FL-aut    RITAX UT27 BLM
+----------------------------------------------
+----------------------------------------------
+TIM4031    LSZH    EFHK    dct----nm    FL----
+TIM4032    EFHK    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4041    LSGG    EFRO    dct1374nm    FL-aut    MOLUS UN871 DITON T163 ZUE T125 ROMIR UN851 MAKEL N851 RIKUM Y370 RUBSI T95 NEPIX
+TIM4042    EFRO    LSGG    dct1374nm    FL-aut    OLNOP T404 VERAG T402 GOLMI N850 BAGOS UN850 KRH/M070F300 UN850 NATOR UN869 BENOT
+----------------------------------------------
+----------------------------------------------
+TIM4051    LSGG    EHAM    dct-368nm    FL-aut    ARBOS UL47 EPL UM624 BUB UY28 HELEN
+TIM4052    EHAM    LSGG    dct-368nm    FL-330    LOPIK UN852 ARPUS UZ24 AKITO
+----------------------------------------------
+----------------------------------------------
+TIM4061    LSGG    EIDW    dct-644nm    FL-aut    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 VESAN UL613 SANDY UL15 BIG UL9 STU M17 VATRY
+TIM4061    LSGG    EIDW    dct-644nm    FL-aut    SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 VESAN UL613 SANDY UL15 BIG UL9 STU M17 VATRY
+TIM4062    EIDW    LSGG    dct-644nm    FL-aut    PESIT BAKUR N546 STU UP2 NIGIT UL18 MID UL612 RESMI UM975 PILUL/F230 UM975 LUSAR
+----------------------------------------------
+----------------------------------------------
+TIM4071    LSZH    EKCH    dct----nm    FL----
+TIM4072    EKCH    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4081    LSGG    ELLX    dct----nm    FL----
+TIM4082    ELLX    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4091    LSGG    ENBR    dct----nm    FL----
+TIM4092    ENBR    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4101    LSZH    ENGM    dct----nm    FL----
+TIM4102    ENGM    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4111    LSGG    ENSB    dct1938nm    FL-aut    ARBOS UL47 EPL UM624 DIK UN852 SPY UZ704 AMADA Z704 PIPEX OMEXA M604 ATSOT
+TIM4112    ENSB    LSGG    dct1938nm    FL-aut    INPAR M604 OMEXA ALASA UP615 LBV UL126 WRB UN850 KRH/N0400F300 UN850 NATOR UN869 BENOT
+----------------------------------------------
+----------------------------------------------
+TIM4121    LSGG    EPKK    dct-595nm    FL-aut    MOLUS UN871 GAMSA BADVI UN871 BEPAS T709 SOPAV L984 PADKA
+TIM4122    EPKK    LSGG    dct-595nm    FL-280    TUSIN M984 HLV/N0400F340 M984 MIKOV ERANI ERKIR UL608 KPT UL856 TRA Z69 OLBEN UN869 BENOT
+----------------------------------------------
+----------------------------------------------
+TIM4131    LSZH    EPWA    dct-558nm    FL-aut    DEGES Z1 ETAGO HAREM UN851 LOHRE UL984 KOMIB PEROX GOVEN ADVAB P150 BIMPA
+TIM4132    EPWA    LSZH    dct-558nm    FL-aut    EVINA N744 TUSIN M984 MIKOV ERANI ERKIR UL608 KPT UL856 NEGRA
+----------------------------------------------
+----------------------------------------------
+TIM4141    LSZH    ESSA    dct----nm    FL----
+TIM4142    ESSA    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4151    LSGG    ESSB    dct----nm    FL----
+TIM4152    ESSB    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4161    LSZH    ESGG    dct----nm    FL----
+TIM4162    ESGG    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4171    LSGG    GCFV    dct----nm    FL----
+TIM4172    GCFV    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4181    LSGG    GCLA    dct----nm    FL----
+TIM4182    GCLA    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4191    LSZH    GCLP    dct----nm    FL----
+TIM4192    GCLP    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4201    LSZH    GCTS    dct----nm    FL----
+TIM4202    GCTS    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4211    LSGG    GCXO    dct----nm    FL----
+TIM4212    GCXO    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4231    LSZH    LCLK    dct----nm    FL----
+TIM4232    LCLK    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4241    LSGG    LEBL    dct-344nm    FL-330    BALSI UY16 MTL UZ38 PPG UP84 ALBER
+TIM4242    LEBL    LSGG    dct-344nm    FL-340    DALIN UN870 MAXIR UN853 OKTET/F280 UN853 KINES
+----------------------------------------------
+----------------------------------------------
+TIM4251    LSZH    LEIB    dct----nm    FL----
+TIM4252    LEIB    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4261    LSZH    LEPA    dct----nm    FL----
+TIM4262    LEPA    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4271    LSGG    LGKR    dct----nm    FL----
+TIM4272    LGKR    LSGG    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4281    LSZH    LPFR    dct----nm    FL----
+TIM4282    LPFR    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4291    LSZH    LPMA    dct----nm    FL----
+TIM4292    LPMA    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4301    LSZH    ULLI    dct----nm    FL----
+TIM4302    ULLI    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4311    LSZH    UUEE    dct1181nm    FL-aut    DEGES Z2 XEBIX UN871 BEPAS N871 POLON M863 MNS T52 MOSON L158 FK
+TIM4312    UUEE    LSZH    dct1181nm    FL-aut    BG L29 TU N869 OKG UN869 TEDGO T724 RILAX
+----------------------------------------------
+----------------------------------------------
+TIM4321    LSGG    UUWW    dct1295nm    FL-aut    MOLUS UN871 GAMSA BADVI UN871 BEPAS N871 POLON M863 MNS T52 MOSON L158 FK
+TIM4322    UUWW    LSGG    dct1295nm    FL-aut    BG L29 TU N869 OKG UN869 TEDGO/M080F300 UN869 BENOT
+----------------------------------------------
+----------------------------------------------
+TIM5001    KLAS    KBUR    dct-194nm    FL-240    BOACH8 WHIGG KREME JANNY4
+TIM5002    KBUR    KLAS    dct-194nm    FL-250    SLAPP1    MISEN    KEPEC6
+----------------------------------------------
+----------------------------------------------
+TIM5011    KLAS    KLAX    dct-205nm    FL-300    BOACH8 RIKII SHTNR ANJLL3
+TIM5011    KLAS    KLAX    dct-205nm    FL-300    BOACH8 RIKII SHTNR MDNYT2
+TIM5012    KLAX    KLAS    dct-205nm    FL-290    ORCKA3    MISEN    KEPEC6
+TIM5012    KLAX    KLAS    dct-205nm    FL-290    GARDY3    MISEN    KEPEC6
+----------------------------------------------
+----------------------------------------------
+TIM5021    KLAS    KSAN    dct-225nm    FL-300    BOACH8          LVELL          LUCKI1
+TIM5021    KLAS    KSAN    dct-225nm    FL-300    BOACH8     LVELL Q73 MOMAR     TOPGN2
+TIM5022    KSAN    KLAS    dct-225nm    FL-290    PADRZ2 CHKNN SEBBY YELAH MISEN KEPEC6
+TIM5022    KSAN    KLAS    dct-225nm    FL-290    ECHHO2 SLI       POM       DAG CLARR3
+----------------------------------------------
+----------------------------------------------
+TIM5031    KLAS    KSNA    dct-197nm    FL-280    BOACH8 WHIGG FEYLA DSNEE3
+TIM5031    KLAS    KSNA    dct-197nm    FL-280    BOACH8 WHIGG FEYLA ROOBY3
+TIM5032    KSNA    KLAS    dct-197nm    FL-250    FINZZ2    MISEN    KEPEC6
+TIM5032    KSNA    KLAS    dct-197nm    FL-250    HOBOW2    MISEN    KEPEC6
+----------------------------------------------
+----------------------------------------------
+TIM5041    KLAX    KPSP    dct--95nm    FL-110    LAXX1 TRM
+TIM5042    KPSP    KLAX    dct--95nm    FL-120    PSP V388 LENHO SEAVU SEAVU2
+TIM5042    KPSP    KLAX    dct--95nm    FL-120    PSP V388 ACINS V283 SLI V8 TANDY
+----------------------------------------------
+----------------------------------------------
+TIM5051    KLAX    KSAN    dct--95nm    FL-110    LAXX1  MZB
+TIM5052    KSAN    KLAX    dct--95nm    FL-100    CWARD2 SLI
+TIM5052    KSAN    KLAX    dct--95nm    FL-100    CWARD2 CWARD AVOLS SXC TANDY
+TIM5051    KLAX    KSAN    dct--95nm    FL-110    LAXX1  SLI       ALBAS V25 REDIN V165 SARGS
+TIM5051    KLAX    KSAN    dct--95nm    FL-110    LAXX1  SLI BAYER PACIF V25 REDIN V165 SARGS
+TIM5051    KLAX    KSAN    dct--95nm    FL-110    LAXX1  SLI BAYER PACIF V208 HUBRD CARDI MZB
+----------------------------------------------
+----------------------------------------------
+TIM5061    KLAX    KSBA    dct--77nm    FL-100    VTU8  VTU KWANG
+TIM5062    KSBA    KLAX    dct--77nm    FL-110    KWANG VTU V299 SADDE V107 SMO
+TIM5062    KSBA    KLAX    dct--77nm    FL--70    KWANG VTU V25 EXERT
+----------------------------------------------
+----------------------------------------------
+TIX5071    KPSP    KSBA    dct-170nm    FL-120    PSP V388 DEWAY POM VNY V186 DEANO V27 KWANG
+TIX5072    KSBA    KPSP    dct-170nm    FL-110    FIM V186 ITSME V264 POM V197 PDZ V186 NIKKL V64 TRM PSP
+----------------------------------------------
+----------------------------------------------
+TIX5081    KPSP    KSBP    dct-222nm    FL-120    PSP V386 RZS MQO
+TIX5081    KPSP    KSBP    dct-222nm    FL-120    PSP V386 RZS CADAB
+TIM5081    KPSP    KSBP    dct-222nm    FL-300    PSP V386 PMD FIM RZS MQO
+TIM5081    KPSP    KSBP    dct-222nm    FL-300    PSP V386 PMD FIM RZS CADAB
+TIX5082    KSBP    KPSP    dct-222nm    FL-110    RZS V386 FIM V186 ITSME V264 POM V197 PDZ V186 NIKKL V64 TRM PSP
+TIM5082    KSBP    KPSP    dct-222nm    FL-290    SIZLR SIZLR3
+----------------------------------------------
+----------------------------------------------
+TIM5091    KSNA    KSBA    dct-108nm    FL-100    SXC V208 VTU KWANG
+TIM5092    KSBA    KSNA    dct-108nm    FL-110    KWANG VTU V208 SXC SLI
+----------------------------------------------
+----------------------------------------------
+TIM5101    KPDX    KPUW    dct-239nm    FL-290    LAVAA6 PDT PUW
+TIM5102    KPUW    KPDX    dct-239nm    FL-300    PDT JKNOX HHOOD4
+----------------------------------------------
+----------------------------------------------
+TIM5111    KPDX    KSEA    dct-112nm    FL-200    COUGA        KRIEG HAWKZ6
+TIM5112    KSEA    KPDX    dct-112nm    FL-170    SEA          BUWZO KRATR2
+TIM5112    KSEA    KPDX    dct-112nm    FL-170    OZWLD1 OZWLD BUWZO KRATR2
+----------------------------------------------
+----------------------------------------------
+TIM5121    KPDX    KSFO    dct-478nm    FL-aut    MINNE5 FAMUK Q3 FOWND MLBEC BDEGA2
+TIM5122    KSFO    KPDX    dct-478nm    FL-aut    TRUKN2 GRTFL          MACHU TMBRS2
+TIM5122    KSFO    KPDX    dct-478nm    FL-aut    CIITY3 GRTFL          MACHU TMBRS2
+----------------------------------------------
+----------------------------------------------
+TIM5131    KPDX    KSLC    dct-547nm    FL-aut    WHAMY4 IMB J15 BOI BYI SKEES5
+TIM5132    KSLC    KPDX    dct-547nm    FL-aut    CGULL1 TWF BROPH JOTBA HHOOD4
+----------------------------------------------
+----------------------------------------------
+TIM5141    KSAC    KPUW    dct-530nm    FL-aut    SAC J65 RBL J3 IMB PDT V536 PUW
+TIM5142    KPUW    KSAC    dct-530nm    FL-aut    PUW V536 PDT IMB J3 RBL J65 SAC
+----------------------------------------------
+----------------------------------------------
+TIM5151    KSFO    KPHX    dct-566nm    FL-aut    SSTIK3 LOSHN BOILE BLH HYDRR1
+TIM5151    KSFO    KPHX    dct-566nm    FL-aut    WESLA3 LOSHN BOILE BLH HYDRR1
+TIM5252    KPHX    KSFO    dct-566nm    FL-aut    KEENS2 HRRBR CURIV J212 DECAS PMD AVE MAKRS SERFR SERFR3
+TIM5252    KPHX    KSFO    dct-566nm    FL-aut    KEENS2 HRRBR CURIV J212 DECAS PMD AVE MAKRS SERFR WWAVS1
+----------------------------------------------
+----------------------------------------------
+TIM5161    KSFO    KSLC    dct-520nm    FL-aut    TRUKN2 MOGEE Q124 BVL WAATS5
+TIM5161    KSFO    KSLC    dct-520nm    FL-aut    CIITY3 MOGEE Q124 BVL WAATS5
+TIM5262    KSLC    KSFO    dct-520nm    FL-aut    DEZRT1 BAM  LLC LEGGS BDEGA2
+----------------------------------------------
+----------------------------------------------
+TIM5201    KABQ    KDEN    dct-285nm    FL-aut    JEMEZ3 JEMEZ BRAZO PEEKK3
+TIM5201    KABQ    KDEN    dct-285nm    FL-aut    JEMEZ3 JEMEZ BRAZO LDORA2
+TIM5201    KABQ    KDEN    dct-285nm    FL-aut    ATOMK3 ATOMK BRAZO PEEKK3
+TIM5201    KABQ    KDEN    dct-285nm    FL-aut    ATOMK3 ATOMK BRAZO LDORA2
+TIM5202    KDEN    KABQ    dct-285nm    FL-aut    SPAZZ3 ZAPAA DATME SNDIA3
+----------------------------------------------
+----------------------------------------------
+TIM5211    KABQ    KPHX    dct-285nm    FL-aut    RDRNR3    ZUN    EAGUL6
+TIM5211    KABQ    KPHX    dct-285nm    FL-aut    ADYOS3    ZUN    EAGUL6
+TIM5212    KPHX    KABQ    dct-285nm    FL-aut    FORPE1 SJN CABNO KRKEE3
+----------------------------------------------
+----------------------------------------------
+TIM5221    KABQ    KSLC    dct-428nm    FL-aut    JEMEZ3 JEMEZ RSK J15 JNC J12 HELPR LEEHY5
+TIM5221    KABQ    KSLC    dct-428nm    FL-aut    ATOMK3 ATOMK RSK J15 JNC J12 HELPR LEEHY5
+TIM5222    KSLC    KABQ    dct-428nm    FL-aut    ZIONZ1 EYELO             RSK ROSEI LOWBO3
+TIM5222    KSLC    KABQ    dct-428nm    FL-aut    RUGGD1 MTU       JNC J15 RSK ROSEI LOWBO3
+----------------------------------------------
+----------------------------------------------
+TIX5231    KAQB    KTEX    dct-186nm    FL-240    JEMEZ3 JEMEZ RSK ETL
+TIX5231    KAQB    KTEX    dct-186nm    FL-240    ATOMK3 ATOMK RSK ETL
+TIX5232    KTEX    KABQ    dct-186nm    FL-250    ETL   FRIHO   FRIHO4
+----------------------------------------------
+----------------------------------------------
+TIM5241    KDEN    KEGE    dct-105nm    FL-160    FOOOT3 RLG
+TIM5242    KEGE    KDEN    dct-105nm    FL-210    GYPSM5 RLG FRNCH FRNCH3
+TIM5242    KEGE    KDEN    dct-105nm    FL-210    GYPSM5 RLG FRNCH KAILE2
+----------------------------------------------
+----------------------------------------------
+TIM5251    KDEN    KJAC    dct-353nm    FL-aut    YAMMI3 LAR DNW JAC
+TIM5252    KJAC    KDEN    dct-353nm    FL-aut    ALPIN2 SWEAT CKW MOLTN3
+TIM5252    KJAC    KDEN    dct-353nm    FL-aut    ALPIN2 SWEAT CKW TSHNR3
+----------------------------------------------
+----------------------------------------------
+TIM5261    KDEN    KSLC    dct-340nm    FL-aut    FOOOT3 RLG   EKR LEEHY5
+TIM5262    KSLC    KDEN    dct-340nm    FL-aut    RUGGD1 PERTY CHE FRNCH3
+TIM5262    KSLC    KDEN    dct-340nm    FL-aut    RUGGD1 PERTY CHE KAILE2
+----------------------------------------------
+----------------------------------------------
+TIM5271    KPHX    KSLC    dct-441nm    FL-aut    QUAKY1 GCN         BCE DELTA5
+TIM5271    KPHX    KSLC    dct-441nm    FL-aut    QUAKY1 GCN         BCE QWENN5
+TIM5272    KSLC    KPHX    dct-441nm    FL-aut    ZIONZ1 BCE CORKR TENTS BRUSR1
+TIM5272    KSLC    KPHX    dct-441nm    FL-aut    ARCHZ1 MLF CORKR TENTS BRUSR1
+----------------------------------------------
+----------------------------------------------
+TIM5281    KSLC    KASE    dct-254nm    FL-aut    RUGGD1 EKR   TRUEL DBL
+TIM5282    KASE    KSLC    dct-254nm    FL-aut    LINDZ JNC HELPR LEEHY5
+----------------------------------------------
+----------------------------------------------
+TIM5291    KSLC    KPUW    dct-421nm    FL-aut    CGULL1 TWF J12 DNJ MQG PUW
+TIM5292    KPUW    KSLC    dct-421nm    FL-aut    PUW MQG DNJ J20 PIH SKEES5
+----------------------------------------------
+----------------------------------------------
+TIM5301    KABQ    KDFW    dct-494nm    FL-aut    MNZNO3 TXO       TURKI VKTRY2
+TIM5301    KABQ    KDFW    dct-494nm    FL-aut    MNZNO3 TXO       TURKI JOVEM4
+TIM5301    KABQ    KDFW    dct-494nm    FL-aut    DOOKK3 TXO       TURKI VKTRY2
+TIM5301    KABQ    KDFW    dct-494nm    FL-aut    DOOKK3 TXO       TURKI JOVEM4
+TIM5312    KDFW    KABQ    dct-494nm    FL-aut    HRPER3 HULZE TXO RECKN COLTR3
+----------------------------------------------
+----------------------------------------------
+TIM5311    KABQ    KSNA    dct-565nm    FL-aut    RDRNR3 ZUN J6 DRK          HIMDU DSNEE3
+TIM5311    KABQ    KSNA    dct-565nm    FL-aut    RDRNR3 ZUN J6 DRK          HIMDU ROOBY3
+TIM5311    KABQ    KSNA    dct-565nm    FL-aut    ADYOS3 ZUN J6 DRK          HIMDU DSNEE3
+TIM5311    KABQ    KSNA    dct-565nm    FL-aut    ADYOS3 ZUN J6 DRK          HIMDU ROOBY3
+TIM5312    KSNA    KABQ    dct-565nm    FL-aut    PIGGN2 CNERY BLH GRDNR BXK CABNO KRKEE3
+----------------------------------------------
+----------------------------------------------
+TIM5321    KDFW    KAUS    dct-165nm    FL-240    JASPA5    WINDU    SEWZY4
+TIM5322    KAUS    KDFW    dct-165nm    FL-250    ELOEL2 FORSS GUTZZ BOOVE4
+TIM5322    KAUS    KDFW    dct-165nm    FL-250    ELOEL2 FORSS GUTZZ SOCKK3
+----------------------------------------------
+----------------------------------------------
+TIM5331    KDFW    KTLH    dct-666nm    FL-aut    MRSSH2 ZALEA SWB MCB J50 CEW MAI
+TIM5332    KTLH    KDFW    dct-666nm    FL-aut    DEFUN CEW J50 AEX   PNUTS BEREE1
+TIM5332    KTLH    KDFW    dct-666nm    FL-aut    DEFUN CEW J50 AEX   PNUTS WHINY4
+TIM5332    KTLH    KDFW    dct-666nm    FL-aut    SZW J20 EIC         SEEVR SEEVR4
+TIM5332    KTLH    KDFW    dct-666nm    FL-aut    SZW J20 EIC         SEEVR BRDJE3
+----------------------------------------------
+----------------------------------------------
+TIM5341    KLAX    KDCA    dct2008nm    FL-aut    ORCKA3 LAS J146 GLD J192 PWE LMN J64 FWA J178 APE AIR J34 BUCKO FRDMM4
+TIM5341    KLAX    KDCA    dct2008nm    FL-aut    GARDY3 LAS J146 GLD J192 PWE LMN J64 FWA J178 APE AIR J34 BUCKO FRDMM4
+TIM5342    KDCA    KLAX    dct2008nm    FL-aut    REBLL4 OTTTO      COLNS J134 HNN J134 DRK J231 HIPPI      GABBL HLYWD1
+----------------------------------------------
+----------------------------------------------
+TIM5351    KLAX    KSFO    dct-293nm    FL-aut    SUMMR1 STOKD SERFR SERFR3
+TIM5351    KLAX    KSFO    dct-293nm    FL-aut    SUMMR1 STOKD SERFR WWAVS1
+TIM5351    KLAX    KSFO    dct-293nm    FL-aut    TRTON2 STOKD SERFR SERFR3
+TIM5351    KLAX    KSFO    dct-293nm    FL-aut    TRTON2 STOKD SERFR WWAVS1
+TIM5352    KSFO    KLAX    dct-293nm    FL-aut    SSTIK3 EBAYE BURGL IRNMN2
+TIM5352    KSFO    KLAX    dct-293nm    FL-aut    WESLA3 EBAYE BURGL IRNMN2
+----------------------------------------------
+----------------------------------------------
+TIM5361    KLAX    KSLC    dct-512nm    FL-aut    ORCKA3 BEALE Q842 WINEN  MLF DELTA5
+TIM5361    KLAX    KSLC    dct-512nm    FL-aut    ORCKA3 BEALE Q842 WINEN  MLF QWENN5
+TIM5361    KLAX    KSLC    dct-512nm    FL-aut    GARDY3 BEALE Q842 WINEN  MLF DELTA5
+TIM5361    KLAX    KSLC    dct-512nm    FL-aut    GARDY3 BEALE Q842 WINEN  MLF QWENN5
+TIM5362    KSLC    KLAX    dct-512nm    FL-aut    ZIONZ1 EHK   LAKRR Q88 HAKMN ANJLL3
+TIM5362    KSLC    KLAX    dct-512nm    FL-aut    ARCHZ1 WINEN LAKRR Q88 HAKMN ANJLL3
+----------------------------------------------
+----------------------------------------------
+TIM5371    KSLC    KTPA    dct1640nm    FL-aut    RUGGD1 EKR     WENIL RZC IGB MGM     SZW FOOXX4
+TIM5372    KTPA    KSLC    dct1640nm    FL-aut    ENDED7 SZW MEI SQS FSM PER PUB JNC HELPR LEEHY5
+----------------------------------------------
+----------------------------------------------
+TIM5381    PAJN    KDPX    dct-884nm    FL-aut    JNU5 LVD J502 SEA HELNS6
+TIM5382    KPDX    PAJN    dct-884nm    FL-aut    LAVAA6 YKM J20 SEA J523 YZT J502 SSR
+----------------------------------------------
+----------------------------------------------
+TIM5391    PAJN    PANC    dct-496nm    FL-aut    ASORT2 ASORT J541 YAK J501 JOH WITTI4
+TIM5392    PANC    PAJN    dct-496nm    FL-aut    JOH J501 YAK J541 SSR
+----------------------------------------------
+----------------------------------------------
+TIM5401    KBOS    KBWI    dct-321nm    FL-aut    PATSS5 PATSS NELIE CMK J75 MXE NUGGY TRISH3
+TIM5402    KBWI    KBOS    dct-321nm    FL-aut    SWANN3 OOD J42 RBV J222 JFK ROBUC3
+----------------------------------------------
+----------------------------------------------
+TIM5411    KBOS    KDCA    dct-347nm    FL-aut    PATSS5 PATSS      NELIE CMK J75 MXE CLIPR2
+TIM5412    KDCA    KBOS    dct-347nm    FL-aut    SOOKI4 SWANN BROSS J42 RBV J222 JFK ROBUC3
+----------------------------------------------
+----------------------------------------------
+TIM5421    KBOS    KJFK    dct-162nm    FL-220    SSOXS5 SSOXS BUZRD SEY PARCH2
+TIM5422    KJFK    KBOS    dct-162nm    FL-210                     MERIT ROBUC3
+----------------------------------------------
+----------------------------------------------
+TIM5431    KDAB    KCUB    dct-287nm    FL-aut    ROYES7 CRG J51 SAV
+TIM5432    KCUB    KDAB    dct-287nm    FL-aut    CAE J51 SAV J103 OMN
+----------------------------------------------
+----------------------------------------------
+TIM5441    KDAB    KEWR    dct-768nm    FL-aut    ROYES7 CRG J51 SAV J55 FLO J207 RDU J55 HPW J191 PXT PHLBO3
+TIM5442    KEWR    KDAB    dct-768nm    FL-aut    ELVAE COL WHITE J209 SBY J79 OMN
+----------------------------------------------
+----------------------------------------------
+TIM5451    KDAB    KMIA    dct-207nm    FL-300    LAMMA7 BITHO       TRV ANNEY4
+TIM5452    KMIA    KDAB    dct-207nm    FL-290    HEDLY2 HEDLY PHK TRV V3 SMYRA
+----------------------------------------------
+----------------------------------------------
+TIM5461    KDCA    KLGA    dct-186nm    FL-250    DOCTR4 AGARD KORRY4
+TIM5462    KLGA    KDCA    dct-186nm    FL-240    BIGGY J75 MXE CLIPR2
+----------------------------------------------
+----------------------------------------------
+TIM5471    KMIA    KEYW    dct-109nm    FL-160    MNATE2 MNATE JANKA
+TIM5472    KEYW    KMIA    dct-109nm    FL-150    CARNU DVALL CURSO5
+----------------------------------------------
+----------------------------------------------
+TIM5481    KMIA    KTPA    dct-177nm    FL-250    GANDY7 SABEE   BAARY SSCOT4
+TIM5482    KTPA    KMIA    dct-177nm    FL-240    WINCO2 WINCO J43 LBV DEAKK5
+----------------------------------------------
+----------------------------------------------
+TIM5491    KTLH    KTPA    dct-174nm    FL-270    HEVVN FOOXX4
+TIM5492    KTPA    KTLH    dct-174nm    FL-240    ENDED7 SZW
+----------------------------------------------
+----------------------------------------------
+TIM5501    KMIA    MKJP    dct-509nm    FL-aut    EONNS2 EONNS A509 URSUS UA301 SAVEM
+TIM5502    MKJP    KMIA    dct-509nm    FL-aut    RADOK UL417 BORDO      FOWEE FLIPR5
+----------------------------------------------
+----------------------------------------------
+TIM5511    KMIA    MKJS    dct-456nm    FL-aut    EONNS2 EONNS A509 URSUS UL780 TASNO UM795 NIBEO UL341 ENARI
+TIM5512    KMJS    KMIA    dct-456nm    FL-aut    SEKAM G430 PUTUL UG430 UCA UA301 URSUS FLIPR5
+----------------------------------------------
+----------------------------------------------
+TIM5521    KMIA    MWCR    dct-393nm    FL-aut    MNATE2 MNATE Y442 FUNDI UZ465 ALVEK UM328 UCL UG448 ATUVI
+TIM5522    MWCR    KMIA    dct-393nm    FL-aut    RIKEL G877 UCL UG448 IKBIX Y183 PEAKY        DVALL CURSO5
+TIM5522    MWCR    KMIA    dct-393nm    FL-aut    ATUVI          UG448 IKBIX Y183 PEAKY        DVALL CURSO5
+----------------------------------------------
+----------------------------------------------
+TIM5531    KMIA    MYNN    dct-160nm    FL-250    SKIPS2 SKIPS BR53V RAJAY
+TIM5532    MYNN    KMIA    dct-160nm    FL-240    NICKO BR49V FOWEE FLIPR5
+----------------------------------------------
+----------------------------------------------
+TIM5541    KMIA    TNCM    dct1063nm    FL-aut    SKIPS2 SKIPS BR53V RAJAY A555 DDP G633 COY R760 GOUDA
+TIM5542    TNCM    KMIA    dct1063nm    FL-aut    JUICE B520 STT RTE6 ROBLL Y587 COZIE     FOWEE FLIPR5
+----------------------------------------------
+----------------------------------------------
+TIM5551    TNCM    TIST    dct-108nm    FL-160    JUICE B520 STT
+TIM5552    TIST    TNCM    dct-108nm    FL-210    STT A638 SLUGO
+----------------------------------------------
+----------------------------------------------
+TIM5561    TNCM    TLPL    dct-286nm    FL-aut    ELOPO UB520 ANU UA312 FOF A324 KISES
+TIM5562    TLPL    TNCM    dct-286nm    FL-aut    KISES A324 FOF UA312 ANU UB520 ELOPO
+----------------------------------------------
+----------------------------------------------
+TIM5571    TNCM    TNCB    dct-463nm    FL-aut    DANDE A516 MILOK UA516 SINDA
+TIM5572    TNCB    TNCM    dct-463nm    FL-aut    SINDA UA516 MILOK A516 DANDE
+----------------------------------------------
+----------------------------------------------
+.
