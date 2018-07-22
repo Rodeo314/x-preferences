@@ -470,18 +470,20 @@ TIX5232    KTEX    KABQ    dct-186nm    FL-250    ETL   FRIHO   FRIHO4
 ----------------------------------------------
 ----------------------------------------------
 TIM5241    KDEN    KEGE    dct-105nm    FL-160    FOOOT3 RLG
-TIM5242    KEGE    KDEN    dct-105nm    FL-210    GYPSM5 RLG FRNCH FRNCH3
 TIM5242    KEGE    KDEN    dct-105nm    FL-210    GYPSM5 RLG FRNCH KAILE2
+TIM5242    KEGE    KDEN    dct-105nm    FL-210    GYPSM5 RLG FRNCH FRNCH3
 ----------------------------------------------
 ----------------------------------------------
-TIM5251    KDEN    KJAC    dct-353nm    FL-aut    YAMMI3 LAR DNW JAC
-TIM5252    KJAC    KDEN    dct-353nm    FL-aut    ALPIN2 SWEAT CKW MOLTN3
-TIM5252    KJAC    KDEN    dct-353nm    FL-aut    ALPIN2 SWEAT CKW TSHNR3
+TIM5251    KDEN    KJAC    dct-353nm    FL-aut    YAMMI3 LAR                DNW JAC
+TIM5252    KJAC    KDEN    dct-353nm    FL-aut    ALPIN2 KICNE     OCS GWEDO KAILE2
+TIM5252    KJAC    KDEN    dct-353nm    FL-aut    ALPIN2 KICNE     OCS GWEDO FRNCH3
+TIM5252    KJAC    KDEN    dct-353nm    FL-aut    GEYSR5 NALSI BPI OCS GWEDO KAILE2
+TIM5252    KJAC    KDEN    dct-353nm    FL-aut    GEYSR5 NALSI BPI OCS GWEDO FRNCH3
 ----------------------------------------------
 ----------------------------------------------
 TIM5261    KDEN    KSLC    dct-340nm    FL-aut    FOOOT3 RLG   EKR LEEHY5
-TIM5262    KSLC    KDEN    dct-340nm    FL-aut    RUGGD1 PERTY CHE FRNCH3
 TIM5262    KSLC    KDEN    dct-340nm    FL-aut    RUGGD1 PERTY CHE KAILE2
+TIM5262    KSLC    KDEN    dct-340nm    FL-aut    RUGGD1 PERTY CHE FRNCH3
 ----------------------------------------------
 ----------------------------------------------
 TIM5271    KPHX    KSLC    dct-441nm    FL-aut    QUAKY1 GCN         BCE DELTA5
@@ -549,7 +551,7 @@ TIM5371    KSLC    KTPA    dct1640nm    FL-aut    RUGGD1 EKR     WENIL RZC IGB M
 TIM5372    KTPA    KSLC    dct1640nm    FL-aut    ENDED7 SZW MEI SQS FSM PER PUB JNC HELPR LEEHY5
 ----------------------------------------------
 ----------------------------------------------
-TIM5381    PAJN    KDPX    dct-884nm    FL-aut    JNU5 LVD J502 SEA HELNS6
+TIM5381    PAJN    KDPX    dct-884nm    FL-aut    JNU5 LVD J502 SEA       BUWZO KRATR2
 TIM5382    KPDX    PAJN    dct-884nm    FL-aut    LAVAA6 YKM J20 SEA J523 YZT J502 SSR
 ----------------------------------------------
 ----------------------------------------------
@@ -561,7 +563,7 @@ TIM5401    KBOS    KBWI    dct-321nm    FL-aut    PATSS5 PATSS NELIE CMK J75 MXE
 TIM5402    KBWI    KBOS    dct-321nm    FL-aut    SWANN3 OOD J42 RBV J222 JFK ROBUC3
 ----------------------------------------------
 ----------------------------------------------
-TIM5411    KBOS    KDCA    dct-347nm    FL-aut    PATSS5 PATSS      NELIE CMK J75 MXE CLIPR2
+TIM5411    KBOS    KDCA    dct-347nm    FL-aut    PATSS5 PATSS NELIE      CMK J75 MXE CLIPR2
 TIM5412    KDCA    KBOS    dct-347nm    FL-aut    SOOKI4 SWANN BROSS J42 RBV J222 JFK ROBUC3
 ----------------------------------------------
 ----------------------------------------------
