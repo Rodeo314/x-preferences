@@ -502,8 +502,8 @@ TIX5232    KTEX    KABQ    dct-186nm    FL-250    ETL   FRIHO   FRIHO4
 ----------------------------------------------
 ----------------------------------------------
 TIM5241    KDEN    KEGE    dct-105nm    FL-160    FOOOT3 RLG
-TIM5242    KEGE    KDEN    dct-105nm    FL-210    GYPSM5 RLG FRNCH KAILE2
-TIM5242    KEGE    KDEN    dct-105nm    FL-210    GYPSM5 RLG FRNCH FRNCH3
+TIM5242    KEGE    KDEN    dct-105nm    FL-210    GYPSM6 RLG FRNCH KAILE2
+TIM5242    KEGE    KDEN    dct-105nm    FL-210    GYPSM6 RLG FRNCH FRNCH3
 ----------------------------------------------
 ----------------------------------------------
 TIM5251    KDEN    KJAC    dct-353nm    FL-aut    YAMMI3 LAR                DNW JAC
@@ -524,8 +524,8 @@ TIM5272    KSLC    KPHX    dct-441nm    FL-aut    ZIONZ1 BCE CORKR TENTS BRUSR1
 TIM5272    KSLC    KPHX    dct-441nm    FL-aut    ARCHZ1 MLF CORKR TENTS BRUSR1
 ----------------------------------------------
 ----------------------------------------------
-TIM5281    KSLC    KASE    dct-254nm    FL-aut    RUGGD1 EKR   TRUEL DBL
-TIM5282    KASE    KSLC    dct-254nm    FL-aut    LINDZ JNC HELPR LEEHY5
+TIM5281    KSLC    KASE    dct-254nm    FL-aut    RUGGD1 EKR    TRUEL DBL
+TIM5282    KASE    KSLC    dct-254nm    FL-aut    LINDZ  JNC HELPR LEEHY5
 ----------------------------------------------
 ----------------------------------------------
 TIM5291    KSLC    KPUW    dct-421nm    FL-aut    CGULL1 TWF J12 DNJ MQG PUW
