@@ -459,6 +459,7 @@ TIM5122    KSFO    KPDX    dct-478nm    FL-aut    TRUKN2 GRTFL          MACHU TM
 TIM5122    KSFO    KPDX    dct-478nm    FL-aut    NIITE3 GRTFL          MACHU TMBRS2
 TIM5122    KSFO    KPDX    dct-478nm    FL-aut    SNTNA2 GRTFL          MACHU TMBRS2
 TIM5122    KSFO    KPDX    dct-478nm    FL-aut    CIITY3 GRTFL          MACHU TMBRS2
+TIM5122    KSFO    KPDX    dct-478nm    FL-aut    AFIVA1 GRTFL          MACHU TMBRS2
 ----------------------------------------------
 ----------------------------------------------
 TIM5131    KPDX    KSLC    dct-547nm    FL-aut    WHAMY4 IMB J15 BOI BYI SKEES5
