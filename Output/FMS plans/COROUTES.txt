@@ -502,9 +502,14 @@ TIX5231    KAQB    KTEX    dct-186nm    FL-240    ATOMK3 ATOMK RSK ETL
 TIX5232    KTEX    KABQ    dct-186nm    FL-250    ETL   FRIHO   FRIHO4
 ----------------------------------------------
 ----------------------------------------------
-TIM5241    KDEN    KEGE    dct-105nm    FL-160    FOOOT3 RLG
-TIM5242    KEGE    KDEN    dct-105nm    FL-210    GYPSM6 RLG FRNCH KAILE2
-TIM5242    KEGE    KDEN    dct-105nm    FL-210    GYPSM6 RLG FRNCH FRNCH3
+TIM5241    KDEN    KEGE    dct-105nm    FL-200    FOOOT3 RLG
+TIM5241    KDEN    KEGE    dct-105nm    FL-160    ROCKI3 RLG
+TIM5242    KEGE    KDEN    dct-105nm    FL-230    GYPSM6 RLG   FRNCH KAILE2
+TIM5242    KEGE    KDEN    dct-105nm    FL-230    BEVVR1 BELGN SKARF KAILE2
+TIM5242    KEGE    KDEN    dct-105nm    FL-210    GYPSM6 RLG   FRNCH FRNCH3
+TIM5242    KEGE    KDEN    dct-105nm    FL-210    BEVVR1 BELGN SKARF FRNCH3
+TIM5242    KEGE    KDEN    dct-105nm    FL-170    GYPSM6     RLG     TOMSN6
+TIM5242    KEGE    KDEN    dct-105nm    FL-170    EKR3       RLG     TOMSN6
 ----------------------------------------------
 ----------------------------------------------
 TIM5251    KDEN    KJAC    dct-353nm    FL-aut    YAMMI3 LAR                DNW JAC
