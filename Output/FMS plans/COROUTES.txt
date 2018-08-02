@@ -497,9 +497,8 @@ TIM5222    KSLC    KABQ    dct-428nm    FL-aut    ZIONZ1 EYELO             RSK R
 TIM5222    KSLC    KABQ    dct-428nm    FL-aut    RUGGD1 MTU       JNC J15 RSK ROSEI LOWBO3
 ----------------------------------------------
 ----------------------------------------------
-TIX5231    KAQB    KTEX    dct-186nm    FL-240    JEMEZ3 JEMEZ RSK ETL
-TIX5231    KAQB    KTEX    dct-186nm    FL-240    ATOMK3 ATOMK RSK ETL
-TIX5232    KTEX    KABQ    dct-186nm    FL-250    ETL   FRIHO   FRIHO4
+TIX5231    KAQB    KTEX    dct-186nm    FL-240    LARGO3 RSK ETL
+TIX5232    KTEX    KABQ    dct-186nm    FL-250    ETL FRIHO FRIHO4
 ----------------------------------------------
 ----------------------------------------------
 TIM5241    KDEN    KEGE    dct-105nm    FL-200    FOOOT3 RLG
