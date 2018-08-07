@@ -450,6 +450,7 @@ TIM5112    KSEA    KPDX    dct-112nm    FL-170    OZWLD1 OZWLD BUWZO KRATR2
 ----------------------------------------------
 ----------------------------------------------
 TIM5121    KPDX    KSFO    dct-478nm    FL-aut    MINNE5 FAMUK Q3 FOWND MLBEC BDEGA2
+TIM5121    KPDX    KSFO    dct-478nm    FL-aut    MINNE5 FAMUK Q3 FOWND MLBEC STLER2
 TIM5122    KSFO    KPDX    dct-478nm    FL-aut    TRUKN2 GRTFL          MACHU TMBRS2
 TIM5122    KSFO    KPDX    dct-478nm    FL-aut    SNTNA2 GRTFL          MACHU TMBRS2
 TIM5122    KSFO    KPDX    dct-478nm    FL-aut    NIITE3 GRTFL          MACHU TMBRS2
@@ -472,11 +473,13 @@ TIM5252    KPHX    KSFO    dct-566nm    FL-aut    KEENS2 HRRBR CURIV J212 DECAS 
 TIM5252    KPHX    KSFO    dct-566nm    FL-aut    KEENS2 HRRBR CURIV J212 DECAS PMD AVE MAKRS SERFR WWAVS1
 ----------------------------------------------
 ----------------------------------------------
-TIM5161    KSFO    KSLC    dct-520nm    FL-aut    TRUKN2 MOGEE Q124 BVL WAATS5
-TIM5161    KSFO    KSLC    dct-520nm    FL-aut    SNTNA2 MOGEE Q124 BVL WAATS5
-TIM5161    KSFO    KSLC    dct-520nm    FL-aut    NIITE3 MOGEE Q124 BVL WAATS5
-TIM5161    KSFO    KSLC    dct-520nm    FL-aut    CIITY3 MOGEE Q124 BVL WAATS5
-TIM5262    KSLC    KSFO    dct-520nm    FL-aut    DEZRT1 BAM LLC  LEGGS BDEGA2
+TIM5161    KSFO    KSLC    dct-520nm    FL-aut    TRUKN2 MOGEE  Q124  BVL WAATS5
+TIM5161    KSFO    KSLC    dct-520nm    FL-aut    SNTNA2 MOGEE  Q124  BVL WAATS5
+TIM5161    KSFO    KSLC    dct-520nm    FL-aut    NIITE3 MOGEE  Q124  BVL WAATS5
+TIM5161    KSFO    KSLC    dct-520nm    FL-aut    CIITY3 MOGEE  Q124  BVL WAATS5
+TIM5262    KSLC    KSFO    dct-520nm    FL-aut    ZIONZ1 KROST  OAL INYOE DYAMD3
+TIM5262    KSLC    KSFO    dct-520nm    FL-aut    ARCHZ1 KROST  OAL INYOE DYAMD3
+TIM5262    KSLC    KSFO    dct-520nm    FL-aut    DEZRT1 BAM    LLC LEGGS BDEGA2
 ----------------------------------------------
 ----------------------------------------------
 TIM5201    KABQ    KASE    dct-251nm    FL-aut    JEMEZ3 JEMEZ        HAREI DBL
