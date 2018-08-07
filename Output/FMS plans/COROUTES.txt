@@ -479,26 +479,27 @@ TIM5161    KSFO    KSLC    dct-520nm    FL-aut    CIITY3 MOGEE Q124 BVL WAATS5
 TIM5262    KSLC    KSFO    dct-520nm    FL-aut    DEZRT1 BAM LLC  LEGGS BDEGA2
 ----------------------------------------------
 ----------------------------------------------
-TIM5201    KABQ    KDEN    dct-285nm    FL-aut    JEMEZ3 JEMEZ BRAZO PEEKK3
-TIM5201    KABQ    KDEN    dct-285nm    FL-aut    JEMEZ3 JEMEZ BRAZO LDORA2
-TIM5201    KABQ    KDEN    dct-285nm    FL-aut    ATOMK3 ATOMK BRAZO PEEKK3
-TIM5201    KABQ    KDEN    dct-285nm    FL-aut    ATOMK3 ATOMK BRAZO LDORA2
-TIM5202    KDEN    KABQ    dct-285nm    FL-aut    SPAZZ3 ZAPAA DATME SNDIA3
+TIM5201    KABQ    KASE    dct-251nm    FL-aut    JEMEZ3 JEMEZ        HAREI DBL
+TIM5201    KABQ    KASE    dct-251nm    FL-aut    ATOMK3 ATOMK        HAREI DBL
+TIM5202    KASE    KABQ    dct-251nm    FL-aut    LINDZ9 LINDZ HBU DATME SNDIA3
 ----------------------------------------------
 ----------------------------------------------
-TIM5211    KABQ    KPHX    dct-285nm    FL-aut    RDRNR3    ZUN    EAGUL6
-TIM5211    KABQ    KPHX    dct-285nm    FL-aut    ADYOS3    ZUN    EAGUL6
-TIM5212    KPHX    KABQ    dct-285nm    FL-aut    FORPE1 SJN CABNO KRKEE3
+TIM5211    KABQ    KDEN    dct-285nm    FL-aut    JEMEZ3 JEMEZ BRAZO PEEKK3
+TIM5211    KABQ    KDEN    dct-285nm    FL-aut    JEMEZ3 JEMEZ BRAZO LDORA2
+TIM5211    KABQ    KDEN    dct-285nm    FL-aut    ATOMK3 ATOMK BRAZO PEEKK3
+TIM5211    KABQ    KDEN    dct-285nm    FL-aut    ATOMK3 ATOMK BRAZO LDORA2
+TIM5212    KDEN    KABQ    dct-285nm    FL-aut    SPAZZ3 ZAPAA DATME SNDIA3
 ----------------------------------------------
 ----------------------------------------------
-TIM5221    KABQ    KSLC    dct-428nm    FL-aut    JEMEZ3 JEMEZ RSK J15 JNC J12 HELPR LEEHY5
-TIM5221    KABQ    KSLC    dct-428nm    FL-aut    ATOMK3 ATOMK RSK J15 JNC J12 HELPR LEEHY5
-TIM5222    KSLC    KABQ    dct-428nm    FL-aut    ZIONZ1 EYELO             RSK ROSEI LOWBO3
-TIM5222    KSLC    KABQ    dct-428nm    FL-aut    RUGGD1 MTU       JNC J15 RSK ROSEI LOWBO3
+TIM5221    KABQ    KPHX    dct-285nm    FL-aut    RDRNR3    ZUN    EAGUL6
+TIM5221    KABQ    KPHX    dct-285nm    FL-aut    ADYOS3    ZUN    EAGUL6
+TIM5222    KPHX    KABQ    dct-285nm    FL-aut    FORPE1 SJN CABNO KRKEE3
 ----------------------------------------------
 ----------------------------------------------
-TIX5231    KAQB    KTEX    dct-186nm    FL-240    LARGO3 RSK ETL
-TIX5232    KTEX    KABQ    dct-186nm    FL-250    ETL FRIHO FRIHO4
+TIM5231    KABQ    KSLC    dct-428nm    FL-aut    JEMEZ3 JEMEZ RSK J15 JNC J12 HELPR LEEHY5
+TIM5231    KABQ    KSLC    dct-428nm    FL-aut    ATOMK3 ATOMK RSK J15 JNC J12 HELPR LEEHY5
+TIM5232    KSLC    KABQ    dct-428nm    FL-aut    ZIONZ1 EYELO             RSK ROSEI LOWBO3
+TIM5232    KSLC    KABQ    dct-428nm    FL-aut    RUGGD1 MTU       JNC J15 RSK ROSEI LOWBO3
 ----------------------------------------------
 ----------------------------------------------
 TIM5241    KDEN    KEGE    dct-105nm    FL-200    FOOOT3 RLG
@@ -511,26 +512,23 @@ TIM5242    KEGE    KDEN    dct-105nm    FL-170    GYPSM6     RLG     TOMSN6
 TIM5242    KEGE    KDEN    dct-105nm    FL-170    EKR3       RLG     TOMSN6
 ----------------------------------------------
 ----------------------------------------------
-TIM5251    KDEN    KJAC    dct-353nm    FL-aut    YAMMI3 LAR                    DNW
-TIM5252    KJAC    KDEN    dct-353nm    FL-aut    ALPIN2 KICNE     OCS GWEDO KAILE2
-TIM5252    KJAC    KDEN    dct-353nm    FL-aut    ALPIN2 KICNE     OCS GWEDO FRNCH3
-TIM5252    KJAC    KDEN    dct-353nm    FL-aut    GEYSR5 NALSI BPI OCS GWEDO KAILE2
-TIM5252    KJAC    KDEN    dct-353nm    FL-aut    GEYSR5 NALSI BPI OCS GWEDO FRNCH3
+TIM5251    KDEN    KSLC    dct-340nm    FL-aut    FOOOT3 RLG   EKR LEEHY5
+TIM5252    KSLC    KDEN    dct-340nm    FL-aut    RUGGD1 PERTY CHE KAILE2
+TIM5252    KSLC    KDEN    dct-340nm    FL-aut    RUGGD1 PERTY CHE FRNCH3
 ----------------------------------------------
 ----------------------------------------------
-TIM5261    KDEN    KSLC    dct-340nm    FL-aut    FOOOT3 RLG   EKR LEEHY5
-TIM5262    KSLC    KDEN    dct-340nm    FL-aut    RUGGD1 PERTY CHE KAILE2
-TIM5262    KSLC    KDEN    dct-340nm    FL-aut    RUGGD1 PERTY CHE FRNCH3
+TIX5261    KDEN    KTEX    dct-190nm    FL-240    BAYLR3 TEHRU ETL
+TIX5262    KTEX    KDEN    dct-190nm    FL-250    ETL   HBU PEEKK3
+TIX5262    KTEX    KDEN    dct-190nm    FL-250    ETL   HBU LDORA2
 ----------------------------------------------
 ----------------------------------------------
-TIM5271    KPHX    KSLC    dct-441nm    FL-aut    QUAKY1 GCN         BCE DELTA5
-TIM5271    KPHX    KSLC    dct-441nm    FL-aut    QUAKY1 GCN         BCE QWENN5
-TIM5272    KSLC    KPHX    dct-441nm    FL-aut    ZIONZ1 BCE CORKR TENTS BRUSR1
-TIM5272    KSLC    KPHX    dct-441nm    FL-aut    ARCHZ1 MLF CORKR TENTS BRUSR1
+TIM5271    KSLC    KASE    dct-254nm    FL-aut    RUGGD1 EKR TRUEL DBL
+TIM5271    KASE    KSLC    dct-254nm    FL-aut    LINDZ9 JNC HELPR LEEHY5
 ----------------------------------------------
 ----------------------------------------------
-TIM5281    KSLC    KASE    dct-254nm    FL-aut    RUGGD1 EKR TRUEL DBL
-TIM5282    KASE    KSLC    dct-254nm    FL-aut    LINDZ9 JNC HELPR LEEHY5
+TIM5281    KSLC    KJAC    dct-178nm    FL-250    RUGGD1 HOLTR            DNW
+TIM5282    KJAC    KSLC    dct-178nm    FL-240    ALPIN2 KICNE     LHO NORDK5
+TIM5282    KJAC    KSLC    dct-178nm    FL-240    GEYSR5 NALSI DNW LHO NORDK5
 ----------------------------------------------
 ----------------------------------------------
 TIM5291    KSLC    KPUW    dct-421nm    FL-aut    CGULL1 TWF J12 DNJ MQG PUW
