@@ -499,10 +499,11 @@ TIM5221    KABQ    KPHX    dct-285nm    FL-aut    ADYOS3    ZUN    EAGUL6
 TIM5222    KPHX    KABQ    dct-285nm    FL-aut    FORPE1 SJN CABNO KRKEE3
 ----------------------------------------------
 ----------------------------------------------
-TIM5231    KABQ    KSLC    dct-428nm    FL-aut    JEMEZ3 JEMEZ RSK J15 JNC J12 HELPR LEEHY5
-TIM5231    KABQ    KSLC    dct-428nm    FL-aut    ATOMK3 ATOMK RSK J15 JNC J12 HELPR LEEHY5
-TIM5232    KSLC    KABQ    dct-428nm    FL-aut    ZIONZ1 EYELO             RSK ROSEI LOWBO3
-TIM5232    KSLC    KABQ    dct-428nm    FL-aut    RUGGD1 MTU       JNC J15 RSK ROSEI LOWBO3
+TIM5231    KABQ    KSLC    dct-428nm    FL-aut    JEMEZ3 JEMEZ RSK JNC HELPR LEEHY5
+TIM5231    KABQ    KSLC    dct-428nm    FL-aut    ATOMK3 ATOMK RSK JNC HELPR LEEHY5
+TIM5232    KSLC    KABQ    dct-428nm    FL-aut    ZIONZ1 EYELO     RSK ROSEI LOWBO3
+TIM5232    KSLC    KABQ    dct-428nm    FL-aut    ZIONZ1 KIMMR     JNC ROSEI LOWBO3
+TIM5232    KSLC    KABQ    dct-428nm    FL-aut    RUGGD1 MTU   JNC RSK ROSEI LOWBO3
 ----------------------------------------------
 ----------------------------------------------
 TIM5241    KDEN    KEGE    dct-105nm    FL-200    FOOOT3 RLG
