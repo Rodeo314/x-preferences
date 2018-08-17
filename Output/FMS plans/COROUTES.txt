@@ -475,8 +475,8 @@ TIM5262    KSLC    KSFO    dct-520nm    FL-aut    ARCHZ1 KROST  OAL INYOE DYAMD3
 TIM5262    KSLC    KSFO    dct-520nm    FL-aut    DEZRT1 BAM    LLC LEGGS BDEGA2
 ----------------------------------------------
 ----------------------------------------------
-TIM5201    KABQ    KASE    dct-251nm    FL-aut    JEMEZ3 JEMEZ        HAREI DBL
-TIM5201    KABQ    KASE    dct-251nm    FL-aut    ATOMK3 ATOMK        HAREI DBL
+TIM5201    KABQ    KASE    dct-251nm    FL-aut    JEMEZ3 JEMEZ HAREI DBL
+TIM5201    KABQ    KASE    dct-251nm    FL-aut    ATOMK3 ATOMK HAREI DBL
 TIM5202    KASE    KABQ    dct-251nm    FL-aut    LINDZ9 LINDZ HBU DATME SNDIA3
 ----------------------------------------------
 ----------------------------------------------
