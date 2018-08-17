@@ -33,7 +33,7 @@ NOTE: some routes may only validate w/SID/STAR
 ----------------------------------------------
 ----------------------------------------------
 FSE0001    EDTY    EDNY    dct--88nm    FL-220    DKB N869 TEDGO N851 RAUTA T732 GARMO
-FSE0002    EDNY    EDTY    dct--88nm    FL-220    ALAGO Z1 NOTGA Y712 DKB
+FSE0002    EDNY    EDTY    dct--88nm    FL-200    ALAGO Z1 NOTGA Y712 DKB
 ----------------------------------------------
 ----------------------------------------------
 FSE0011    EDTY    LOWI    dct-128nm    FL-230    DKB P605 AKANU L603 OLETU Z106 MANAL M736 TULSI
@@ -48,7 +48,7 @@ FSE0031    EDNY    LOWI    dct--79nm    FL-150    BEMKI Z999 XEBIX
 FSE0032    LOWI    EDNY    dct--79nm    FL-160    MOGTI P66 KPT
 ----------------------------------------------
 ----------------------------------------------
-FSE0041    LOWI    LSZR    dct--74nm    FL-180    MOGTI P66 KPT
+FSE0041    LOWI    LSZR    dct--74nm    FL-160    MOGTI P66 KPT
 FSE0042    LSZR    LOWI    dct--74nm    FL-150    BEMKI Z999 XEBIX
 ----------------------------------------------
 ----------------------------------------------
@@ -673,7 +673,7 @@ TIM5542    TNCM    KMIA    dct1063nm    FL-aut    JUICE B520 STT RTE6 ROBLL Y587
 ----------------------------------------------
 ----------------------------------------------
 TIM5551    TNCM    TIST    dct-108nm    FL-160    JUICE B520 STT
-TIM5552    TIST    TNCM    dct-108nm    FL-210    STT A638 SLUGO
+TIM5552    TIST    TNCM    dct-108nm    FL-190    STT A638 SLUGO
 ----------------------------------------------
 ----------------------------------------------
 TIM5561    TNCM    TLPL    dct-286nm    FL-aut    ELOPO UB520 ANU UA312 FOF A324 KISES
