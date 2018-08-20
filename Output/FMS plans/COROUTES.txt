@@ -475,6 +475,15 @@ TIM5162    KSLC    KSFO    dct-520nm    FL-aut    ARCHZ1 KROST  OAL INYOE DYAMD3
 TIM5162    KSLC    KSFO    dct-520nm    FL-aut    DEZRT1 BAM    LLC LEGGS BDEGA2
 ----------------------------------------------
 ----------------------------------------------
+TIM5171    PAJN    KSEA    dct-790nm    FL-aut    JNU5 SSR J502 YYJ MARNR7
+TIM5172    KSEA    PAJN    dct-790nm    FL-aut    BANGR9 ARRIE J523 YZT J502 SSR
+----------------------------------------------
+----------------------------------------------
+TIM5181    PAKT    KPDX    dct-681nm    FL-aut    SKOWL2 DOOZI J502 SEA BUWZO KRATR2
+TIM5181    PAKT    KPDX    dct-681nm    FL-aut       CETK6 ANN J502 SEA BUWZO KRATR2
+TIM5182    KPDX    PAKT    dct-681nm    FL-aut         OLM J54 TOU J523 YZT J502 ANN
+----------------------------------------------
+----------------------------------------------
 TIM5201    KABQ    KASE    dct-251nm    FL-aut    JEMEZ3 JEMEZ HAREI DBL
 TIM5201    KABQ    KASE    dct-251nm    FL-aut    ATOMK3 ATOMK HAREI DBL
 TIM5202    KASE    KABQ    dct-251nm    FL-aut    LINDZ9 LINDZ HBU DATME SNDIA3
@@ -589,12 +598,15 @@ TIM5371    KSLC    KTPA    dct1640nm    FL-aut    RUGGD1 EKR     WENIL RZC IGB M
 TIM5372    KTPA    KSLC    dct1640nm    FL-aut    ENDED7 SZW MEI SQS FSM PER PUB JNC HELPR LEEHY5
 ----------------------------------------------
 ----------------------------------------------
-TIM5381    PAJN    KDPX    dct-884nm    FL-aut    JNU5 LVD J502 SEA       BUWZO KRATR2
-TIM5382    KPDX    PAJN    dct-884nm    FL-aut    LAVAA6 YKM J20 SEA J523 YZT J502 SSR
+TIM5381    PAJN    PAKT    dct-204nm    FL-310      JNU5 SSR J502 DOOZI
+TIM5382    PAKT    PAJN    dct-204nm    FL-320    SKOWL2 DOOZI J502 SSR
+TIM5382    PAKT    PAJN    dct-204nm    FL-320       CETK6 ANN J502 SSR
 ----------------------------------------------
 ----------------------------------------------
 TIM5391    PAJN    PANC    dct-496nm    FL-aut    ASORT2 ASORT J541 YAK J501 JOH WITTI4
-TIM5392    PANC    PAJN    dct-496nm    FL-aut    JOH J501 YAK J541 SSR
+TIM5391    PAJN    PANC    dct-496nm    FL-aut    ASORT2 ASORT J541 YAK J501 JOH PTERS3
+TIM5392    PANC    PAJN    dct-496nm    FL-aut    TED J501 YAK J541 SSR
+TIM5392    PANC    PAJN    dct-496nm    FL-aut    NOEND4 NOEND CUSHI
 ----------------------------------------------
 ----------------------------------------------
 TIM5401    KBOS    KBWI    dct-321nm    FL-aut    PATSS5 PATSS NELIE CMK J75 MXE NUGGY TRISH3
