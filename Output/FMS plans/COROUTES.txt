@@ -435,29 +435,31 @@ TIX5091    KSNA    KSBA    dct-108nm    FL----    TEC
 TIX5092    KSBA    KSNA    dct-108nm    FL----    TEC
 ----------------------------------------------
 ----------------------------------------------
-TIM5101    KPDX    KPUW    dct-239nm    FL-350    LAVAA6 PDT
-TIM5102    KPUW    KPDX    dct-239nm    FL-340    JORAD HHOOD4
+TIM5101    KPDX    KSEA    dct-112nm    FL-200    COUGA        KRIEG HAWKZ6
+TIM5102    KSEA    KPDX    dct-112nm    FL-170    SEA          BUWZO KRATR2
+TIM5102    KSEA    KPDX    dct-112nm    FL-170    OZWLD1 OZWLD BUWZO KRATR2
 ----------------------------------------------
 ----------------------------------------------
-TIM5111    KPDX    KSEA    dct-112nm    FL-200    COUGA        KRIEG HAWKZ6
-TIM5112    KSEA    KPDX    dct-112nm    FL-170    SEA          BUWZO KRATR2
-TIM5112    KSEA    KPDX    dct-112nm    FL-170    OZWLD1 OZWLD BUWZO KRATR2
+TIM5111    KPDX    KSFO    dct-478nm    FL-aut    MINNE5 FAMUK Q3 FOWND MLBEC BDEGA2
+TIM5111    KPDX    KSFO    dct-478nm    FL-aut    MINNE5 FAMUK Q3 FOWND MLBEC STLER2
+TIM5112    KSFO    KPDX    dct-478nm    FL-aut    TRUKN2 GRTFL          MACHU TMBRS2
+TIM5112    KSFO    KPDX    dct-478nm    FL-aut    SNTNA2 GRTFL          MACHU TMBRS2
+TIM5112    KSFO    KPDX    dct-478nm    FL-aut    CIITY3 GRTFL          MACHU TMBRS2
+TIM5112    KSFO    KPDX    dct-478nm    FL-aut    AFIVA1 GRTFL          MACHU TMBRS2
 ----------------------------------------------
 ----------------------------------------------
-TIM5121    KPDX    KSFO    dct-478nm    FL-aut    MINNE5 FAMUK Q3 FOWND MLBEC BDEGA2
-TIM5121    KPDX    KSFO    dct-478nm    FL-aut    MINNE5 FAMUK Q3 FOWND MLBEC STLER2
-TIM5122    KSFO    KPDX    dct-478nm    FL-aut    TRUKN2 GRTFL          MACHU TMBRS2
-TIM5122    KSFO    KPDX    dct-478nm    FL-aut    SNTNA2 GRTFL          MACHU TMBRS2
-TIM5122    KSFO    KPDX    dct-478nm    FL-aut    CIITY3 GRTFL          MACHU TMBRS2
-TIM5122    KSFO    KPDX    dct-478nm    FL-aut    AFIVA1 GRTFL          MACHU TMBRS2
+TIM5121    KPDX    KSLC    dct-547nm    FL-aut    WHAMY4 IMB J15 BOI BYI SKEES5
+TIM5122    KSLC    KPDX    dct-547nm    FL-aut    CGULL1 TWF BROPH JOTBA HHOOD4
 ----------------------------------------------
 ----------------------------------------------
-TIM5131    KPDX    KSLC    dct-547nm    FL-aut    WHAMY4 IMB J15 BOI BYI SKEES5
-TIM5132    KSLC    KPDX    dct-547nm    FL-aut    CGULL1 TWF BROPH JOTBA HHOOD4
+TIMX131    KSAC    KPUW    dct-530nm    FL-aut    SAC J65 RBL J3 IMB PDT V536 PUW
+TIMX132    KPUW    KSAC    dct-530nm    FL-aut    PUW V536 PDT IMB J3 RBL J65 SAC
 ----------------------------------------------
 ----------------------------------------------
-TIM5141    KSAC    KPUW    dct-530nm    FL-aut    SAC J65 RBL J3 IMB PDT V536 PUW
-TIM5142    KPUW    KSAC    dct-530nm    FL-aut    PUW V536 PDT IMB J3 RBL J65 SAC
+TIM5141    KSEA    KPUW    dct-217nm    FL-290    SEA NORMY J90 MWH CISOV
+TIM5141    KSEA    KPUW    dct-217nm    FL-290    SEA NORMY J90 MWH EVISE
+TIM5141    KSEA    KPUW    dct-217nm    FL-290    SEA NORMY J90 MWH PUW
+TIM5142    KPUW    KSEA    dct-217nm    FL-300    PUW TEMPL GLASR1
 ----------------------------------------------
 ----------------------------------------------
 TIM5151    KSFO    KPHX    dct-566nm    FL-aut    SSTIK3 LOSHN BOILE BLH HYDRR1
