@@ -110,7 +110,7 @@ TIM2021    LSGG    LFPO    dct-213nm    FL-280    SIROD Z124 IBABA UZ124 TUTAX
 TIM2022    LFPO    LSGG    dct-213nm    FL-270    PILUL UM975 PIXIS/F230 UM975 LUSAR    
 ----------------------------------------------
 ----------------------------------------------
-TIM2031    LSZH    LIEE    dct-493nm    FL-290    VEBIT T53 GERSA UN850 ODINA N850 IXITO L50 UNITA M858 TORTU UM858 CORSI M858 RAMEN M732 KOVAS
+TIM2031    LSZH    LIEE    dct-493nm    FL-290    VEBIT T53 GERSA UN850 ODINA M727 SRN M858 TORTU UM858 CORSI M858 RAMEN M732 KOVAS
 TIM2032    LIEE    LSZH    dct-493nm    FL-300    KOVAS Q213 CORSI UM858 TORTU M858 GEN M985 MONEB N851 DESIP Z651 CANNE UZ651 KELIP
 ----------------------------------------------
 ----------------------------------------------
