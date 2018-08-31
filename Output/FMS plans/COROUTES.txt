@@ -228,7 +228,7 @@ TIM3092    EGLC    LSGG    dct-396nm    FL-aut    EKNIV M91 LYD UM189 HAWKE UL61
 ----------------------------------------------
 ----------------------------------------------
 TIM3101    LSZH    EGLL    dct-426nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613 DIDOR UT10 ALESO
-TIM3102    EGLL    LSZH    dct-426nm    FL-230    BPK N601 DET/F310 UL6 DVR UL9 KONAN UL607 KOK UM150 DIK UN852 GTQ UT27 BLM
+TIM3102    EGLL    LSZH    dct-426nm    FL-230    //fixme BPK N601 DET/F310 UL6 DVR UL9 KONAN UL607 KOK UM150 DIK UN852 GTQ UT27 BLM
 ----------------------------------------------
 ----------------------------------------------
 TIM3161    LSZH    EGSS    dct-419nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613 DIDOR UT10 IRBAL UT421 PIREG UM733 BANVA
@@ -306,7 +306,7 @@ TIM4112    ENSB    LSGG    dct1938nm    FL-aut    INPAR M604 OMEXA ALASA UP615 L
 ----------------------------------------------
 ----------------------------------------------
 TIM4121    LSGG    EPKK    dct-595nm    FL-aut    MOLUS UN871 GAMSA BADVI UN871 BEPAS T709 SOPAV L984 PADKA
-TIM4122    EPKK    LSGG    dct-595nm    FL-280    TUSIN M984 HLV/N0400F340 M984 MIKOV ERANI ERKIR UL608 KPT UL856 TRA Z69 OLBEN UN869 BENOT
+TIM4122    EPKK    LSGG    dct-595nm    FL-280    //fixme TUSIN M984 HLV/N0400F340 M984 MIKOV ERANI ERKIR UL608 KPT UL856 TRA Z69 OLBEN UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
 TIM4131    LSZH    EPWA    dct-558nm    FL-aut    DEGES Z1 ETAGO HAREM UN851 LOHRE UL984 KOMIB PEROX GOVEN ADVAB P150 BIMPA
