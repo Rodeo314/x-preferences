@@ -19,9 +19,32 @@ TIX     ->    executive service
 ----------------------------------------------
 ----------------------------------------------
 ----------------------------------------------
-Top cruising level: full route distance + FL50
+Cruise level "SOP": full route distance + FL65
 Except when overridden by procedure constraint
-When available, use real-world cruise altitude
+This can be outweighed by real-world altitudes
+----------------------------------------------
+Below are "preferred" flight level duos, which
+do not correspond to any real-world regulation
+I simply defined these associations for myself
+They can be outweighed by real-world altitudes
+----------------------------------------------
+Preferred EUR level duos: FL400/390 to 320/310
+--- frequent forbidden route cutoff: FL305 ---
+Preferred EUR level duos: FL300/290, RVSM-only
+--- RVSM airspace boundary altitude: FL285 ---
+Preferred EUR level duos: FL280/270 to 260/250
+--- typical airway min/max altitude: FL245 ---
+Preferred EUR level duos: FL240/230 to 220/210
+--- typical airway min/max altitude: FL195 ---
+Preferred EUR level duos: FL180/170 to 160/150
+--- typical airway min/max altitude: FL145 ---
+Preferred EUR level duos: FL140/130 to 060/050
+----------------------------------------------
+Preferred USA level duos: FL400/390 to 300/290
+--- RVSM airspace boundary altitude: FL285 ---
+Preferred USA level duos: FL280/270 to 200/190
+--- typical airway min/max altitude: FL180 ---
+Preferred USA level duos: FL170/160 to 050/040
 ----------------------------------------------
 ----------------------------------------------
 ----------------------------------------------
