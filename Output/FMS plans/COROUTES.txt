@@ -323,8 +323,9 @@ TIM4141    LSZH    ESGG    dct-628nm    FL-350    DEGES Z1 ETAGO HAREM UN851 MAK
 TIM4142    ESGG    LSZH    dct-628nm    FL-aut    TOPLA L996 SVD T402 GOLMI N850 BAGOS UN850 EDEGA OMOGI T721 RILAX
 ----------------------------------------------
 ----------------------------------------------
-TIM4151    LSGG    ESMS    dct-623nm    FL----    //fixme
-TIM4152    ESMS    LSGG    dct-623nm    FL----    //fixme
+TIM4151    LSGG    ESMS    dct-623nm    FL-aut    MOLUS UN871 DITON T163 ZUE T125 ROMIR UN851 MAKEL N851 GESKA P605 KOSMO L983 DETUS
+TIM4152    ESMS    LSGG    dct-623nm    FL-aut    SALLO M736 PEROM      NUVEN BUMIL UM864 WRB UN850 KRH/F300 UN850 NATOR UN869 BENOT
+TIM4152    ESMS    LSGG    dct-623nm    FL-280    SALLO M736 PEROM M864 NUVEN M864 BUMIL UM864 WRB UN850 NATOR UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
 TIM4161    LSZH    ESSA    dct-804nm    FL-350    DEGES Z1 ETAGO HAREM UN851 MAKEL N851 PELUP Z226 NILUG
