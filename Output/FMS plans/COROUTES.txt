@@ -28,23 +28,27 @@ do not correspond to any real-world regulation
 I simply defined these associations for myself
 They can be outweighed by real-world altitudes
 ----------------------------------------------
-Preferred EUR level duos: FL400/390 to 320/310
---- frequent forbidden route cutoff: FL305 ---
-Preferred EUR level duos: FL300/290, RVSM-only
---- RVSM airspace boundary altitude: FL285 ---
-Preferred EUR level duos: FL280/270 to 260/250
---- typical airway min/max altitude: FL245 ---
-Preferred EUR level duos: FL240/230 to 220/210
---- typical airway min/max altitude: FL195 ---
-Preferred EUR level duos: FL180/170 to 160/150
---- typical airway min/max altitude: FL145 ---
-Preferred EUR level duos: FL140/130 to 060/050
 ----------------------------------------------
-Preferred USA level duos: FL400/390 to 300/290
+EUR preferred level duos: FL400/390 to 320/310
+--- frequent forbidden route cutoff: FL305 ---
+EUR preferred level duos: FL300/290, RVSM-only
 --- RVSM airspace boundary altitude: FL285 ---
-Preferred USA level duos: FL280/270 to 200/190
+EUR preferred level duos: FL280/270 to 260/250
+--- typical airway min/max altitude: FL245 ---
+EUR preferred level duos: FL240/230 to 220/210
+--- non-allowable cruising altitude: FL200 ---
+--- typical airway min/max altitude: FL195 ---
+--- non-allowable cruising altitude: FL190 ---
+EUR preferred level duos: FL180/170 to 160/150
+--- typical airway min/max altitude: FL145 ---
+EUR preferred level duos: FL140/130 to 060/050
+----------------------------------------------
+----------------------------------------------
+USA preferred level duos: FL400/390 to 300/290
+--- RVSM airspace boundary altitude: FL285 ---
+USA preferred level duos: FL280/270 to 200/190
 --- typical airway min/max altitude: FL180 ---
-Preferred USA level duos: FL170/160 to 050/040
+USA preferred level duos: FL170/160 to 050/040
 ----------------------------------------------
 ----------------------------------------------
 ----------------------------------------------
