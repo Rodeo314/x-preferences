@@ -154,7 +154,7 @@ TIM2052    LIML    LSGG    dct-141nm    FL----
 ----------------------------------------------
 ----------------------------------------------
 TIM2061    LSGG    LIPZ    dct-265nm    FL-290    MOLUS UN871 MADEB UM738 NATAG M738 ADOSA L612 ALBET
-TIM2062    LIPZ    LSGG    dct-265nm    FL-300    VIC L615 OMETO/M070F220 L615 BANKO
+TIM2062    LIPZ    LSGG    dct-265nm    FL-300    VIC L615 OMETO/M080F220 L615 BANKO
 ----------------------------------------------
 ----------------------------------------------
 TIM2071    LSZH    LIRA    dct-381nm    FL-290    DEGES Z2 OSDOV UM738 NATAG M738 ADOSA P131 LUMAV Z982 DITUM Y106 GITOD
@@ -162,13 +162,13 @@ TIM2072    LIRA    LSZH    dct-381nm    FL-300    SOVAN L995 CANNE UZ651 KELIP
 ----------------------------------------------
 ----------------------------------------------
 TIM2081    LSGG    LIRF    dct-376nm    FL-290    MEDAM UM730 ATMAD M730 TOP L50 ELB L146 ELKAP
-TIM2082    LIRF    LSGG    dct-376nm    FL-300    NEMBO T313 ELB M729 PIMOT/M070F220 M729 AOSTA L615 BANKO
+TIM2082    LIRF    LSGG    dct-376nm    FL-300    NEMBO T313 ELB M729 PIMOT/M080F220 M729 AOSTA L615 BANKO
 ----------------------------------------------
 ----------------------------------------------
 TIX2091    LSGG    LIRS    dct-298nm    FL-290    MEDAM UM730 ATMAD M730 TOP L50 ELB
 TIX2091    LSGG    LIRS    dct-298nm    FL-170    ROCCA M135 ABULO T345 LURAG M135 TOP L50 ELB
 TIX2091    LSGG    LIRS    dct-298nm    FL--90    DEPUL G5 LSE A6 ROMAM B16 MTL R161 AMFOU A3 MIRSA L127 ELB
-TIX2092    LIRS    LSGG    dct-298nm    FL-300    BAMVU Y99 GILIO M729 PIMOT/N0400F220 M729 AOSTA L615 BANKO
+TIX2092    LIRS    LSGG    dct-298nm    FL-300    BAMVU Y99 GILIO M729 PIMOT/N0340F220 M729 AOSTA L615 BANKO
 TIX2092    LIRS    LSGG    dct-298nm    FL-180    UPADU L127 MIRSA A3 RUBIT G7 MTG A6 MTL B16 BELUS
 TIX2092    LIRS    LSGG    dct-298nm    FL-100    UPADU L127 MIRSA A3 RUBIT G7 MTG A6 MTL B16 BELUS
 ----------------------------------------------
@@ -247,12 +247,12 @@ TIM3062    EGGP    LSZH    dct-561nm    FL-aut    NANTI L8 HON UL15 BIG UL9 KONA
 ----------------------------------------------
 TIM3071    LSGG    EGHI    dct-410nm    FL-320    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 SUBIP M8 ELDAX
 TIM3071    LSGG    EGHI    dct-410nm    FL-320    SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 SUBIP M8 ELDAX
-TIM3072    EGHI    LSGG    dct-410nm    FL-aut    GWC BENBO UL612 RESMI UM975 PILUL/M070F230 UM975 LUSAR
+TIM3072    EGHI    LSGG    dct-410nm    FL-aut    GWC BENBO UL612 RESMI UM975 PILUL/M080F230 UM975 LUSAR
 ----------------------------------------------
 ----------------------------------------------
 TIM3081    LSGG    EGKK    dct-386nm    FL-aut    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 PIREG UT421 KUNAV
 TIM3081    LSGG    EGKK    dct-386nm    FL-aut    SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 PIREG UT421 KUNAV
-TIM3082    EGKK    LSGG    dct-386nm    FL-aut    BOGNA UL612 RESMI UM975 PILUL/N0400F230 UM975 LUSAR
+TIM3082    EGKK    LSGG    dct-386nm    FL-aut    BOGNA UL612 RESMI UM975 PILUL/N0340F230 UM975 LUSAR
 ----------------------------------------------
 ----------------------------------------------
 TIM3091    LSGG    EGLC    dct-396nm    FL-340    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 VESAN UL613 SOVAT
@@ -306,7 +306,7 @@ TIM4032    EFHK    LSZH    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
 TIM4041    LSGG    EFRO    dct1374nm    FL-aut    MOLUS UN871 DITON T163 ZUE T125 ROMIR UN851 MAKEL N851 RIKUM Y370 RUBSI T95 NEPIX
-TIM4042    EFRO    LSGG    dct1374nm    FL-aut    OLNOP T404 VERAG T402 GOLMI N850 BAGOS UN850 KRH/M070F300 UN850 NATOR UN869 BENOT
+TIM4042    EFRO    LSGG    dct1374nm    FL-aut    OLNOP T404 VERAG T402 GOLMI N850 BAGOS UN850 KRH/M080F300 UN850 NATOR UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
 TIM4051    LSGG    EHAM    dct-368nm    FL-aut    ARBOS UL47 EPL UM624 BUB UY28 HELEN
@@ -335,7 +335,7 @@ TIM4102    ENGM    LSZH    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
 TIM4111    LSGG    ENSB    dct1938nm    FL-aut    ARBOS UL47 EPL UM624 DIK UN852 SPY UZ704 AMADA Z704 PIPEX OMEXA M604 ATSOT
-TIM4112    ENSB    LSGG    dct1938nm    FL-aut    INPAR M604 OMEXA ALASA UP615 LBV UL126 WRB UN850 KRH/N0400F300 UN850 NATOR UN869 BENOT
+TIM4112    ENSB    LSGG    dct1938nm    FL-aut    INPAR M604 OMEXA ALASA UP615 LBV UL126 WRB UN850 KRH/N0340F300 UN850 NATOR UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
 TIM4121    LSGG    EPKK    dct-595nm    FL-330    MOLUS UN871 BEPAS T709 SOPAV L984 PADKA
