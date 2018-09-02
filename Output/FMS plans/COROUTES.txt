@@ -319,8 +319,8 @@ TIM4131    LSZH    EPWA    dct-558nm    FL-310    DEGES Z2 XEBIX UN871 BEPAS N87
 TIM4132    EPWA    LSZH    dct-558nm    FL-aut    EVINA N744 TUSIN M984 MIKOV    TRAUN UL856 NEGRA
 ----------------------------------------------
 ----------------------------------------------
-TIM4141    LSZH    ESGG    dct-628nm    FL----    //fixme
-TIM4142    ESGG    LSZH    dct-628nm    FL----    //fixme
+TIM4141    LSZH    ESGG    dct-628nm    FL-350    DEGES Z1 ETAGO HAREM UN851 MAKEL N851 GESKA Z706 NOVPO L997 RISMA
+TIM4142    ESGG    LSZH    dct-628nm    FL-aut    TOPLA L996 SVD T402 GOLMI N850 BAGOS UN850 EDEGA OMOGI T721 RILAX
 ----------------------------------------------
 ----------------------------------------------
 TIM4151    LSGG    ESMS    dct-623nm    FL----    //fixme
