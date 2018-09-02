@@ -29,24 +29,28 @@ NOTE: some routes may only validate w/SID/STAR
 ----------------------------------------------
 ----------------------------------------------
 ----------------------------------------------
-FSE0001    EDTY    EDNY    dct--88nm    FL-200    DKB N869 TEDGO N851 RAUTA T732 GARMO
-FSE0002    EDNY    EDTY    dct--88nm    FL-200    ALAGO Z1 NOTGA Y712 DKB
+FSE0001    EDTY    EDDS    dct--34nm    FL-120    DKB Z818 GEBNO T726 LBU
+FSE0002    EDDS    EDTY    dct--34nm    FL-110    DKB
 ----------------------------------------------
 ----------------------------------------------
-FSE0011    EDTY    LOWI    dct-128nm    FL-230    DKB P605 AKANU L603 OLETU Z106 MANAL M736 TULSI
-FSE0012    LOWI    EDTY    dct-128nm    FL-240    BRENO M726 MAH L173 RIXED Y161 ELVAG Z818 DKB
+FSE0011    EDTY    EDNY    dct--88nm    FL-180    DKB N869 TEDGO N851 RAUTA T732 GARMO
+FSE0012    EDNY    EDTY    dct--88nm    FL-170    ALAGO Z1 NOTGA Y712 DKB
 ----------------------------------------------
 ----------------------------------------------
-FSE0021    EDTY    LSZR    dct--99nm    FL-200    DKB N869 TEDGO N851 RAUTA T732 GARMO
-FSE0022    LSZR    EDTY    dct--99nm    FL-200    ALAGO Z1 NOTGA Y712 DKB
+FSE0021    EDTY    LOWI    dct-128nm    FL-210    DKB P605 AKANU L603 OLETU Z106 MANAL M736 TULSI
+FSE0022    LOWI    EDTY    dct-128nm    FL-220    BRENO M726 MAH L173 RIXED Y161 ELVAG Z818 DKB
 ----------------------------------------------
 ----------------------------------------------
-FSE0031    EDNY    LOWI    dct--79nm    FL-150    BEMKI Z999 XEBIX
-FSE0032    LOWI    EDNY    dct--79nm    FL-160    MOGTI  P66 KPT
+FSE0031    EDTY    LSZR    dct--99nm    FL-180    DKB N869 TEDGO N851 RAUTA T732 GARMO
+FSE0032    LSZR    EDTY    dct--99nm    FL-170    ALAGO Z1 NOTGA Y712 DKB
 ----------------------------------------------
 ----------------------------------------------
-FSE0041    LOWI    LSZR    dct--74nm    FL-160    MOGTI  P66 KPT
-FSE0042    LSZR    LOWI    dct--74nm    FL-150    BEMKI Z999 XEBIX
+FSE0041    LOWI    EDNY    dct--79nm    FL-160    MOGTI  P66 KPT
+FSE0042    EDNY    LOWI    dct--79nm    FL-150    BEMKI Z999 XEBIX
+----------------------------------------------
+----------------------------------------------
+FSE0051    LOWI    LSZR    dct--74nm    FL-160    MOGTI  P66 KPT
+FSE0052    LSZR    LOWI    dct--74nm    FL-150    BEMKI Z999 XEBIX
 ----------------------------------------------
 ----------------------------------------------
 ----------------------------------------------
@@ -135,7 +139,7 @@ TIM2082    LIRF    LSGG    dct-376nm    FL-300    NEMBO T313 ELB M729 PIMOT/M070
 ----------------------------------------------
 ----------------------------------------------
 TIX2091    LSGG    LIRS    dct-298nm    FL-290    MEDAM UM730 ATMAD M730 TOP L50 ELB
-TIX2091    LSGG    LIRS    dct-298nm    FL-190    ROCCA M135 ABULO T345 LURAG M135 TOP L50 ELB
+TIX2091    LSGG    LIRS    dct-298nm    FL-170    ROCCA M135 ABULO T345 LURAG M135 TOP L50 ELB
 TIX2091    LSGG    LIRS    dct-298nm    FL--90    DEPUL G5 LSE A6 ROMAM B16 MTL R161 AMFOU A3 MIRSA L127 ELB
 TIX2092    LIRS    LSGG    dct-298nm    FL-300    BAMVU Y99 GILIO M729 PIMOT/N0400F220 M729 AOSTA L615 BANKO
 TIX2092    LIRS    LSGG    dct-298nm    FL-180    UPADU L127 MIRSA A3 RUBIT G7 MTG A6 MTL B16 BELUS
@@ -166,8 +170,10 @@ TIM2151    LSZH    EDDL    dct----nm    FL----
 TIM2152    EDDL    LSZH    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM2161    LSGG    EDDM    dct----nm    FL----
-TIM2162    EDDM    LSGG    dct----nm    FL----
+TIM2161    EDNY    EDDM    dct-100nm    FL-170    BEMKI T103 OSDER
+TIX2161    EDNY    EDDM    dct-100nm    FL-110    KPT Y110 ATMAX Y100 MERSI
+TIM2162    EDDM    EDNY    dct-100nm    FL-180    MERSI Y100 ATMAX Y110 KPT
+TIX2162    EDDM    EDNY    dct-100nm    FL-120    MERSI Y100 ATMAX Y110 KPT
 ----------------------------------------------
 ----------------------------------------------
 TIM2171    LSGG    EDDS    dct-194nm    FL-230    MOLUS UN871 DITON T163 ZUE T125 REUTL
@@ -197,7 +203,7 @@ TIX3031    LSGG    EGCB    dct-545nm    FL-180    SIROD  A1 DJL A6 SOMDA T11 VAT
 TIX3031    LSGG    EGCB    dct-545nm    FL-100    DIPIR B37 DJL A6 SOMDA B13 ARSIL G40 VATRI B3 RINTI L10 DVR L6 DET WELIN N57 TIPIL
 TIX3031    LSGG    EGCB    dct-545nm    FL-100    SIROD  A1 DJL A6 SOMDA B13 ARSIL G40 VATRI B3 RINTI L10 DVR L6 DET WELIN N57 TIPIL
 TIX3032    EGCB    LSGG    dct-545nm    FL--90    NUGRA Y53 PEDIG M605 DTY L10 BPK N601 DET L6 DVR L10 RINTI B3 VATRI G40 ARSIL B13 SOMDA A6 DJL
-TIX3032    EGCB    LSGG    dct-545nm    FL-190    NUGRA Y53 PEDIG M605 DTY L10 BPK N601 DET MOZ RINTI B3 VATRI T11 SOMDA A6 DJL
+TIX3032    EGCB    LSGG    dct-545nm    FL-170    NUGRA Y53 PEDIG M605 DTY L10 BPK N601 DET MOZ RINTI B3 VATRI T11 SOMDA A6 DJL
 ----------------------------------------------
 ----------------------------------------------
 TIM3041    LSZH    EGCC    dct-545nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613 SANDY UN57 WELIN T420 TNT
