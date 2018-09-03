@@ -421,7 +421,7 @@ TIM4322    UUWW    LSGG    dct1295nm    FL-aut    BG L29 TU N869 OKG UN869 TEDGO
 ----------------------------------------------
 ----------------------------------------------
 TIM5001    KLAS    KBUR    dct-194nm    FL-240    BOACH8 WHIGG KREME JANNY5
-TIM5002    KBUR    KLAS    dct-194nm    FL-230    SLAPP1    MISEN    KEPEC6
+TIM5002    KBUR    KLAS    dct-194nm    FL-250    SLAPP1    MISEN    KEPEC6
 ----------------------------------------------
 ----------------------------------------------
 TIM5011    KLAS    KLAX    dct-205nm    FL-280    BOACH8 RIKII SHTNR ANJLL4
