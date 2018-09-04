@@ -72,11 +72,11 @@ FSE0031    EDTY    LSZR    dct--99nm    FL-180    DKB N869 TEDGO N851 RAUTA T732
 FSE0032    LSZR    EDTY    dct--99nm    FL-170    ALAGO Z1 NOTGA Y712 DKB
 ----------------------------------------------
 ----------------------------------------------
-FSE0041    LOWI    EDNY    dct--79nm    FL-160    MOGTI  P66 KPT
+FSE0041    LOWI    EDNY    dct--79nm    FL-160    KPT
 FSE0042    EDNY    LOWI    dct--79nm    FL-150    BEMKI Z999 XEBIX
 ----------------------------------------------
 ----------------------------------------------
-FSE0051    LOWI    LSZR    dct--74nm    FL-160    MOGTI  P66 KPT
+FSE0051    LOWI    LSZR    dct--74nm    FL-160    KPT
 FSE0052    LSZR    LOWI    dct--74nm    FL-150    BEMKI Z999 XEBIX
 ----------------------------------------------
 ----------------------------------------------
@@ -182,7 +182,7 @@ TIX2092    LIRS    LSGG    dct-298nm    FL-100    UPADU L127 MIRSA A3 RUBIT G7 M
 ----------------------------------------------
 ----------------------------------------------
 TIM2101    LSGG    LOWI    dct-225nm    FL-250    MOLUS UN871 MADEB
-TIM2102    LOWI    LSGG    dct-225nm    FL-260    MOGTI UP66 KPT UL856 TRA Z69 OLBEN UN869 BENOT
+TIM2102    LOWI    LSGG    dct-225nm    FL-260    KPT UL856 TRA Z69 OLBEN UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
 TIM2111    LSZH    LOWW    dct-327nm    FL-310    DEGES Z2 UMVEG NEMAL
