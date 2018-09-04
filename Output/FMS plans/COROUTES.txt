@@ -65,7 +65,7 @@ FSE0012    EDNY    EDTY    dct--88nm    FL-170    ALAGO Z1 NOTGA Y712 DKB
 ----------------------------------------------
 ----------------------------------------------
 FSE0021    EDTY    LOWI    dct-128nm    FL-210    DKB P605 AKANU L603 OLETU Z106 MANAL M736 TULSI
-FSE0022    LOWI    EDTY    dct-128nm    FL-220    BRENO M726 MAH L173 RIXED Y161 ELVAG Z818 DKB
+FSE0022    LOWI    EDTY    dct-128nm    FL-220    KOGOL M726 MAH L173 RIXED Y161 ELVAG Z818 DKB
 ----------------------------------------------
 ----------------------------------------------
 FSE0031    EDTY    LSZR    dct--99nm    FL-180    DKB N869 TEDGO N851 RAUTA T732 GARMO
