@@ -376,36 +376,40 @@ TIM4171    LSGG    GCFV    dct----nm    FL----
 TIM4172    GCFV    LSGG    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM4181    LSGG    GCLA    dct----nm    FL----
-TIM4182    GCLA    LSGG    dct----nm    FL----
+TIM4181    LSZH    GCLP    dct----nm    FL----
+TIM4182    GCLP    LSZH    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM4191    LSZH    GCLP    dct----nm    FL----
-TIM4192    GCLP    LSZH    dct----nm    FL----
+TIM4191    LSZH    GCTS    dct----nm    FL----
+TIM4192    GCTS    LSZH    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM4201    LSZH    GCTS    dct----nm    FL----
-TIM4202    GCTS    LSZH    dct----nm    FL----
+TIM4201    LSZH    LCLK    dct----nm    FL----
+TIM4202    LCLK    LSZH    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM4211    LSGG    GCXO    dct----nm    FL----
-TIM4212    GCXO    LSGG    dct----nm    FL----
+TIM4211    EDNY    LEAL    dct----nm    FL----
+TIM4212    LEAL    EDNY    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM4231    LSZH    LCLK    dct----nm    FL----
-TIM4232    LCLK    LSZH    dct----nm    FL----
+TIM4221    LSZH    LEBB    dct----nm    FL----
+TIM4222    LEBB    LSZH    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM4241    LSGG    LEBL    dct-344nm    FL-330    BALSI UY16 MTL UZ38 PPG UP84 ALBER
-TIM4242    LEBL    LSGG    dct-344nm    FL-340    DALIN UN870 MAXIR UN853 OKTET/F280 UN853 KINES
+TIM4231    LSGG    LEBL    dct-344nm    FL-330    BALSI UY16 MTL UZ38 PPG UP84 ALBER
+TIM4232    LEBL    LSGG    dct-344nm    FL-340    DALIN UN870 MAXIR UN853 OKTET/F280 UN853 KINES
 ----------------------------------------------
 ----------------------------------------------
-TIM4251    LSZH    LEIB    dct----nm    FL----
-TIM4252    LEIB    LSZH    dct----nm    FL----
+TIM4241    LSZH    LEIB    dct----nm    FL----
+TIM4242    LEIB    LSZH    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM4261    LSZH    LEPA    dct----nm    FL----
-TIM4262    LEPA    LSZH    dct----nm    FL----
+TIM4251    LSZH    LEPA    dct----nm    FL----
+TIM4252    LEPA    LSZH    dct----nm    FL----
+----------------------------------------------
+----------------------------------------------
+TIM4261    EDNY    LEST    dct----nm    FL----
+TIM4262    LEST    EDNY    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
 TIM4271    LSGG    LGKR    dct----nm    FL----
