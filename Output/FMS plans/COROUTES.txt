@@ -380,8 +380,8 @@ TIM4181    LSZH    GCLP    dct----nm    FL----
 TIM4182    GCLP    LSZH    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM4191    LSZH    GCTS    dct----nm    FL----
-TIM4192    GCTS    LSZH    dct----nm    FL----
+TIM4191    LSGG    GCTS    dct----nm    FL----
+TIM4192    GCTS    LSGG    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
 TIM4201    LSZH    LCLK    dct----nm    FL----
