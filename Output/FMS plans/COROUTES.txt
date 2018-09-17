@@ -384,8 +384,8 @@ TIM4191    LSGG    GCTS    dct1531nm    FL-aut    BALSI UN852 DIVKO UN975 BCN UM
 TIM4192    GCTS    LSGG    dct1531nm    FL-aut    KORAL UG5 ESS UN871 GAI/F300 UN871 LTP UZ116 BELUS
 ----------------------------------------------
 ----------------------------------------------
-TIM4201    LSZH    LCLK    dct----nm    FL----
-TIM4202    LCLK    LSZH    dct----nm    FL----
+TIM4201    LSZH    LCLK    dct1354nm    FL-310    DEGES Z2 UMVEG                       GUBOK NISVA N131 RODIP UN131 KULAR UT39 TOMBI UM855 DASNI UM601 VADUS UR19 BONEK
+TIM4202    LCLK    LSZH    dct1354nm    FL-aut    PHA UM31 GENOS PEDER EVENO UM601 EXELA UN127 RIKSO UN128 ERESO UN127 LMO EVIVI L863 OKANA ERKIR UL608 KPT UL856 NEGRA
 ----------------------------------------------
 ----------------------------------------------
 TIM4211    EDNY    LEAL    dct-716nm    FL-aut    TRA Z69 OLBEN UN869 NEMOS  GVA BALSI UN852 VERSO UL129 POS UN850 ADX UZ237 OKITI UM603 BAVER R59 GERVU
