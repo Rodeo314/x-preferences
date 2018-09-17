@@ -388,8 +388,8 @@ TIM4201    LSZH    LCLK    dct----nm    FL----
 TIM4202    LCLK    LSZH    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM4211    EDNY    LEAL    dct----nm    FL----
-TIM4212    LEAL    EDNY    dct----nm    FL----
+TIM4211    EDNY    LEAL    dct-716nm    FL-aut    TRA Z69 OLBEN UN869 NEMOS  GVA BALSI UN852 VERSO UL129 POS UN850 ADX UZ237 OKITI UM603 BAVER R59 GERVU
+TIM4212    LEAL    EDNY    dct-716nm    FL-aut    MITOS UN851 PTC UZ238 CHELY UN853 LUMAS UM985 NARTI/F300 UM985 EKSID M985 MONEB N851 ABESI UN851 ROLSA
 ----------------------------------------------
 ----------------------------------------------
 TIM4221    LSZH    LEBB    dct----nm    FL----
@@ -408,8 +408,8 @@ TIM4251    LSZH    LEPA    dct----nm    FL----
 TIM4252    LEPA    LSZH    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM4261    EDNY    LEST    dct----nm    FL----
-TIM4262    LEST    EDNY    dct----nm    FL----
+TIM4261    EDNY    LEST    dct-808nm    FL-aut    TRA Z69 OLBEN UN869 NEMOS         NINTU UN869 AGN UN995 PPN UN976 DGO UN725 SUSOS         LOMDA
+TIM4262    LEST    EDNY    dct-808nm    FL-aut    MEGAT LOTEE UN741 MOKOR UN873 OBATO UM163 TABOV UN491 MELKO UM164 EPL/F230 UN491 TRA T734 GARMO
 ----------------------------------------------
 ----------------------------------------------
 TIM4271    LSGG    LGKR    dct-725nm    FL-aut    MEDAM UM730 ATMAD M730 NITAM                        DINOB UM600 IDIMI
