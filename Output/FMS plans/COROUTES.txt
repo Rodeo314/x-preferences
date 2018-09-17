@@ -392,8 +392,8 @@ TIM4211    EDNY    LEAL    dct-716nm    FL-aut    TRA Z69 OLBEN UN869 NEMOS  GVA
 TIM4212    LEAL    EDNY    dct-716nm    FL-aut    MITOS UN851 PTC UZ238 CHELY UN853 LUMAS UM985 NARTI/F300 UM985 EKSID M985 MONEB N851 ABESI UN851 ROLSA
 ----------------------------------------------
 ----------------------------------------------
-TIM4221    LSZH    LEBB    dct----nm    FL----
-TIM4222    LEBB    LSZH    dct----nm    FL----
+TIM4221    LSZH    LEBB    dct-544nm    FL-350    VEBIT T50 ROTOS UZ669 VADAR        NINTU UN869 AGN UN995 PPN G23 CEGAM
+TIM4222    LEBB    LSZH    dct-544nm    FL-300    PPN UN995 LATEK GONUP UN871 KINNI UZ67 VENAT/F220 UZ67 LAMUR Z57 DOPIL
 ----------------------------------------------
 ----------------------------------------------
 TIM4231    LSGG    LEBL    dct-344nm    FL-330    BALSI UY16 MTL UZ38 PPG UP84 ALBER
