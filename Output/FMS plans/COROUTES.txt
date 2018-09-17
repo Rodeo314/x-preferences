@@ -416,8 +416,10 @@ TIM4271    LSGG    LGKR    dct-725nm    FL-aut    MEDAM UM730 ATMAD M730 NITAM  
 TIM4272    LGKR    LSGG    dct-725nm    FL-300    OLGAT L53 ENOXA Q920 VIE L612 ANC Z982 SRN L615 OMETO/F220 L615 BANKO
 ----------------------------------------------
 ----------------------------------------------
-TIM4281    LSZH    LPFR    dct----nm    FL----
-TIM4282    LPFR    LSZH    dct----nm    FL----
+TIM4281    LSZH    LPFR    dct-963nm    FL-350    VEBIT T50 ROTOS UZ669 VADAR NINTU UN869 BLN UN747 MINTA GENRO
+TIM4281    LSZH    LPFR    dct-963nm    FL-350    VEBIT T50 ROTOS UZ669 VADAR NINTU UN869 BLN UN747 MINTA GIMAL
+TIM4282    LPFR    LSZH    dct-963nm    FL-aut    EVURA ELVAR BARDI UN873 OBATO UM163 TABOV UN491 MELKO UM606 BLM
+TIM4282    LPFR    LSZH    dct-963nm    FL-aut    ALAGU ELVAR BARDI UN873 OBATO UM163 TABOV UN491 MELKO UM606 BLM
 ----------------------------------------------
 ----------------------------------------------
 TIM4291    LSZH    LPMA    dct1453nm    FL-350    VEBIT T50 ROTOS UZ669 VADAR NINTU UN869 BLN UN747 MINTA NARTA LIDRO
