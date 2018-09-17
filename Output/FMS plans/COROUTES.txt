@@ -400,12 +400,12 @@ TIM4231    LSGG    LEBL    dct-344nm    FL-330    BALSI UY16 MTL UZ38 PPG UP84 A
 TIM4232    LEBL    LSGG    dct-344nm    FL-340    DALIN UN870 MAXIR UN853 OKTET/F280 UN853 KINES
 ----------------------------------------------
 ----------------------------------------------
-TIM4241    LSZH    LEIB    dct----nm    FL----
-TIM4242    LEIB    LSZH    dct----nm    FL----
+TIM4241    LSGG    LEIB    dct-489nm    FL----    fixme
+TIM4242    LEIB    LSGG    dct-489nm    FL----    fixme
 ----------------------------------------------
 ----------------------------------------------
-TIM4251    LSZH    LEPA    dct----nm    FL----
-TIM4252    LEPA    LSZH    dct----nm    FL----
+TIM4251    LSZH    LEPA    dct-538nm    FL----    fixme
+TIM4252    LEPA    LSZH    dct-538nm    FL----    fixme
 ----------------------------------------------
 ----------------------------------------------
 TIM4261    EDNY    LEST    dct-808nm    FL-aut    TRA Z69 OLBEN UN869 NEMOS         NINTU UN869 AGN UN995 PPN UN976 DGO UN725 SUSOS         LOMDA
