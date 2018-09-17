@@ -424,8 +424,8 @@ TIM4291    LSZH    LPMA    dct----nm    FL----
 TIM4292    LPMA    LSZH    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM4301    LSZH    ULLI    dct----nm    FL----
-TIM4302    ULLI    LSZH    dct----nm    FL----
+TIM4301    LSZH    ULLI    dct1063nm    FL-350    DEGES Z1 ETAGO TIKNI N746 MAG BODLA Z717 KUNER B810 RONUN L134 GARSO M990 LEP N619 SOKVA Y165 MONUS P862 DITEL R964 OBANA
+TIM4302    ULLI    LSZH    dct1063nm    FL-aut    TURAL B141 RANVA P863 RESMO N619 SOKVA GARSO L134 RONUN B810 KUNER GOVEN AMOSA UN869 TEDGO T724 RILAX
 ----------------------------------------------
 ----------------------------------------------
 TIM4311    LSZH    UUEE    dct1181nm    FL-aut    DEGES Z2 XEBIX UN871 BEPAS N871 POLON M863 MNS T52 MOSON L158 FK
