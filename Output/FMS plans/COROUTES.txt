@@ -420,8 +420,8 @@ TIM4281    LSZH    LPFR    dct----nm    FL----
 TIM4282    LPFR    LSZH    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM4291    LSZH    LPMA    dct----nm    FL----
-TIM4292    LPMA    LSZH    dct----nm    FL----
+TIM4291    LSZH    LPMA    dct1453nm    FL-350    VEBIT T50 ROTOS UZ669 VADAR NINTU UN869 BLN UN747 MINTA NARTA LIDRO
+TIM4292    LPMA    LSZH    dct1453nm    FL-aut    DEGUN DEMOS LOTEE UN741 MOKOR UN873 OBATO UM163 TABOV UN491 LUVAL UG42 PILON UM606 BLM
 ----------------------------------------------
 ----------------------------------------------
 TIM4301    LSZH    ULLI    dct1063nm    FL-350    DEGES Z1 ETAGO TIKNI N746 MAG BODLA Z717 KUNER B810 RONUN L134 GARSO M990 LEP N619 SOKVA Y165 MONUS P862 DITEL R964 OBANA
