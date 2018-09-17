@@ -376,8 +376,8 @@ TIM4171    LSGG    GCFV    dct1425nm    FL-aut    BALSI UN852 DIVKO UN975 BCN UM
 TIM4172    GCFV    LSGG    dct1425nm    FL-aut    KORAL UG5 ESS UN871 GAI/F300 UN871 LTP UZ116 BELUS
 ----------------------------------------------
 ----------------------------------------------
-TIM4181    LSZH    GCLP    dct----nm    FL----
-TIM4182    GCLP    LSZH    dct----nm    FL----
+TIM4181    LSZH    GCLP    dct1622nm    FL-350    VEBIT T50 ROTOS UZ669 VADAR                           NINTU UN869 RUSIK
+TIM4182    GCLP    LSZH    dct1622nm    FL-360    KORAL UN871 ETREK/F300 UN871 KINNI UZ67 VENAT/F220 UZ67 LAMUR Z57 DOPIL
 ----------------------------------------------
 ----------------------------------------------
 TIM4191    LSGG    GCTS    dct1531nm    FL-aut    BALSI UN852 DIVKO UN975 BCN UM985 MGA UN851 VJF UL82 IBALU UN857 TERTO
