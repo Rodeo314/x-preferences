@@ -372,15 +372,15 @@ TIM4152    ESMS    LSGG    dct-623nm    FL-280    SALLO M736 PEROM M864 NUVEN M8
 TIM4161    LSZH    ESSA    dct-804nm    FL-350    DEGES Z1 ETAGO HAREM UN851 MAKEL N851 PELUP Z226 NILUG
 TIM4162    ESSA    LSZH    dct-804nm    FL-aut    NOSLI N850 BAGOS UN850 EDEGA          OMOGI T721 RILAX
 ----------------------------------------------
-----------------------------------------------
+----------------------------------------------fixme EDNY?
 TIM4171    LSGG    GCFV    dct1425nm    FL-aut    BALSI UN852 DIVKO UN975 BCN UM985 MGA UN851 VJF UL82 IBALU UN857 TERTO
 TIM4172    GCFV    LSGG    dct1425nm    FL-aut    KORAL UG5 ESS UN871 GAI/F300 UN871 LTP UZ116 BELUS
 ----------------------------------------------
-----------------------------------------------
+----------------------------------------------fixme EDNY?
 TIM4181    LSZH    GCLP    dct1622nm    FL-350    VEBIT T50 ROTOS UZ669 VADAR                           NINTU UN869 RUSIK
 TIM4182    GCLP    LSZH    dct1622nm    FL-360    KORAL UN871 ETREK/F300 UN871 KINNI UZ67 VENAT/F220 UZ67 LAMUR Z57 DOPIL
 ----------------------------------------------
-----------------------------------------------
+----------------------------------------------fixme EDNY? or LSZH?
 TIM4191    LSGG    GCTS    dct1531nm    FL-aut    BALSI UN852 DIVKO UN975 BCN UM985 MGA UN851 VJF UL82 IBALU UN857 TERTO
 TIM4192    GCTS    LSGG    dct1531nm    FL-aut    KORAL UG5 ESS UN871 GAI/F300 UN871 LTP UZ116 BELUS
 ----------------------------------------------
@@ -665,40 +665,40 @@ TIM5392    PANC    PAJN    dct-496nm    FL-aut    TED J501 YAK J541 SSR
 TIM5392    PANC    PAJN    dct-496nm    FL-aut    NOEND4 NOEND CUSHI
 ----------------------------------------------
 ----------------------------------------------
-TIM5401    KATL    KJAX    dct-234nm    FL----
-TIM5402    KJAX    KATL    dct-234nm    FL----
+TIM5401    KATL    KJAX    dct-234nm    FL----    fixme
+TIM5402    KJAX    KATL    dct-234nm    FL----    fixme
 ----------------------------------------------
 ----------------------------------------------
-TIM5411    KBWG    KATL    dct-222nm    FL----
-TIM5412    KATL    KBWG    dct-222nm    FL----
+TIM5411    KBWG    KATL    dct-222nm    FL----    fixme
+TIM5412    KATL    KBWG    dct-222nm    FL----    fixme
 ----------------------------------------------
 ----------------------------------------------
-TIM5421    KBWG    KORD    dct-308nm    FL----
-TIM5422    KORD    KBWG    dct-308nm    FL----
+TIM5421    KBWG    KORD    dct-308nm    FL----    fixme
+TIM5422    KORD    KBWG    dct-308nm    FL----    fixme
 ----------------------------------------------
 ----------------------------------------------
-TIM5431    KBWG    KPHL    dct-555nm    FL----
-TIM5432    KPHL    KBWG    dct-555nm    FL----
+TIM5431    KBWG    KPHL    dct-555nm    FL----    fixme
+TIM5432    KPHL    KBWG    dct-555nm    FL----    fixme
 ----------------------------------------------
 ----------------------------------------------
-TIM5441    KORD    KBUF    dct-411nm    FL----
-TIM5442    KBUF    KORD    dct-411nm    FL----
+TIM5441    KORD    KBUF    dct-411nm    FL----    fixme
+TIM5442    KBUF    KORD    dct-411nm    FL----    fixme
 ----------------------------------------------
 ----------------------------------------------
 TIM5451    KORD    KCVG    dct-230nm    FL-270    ORD3 EARND ELANR CEGRM5
 TIM5452    KCVG    KORD    dct-230nm    FL-280    JBNCH5 MIE   MZZ VEECK3
 ----------------------------------------------
 ----------------------------------------------
-TIM5461    KORD    KMSP    dct-290nm    FL----
-TIM5462    KMSP    KORD    dct-290nm    FL----
+TIM5461    KORD    KMSP    dct-290nm    FL----    fixme
+TIM5462    KMSP    KORD    dct-290nm    FL----    fixme
 ----------------------------------------------
 ----------------------------------------------
-TIM5471    KPHL    KBUF    dct-242nm    FL----
-TIM5472    KBUF    KPHL    dct-242nm    FL----
+TIM5471    KPHL    KBUF    dct-242nm    FL----    fixme
+TIM5472    KBUF    KPHL    dct-242nm    FL----    fixme
 ----------------------------------------------
 ----------------------------------------------
-TIM5481    KPHL    KPVD    dct-206nm    FL----
-TIM5482    KPVD    KPHL    dct-206nm    FL----
+TIM5481    KPHL    KPVD    dct-206nm    FL----    fixme
+TIM5482    KPVD    KPHL    dct-206nm    FL----    fixme
 ----------------------------------------------
 ----------------------------------------------
 TIM5501    KBOS    KBWI    dct-321nm    FL-aut    PATSS5 PATSS NELIE CMK J75 MXE NUGGY TRISH3
