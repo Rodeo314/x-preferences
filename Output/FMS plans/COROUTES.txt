@@ -340,12 +340,12 @@ TIM4081    LSGG    ELLX    dct----nm    FL----
 TIM4082    ELLX    LSGG    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM4091    LSGG    ENBR    dct----nm    FL----
-TIM4092    ENBR    LSGG    dct----nm    FL----
+TIM4091    LSGG    ENBR    dct-845nm    FL----    fixme
+TIM4092    ENBR    LSGG    dct-845nm    FL----    fixme
 ----------------------------------------------
 ----------------------------------------------
-TIM4101    LSZH    ENGM    dct----nm    FL----
-TIM4102    ENGM    LSZH    dct----nm    FL----
+TIM4101    LSZH    ENGM    dct-771nm    FL----    fixme
+TIM4102    ENGM    LSZH    dct-771nm    FL----    fixme
 ----------------------------------------------
 ----------------------------------------------
 TIM4111    LSGG    ENSB    dct1938nm    FL-aut    ARBOS UL47 EPL UM624 DIK UN852 SPY UZ704 AMADA Z704 PIPEX OMEXA M604 ATSOT
@@ -372,15 +372,15 @@ TIM4152    ESMS    LSGG    dct-623nm    FL-280    SALLO M736 PEROM M864 NUVEN M8
 TIM4161    LSZH    ESSA    dct-804nm    FL-350    DEGES Z1 ETAGO HAREM UN851 MAKEL N851 PELUP Z226 NILUG
 TIM4162    ESSA    LSZH    dct-804nm    FL-aut    NOSLI N850 BAGOS UN850 EDEGA          OMOGI T721 RILAX
 ----------------------------------------------
-----------------------------------------------fixme EDNY?
-TIM4171    LSGG    GCFV    dct1425nm    FL-aut    BALSI UN852 DIVKO UN975 BCN UM985 MGA UN851 VJF UL82 IBALU UN857 TERTO
-TIM4172    GCFV    LSGG    dct1425nm    FL-aut    KORAL UG5 ESS UN871 GAI/F300 UN871 LTP UZ116 BELUS
 ----------------------------------------------
-----------------------------------------------fixme EDNY?
+TIM4171    EDNY    GCFV    dct1586nm    FL-aut    fixme BALSI UN852 DIVKO UN975 BCN UM985 MGA UN851 VJF UL82 IBALU UN857 TERTO
+TIM4172    GCFV    EDNY    dct1586nm    FL-aut    fixme KORAL UG5 ESS UN871 GAI/F300 UN871 LTP UZ116 BELUS
+----------------------------------------------
+----------------------------------------------
 TIM4181    LSZH    GCLP    dct1622nm    FL-350    VEBIT T50 ROTOS UZ669 VADAR                           NINTU UN869 RUSIK
 TIM4182    GCLP    LSZH    dct1622nm    FL-360    KORAL UN871 ETREK/F300 UN871 KINNI UZ67 VENAT/F220 UZ67 LAMUR Z57 DOPIL
 ----------------------------------------------
-----------------------------------------------fixme EDNY? or LSZH?
+----------------------------------------------
 TIM4191    LSGG    GCTS    dct1531nm    FL-aut    BALSI UN852 DIVKO UN975 BCN UM985 MGA UN851 VJF UL82 IBALU UN857 TERTO
 TIM4192    GCTS    LSGG    dct1531nm    FL-aut    KORAL UG5 ESS UN871 GAI/F300 UN871 LTP UZ116 BELUS
 ----------------------------------------------
