@@ -254,8 +254,9 @@ TIM3051    LSZH    EGGD    dct-500nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613
 TIM3052    EGGD    LSZH    dct-500nm    FL-aut    WOTAN GAVGO UL18 MID UL612 RESMI UN491 MELKO UM606 BLM
 ----------------------------------------------
 ----------------------------------------------
-TIM3061    LSZH    EGGP    dct-561nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613 SANDY UN57 WELIN T420 TNT
-TIM3062    EGGP    LSZH    dct-561nm    FL-aut    NANTI L8 HON UL15 BIG UL9 KONAN UL607 KOK UM150 DIK UN852 GTQ UT27 BLM
+TIM3061    LSGG    EGGP    dct-550nm    FL-aut    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 VESAN UL613 SANDY UN57 WELIN T420 TNT
+TIM3061    LSGG    EGGP    dct-550nm    FL-aut    SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 VESAN UL613 SANDY UN57 WELIN T420 TNT
+TIM3062    EGGP    LSGG    dct-550nm    FL-aut    NANTI L8 STAFA P18 TELBA UL151 MID UL612 RESMI UM975 PILUL/F230 UM975 LUSAR
 ----------------------------------------------
 ----------------------------------------------
 TIM3071    LSGG    EGHI    dct-410nm    FL-320    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 SUBIP M8 ELDAX
@@ -389,7 +390,7 @@ TIM4202    LCLK    LSZH    dct1354nm    FL-aut    PHA UM31 GENOS PEDER EVENO UM6
 ----------------------------------------------
 ----------------------------------------------
 TIM4211    EDNY    LEAL    dct-716nm    FL-aut    TRA Z69 OLBEN UN869 NEMOS GVA BALSI UN852 VERSO UL129 POS UN850 ADX UZ237 OKITI UM603 BAVER R59 GERVU
-TIM4212    LEAL    EDNY    dct-716nm    FL-aut    MITOS UN851 PTC UZ238 CHELY UN853 LUMAS UM985 NARTI/F300 UM985 EKSID M985 MONEB N851 ABESI UN851 ROLSA
+TIM4212    LEAL    EDNY    dct-716nm    FL-300    MITOS UN851 PTC UZ238 CHELY UN853 LUMAS UM985 EKSID M985 MONEB N851 ABESI UN851 ROLSA
 ----------------------------------------------
 ----------------------------------------------
 TIM4221    LSZH    LEBB    dct-544nm    FL-350    VEBIT T50 ROTOS UZ669 VADAR        NINTU UN869 AGN UN995 PPN G23 CEGAM
@@ -400,12 +401,12 @@ TIM4231    LSGG    LEBL    dct-344nm    FL-330    BALSI UY16 MTL UZ38 PPG UP84 A
 TIM4232    LEBL    LSGG    dct-344nm    FL-340    DALIN UN870 MAXIR UN853 OKTET/F280 UN853 KINES
 ----------------------------------------------
 ----------------------------------------------
-TIM4241    LSGG    LEIB    dct-489nm    FL----    fixme
-TIM4242    LEIB    LSGG    dct-489nm    FL----    fixme
+TIM4241    LSGG    LEIB    dct-489nm    FL-aut    BALSI UN852 DIVKO UN975 BGR UN855 POS
+TIM4242    LEIB    LSGG    dct-489nm    FL-360    MHN UN853 OKTET/N0340F280 UN853 KINES
 ----------------------------------------------
 ----------------------------------------------
-TIM4251    LSZH    LEPA    dct-538nm    FL----    fixme
-TIM4252    LEPA    LSZH    dct-538nm    FL----    fixme
+TIM4251    LSZH    LEPA    dct-538nm    FL-350    VEBIT T50 ROTOS Z669 ULMES UZ669 VADAR  GVA  BALSI UN852 VERSO UL129 LUNIK
+TIM4252    LEPA    LSZH    dct-538nm    FL-300    MEROS UN853 LUMAS UM985 EKSID M985 MONEB N851 DESIP Z651 CANNE UZ651 KELIP
 ----------------------------------------------
 ----------------------------------------------
 TIM4261    EDNY    LEST    dct-808nm    FL-aut    TRA Z69 OLBEN UN869 NEMOS         NINTU UN869 AGN UN995 PPN UN976 DGO UN725 SUSOS         LOMDA
