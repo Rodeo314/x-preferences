@@ -397,8 +397,8 @@ TIM4221    LSZH    LEBB    dct-544nm    FL-350    VEBIT T50 ROTOS UZ669 VADAR   
 TIM4222    LEBB    LSZH    dct-544nm    FL-300    PPN UN995 LATEK GONUP UN871 KINNI UZ67 VENAT/F220 UZ67 LAMUR Z57 DOPIL
 ----------------------------------------------
 ----------------------------------------------
-TIM4231    LSGG    LEBL    dct-344nm    FL-330    BALSI UY16 MTL UZ38 PPG UP84 ALBER
-TIM4232    LEBL    LSGG    dct-344nm    FL-340    DALIN UN870 MAXIR UN853 OKTET/F280 UN853 KINES
+TIM4231    LSGG    LEBL    dct-344nm    FL-aut    BALSI UN852 DIVKO UN975 BISBA
+TIM4232    LEBL    LSGG    dct-344nm    FL-300    DALIN UN870 MAXIR UN853 OKTET/F280 UN853 KINES
 ----------------------------------------------
 ----------------------------------------------
 TIM4241    LSGG    LEIB    dct-489nm    FL-aut    BALSI UN852 DIVKO UN975 BGR UN855 POS
