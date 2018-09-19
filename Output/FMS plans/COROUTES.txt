@@ -307,7 +307,7 @@ TIM4001    LSZH    BIKF    dct1424nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613
 TIM4002    BIKF    LSZH    dct1424nm    FL-aut    OSKUM RATSU N610 RUGID UP59 NEXUS N96 ROKAN M982 TOPPA SPY UN852 GTQ UT27 BLM
 ----------------------------------------------
 ----------------------------------------------
-TIM4011    LSGG    EBBR    dct-287nm    FL-240    ARBOS UL47 EPL UM624 DIK UN852 LNO
+TIM4011    LSGG    EBBR    dct-287nm    FL-240    DIPIR UV25 ARBOS UL47 IXILU UN853 DIK UN852 LNO
 TIM4012    EBBR    LSGG    dct-287nm    FL-230    ROUSY UT27 GTQ UN852 TIRSO UZ24 AKITO
 ----------------------------------------------
 ----------------------------------------------
@@ -323,7 +323,7 @@ TIM4041    LSGG    EFRO    dct1374nm    FL-aut    MOLUS UN871 DITON T163 ZUE T12
 TIM4042    EFRO    LSGG    dct1374nm    FL-aut    OLNOP T404 VERAG T402 GOLMI N850 BAGOS UN850 KRH/M080F300 UN850 NATOR UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
-TIM4051    LSGG    EHAM    dct-368nm    FL-aut    ARBOS UL47 EPL UM624 BUB UY28 HELEN
+TIM4051    LSGG    EHAM    dct-368nm    FL-aut    DIPIR UV25 ARBOS UL47 IXILU UN853 DIK UM624 BUB UY28 HELEN
 TIM4052    EHAM    LSGG    dct-368nm    FL-330    LOPIK UN852 ARPUS UZ24 AKITO
 ----------------------------------------------
 ----------------------------------------------
@@ -340,7 +340,7 @@ TIM4081    LSGG    ELLX    dct----nm    FL----
 TIM4082    ELLX    LSGG    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM4091    LSGG    ENBR    dct-845nm    FL----    fixme
+TIM4091    LSGG    ENBR    dct-845nm    FL-aut    DIPIR UV25 ARBOS UL47 IXILU UN853 DIK UN852 SPY UZ704 KONOM UZ733 GREFI P603 KARLI Z322 ALUVA
 TIM4092    ENBR    LSGG    dct-845nm    FL-aut    TUXIL P603 ZOL P614 RAM ALASA UP615 LBV UL126 WRB UN850 KRH/N0340F300 UN850 NATOR UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
@@ -348,8 +348,8 @@ TIM4101    LSZH    ENGM    dct-771nm    FL-350    DEGES Z1 ETAGO HAREM UN851 KEM
 TIM4102    ENGM    LSZH    dct-771nm    FL----    fixme
 ----------------------------------------------
 ----------------------------------------------
-TIM4111    LSGG    ENSB    dct1938nm    FL-aut    ARBOS UL47 EPL UM624 DIK UN852 SPY UZ704 AMADA Z704 PIPEX OMEXA M604 ATSOT
-TIM4112    ENSB    LSGG    dct1938nm    FL-aut    INPAR M604 OMEXA ALASA UP615 LBV UL126 WRB UN850 KRH/N0340F300 UN850 NATOR UN869 BENOT
+TIM4111    LSGG    ENSB    dct1938nm    FL-aut    DIPIR UV25 ARBOS UL47 IXILU UN853 ARCKY UZ907 OSDIK UZ706 KEGAB UL126 LBV UP615 TUGDU UM852 ALASA OMEXA M604 ATSOT
+TIM4112    ENSB    LSGG    dct1938nm    FL-aut    INPAR M604 OMEXA ALASA UP615 LBV UL126 WRB UN850 KRH/M080F300 UN850 NATOR UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
 TIM4121    LSGG    EPKK    dct-595nm    FL-330    MOLUS UN871 BEPAS T709 SOPAV L984 PADKA
