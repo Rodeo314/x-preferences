@@ -341,10 +341,10 @@ TIM4082    ELLX    LSGG    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
 TIM4091    LSGG    ENBR    dct-845nm    FL----    fixme
-TIM4092    ENBR    LSGG    dct-845nm    FL----    fixme
+TIM4092    ENBR    LSGG    dct-845nm    FL-aut    TUXIL P603 ZOL P614 RAM ALASA UP615 LBV UL126 WRB UN850 KRH/N0340F300 UN850 NATOR UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
-TIM4101    LSZH    ENGM    dct-771nm    FL----    fixme
+TIM4101    LSZH    ENGM    dct-771nm    FL-350    DEGES Z1 ETAGO HAREM UN851 KEMAD LBV UP615 TUGDU UM852 ALASA M852 ALS Z731 SABAK L997 LUNIP
 TIM4102    ENGM    LSZH    dct-771nm    FL----    fixme
 ----------------------------------------------
 ----------------------------------------------
