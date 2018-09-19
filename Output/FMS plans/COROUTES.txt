@@ -345,7 +345,7 @@ TIM4092    ENBR    LSGG    dct-845nm    FL-aut    TUXIL P603 ZOL P614 RAM ALASA 
 ----------------------------------------------
 ----------------------------------------------
 TIM4101    LSZH    ENGM    dct-771nm    FL-350    DEGES Z1 ETAGO HAREM UN851 KEMAD LBV UP615 TUGDU UM852 ALASA M852 ALS Z731 SABAK L997 LUNIP
-TIM4102    ENGM    LSZH    dct-771nm    FL----    fixme
+TIM4102    ENGM    LSZH    dct-771nm    FL-aut    TOR P615 ALS M852 ALASA UM852 EKERN UP615 LBV UL126 WRB UN850 EDEGA        OMOGI T721 RILAX
 ----------------------------------------------
 ----------------------------------------------
 TIM4111    LSGG    ENSB    dct1938nm    FL-aut    DIPIR UV25 ARBOS UL47 IXILU UN853 ARCKY UZ907 OSDIK UZ706 KEGAB UL126 LBV UP615 TUGDU UM852 ALASA OMEXA M604 ATSOT
