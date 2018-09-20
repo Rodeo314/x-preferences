@@ -315,8 +315,8 @@ TIM4021    LSZH    EBCI    dct-242nm    FL-aut    VEBIT T51 LASUN UT10 TORPA UM6
 TIM4022    EBCI    LSZH    dct-242nm    FL-aut    RITAX UT27 BLM
 ----------------------------------------------
 ----------------------------------------------
-TIM4031    LSZH    EFHK    dct-962nm    FL-350    DEGES Z1 ETAGO HAREM UN851 MAKEL OKEVU P606 DIVAM
-TIM4032    EFHK    LSZH    dct-962nm    FL----    fixme
+TIM4031    LSZH    EFHK    dct-962nm    FL-350    DEGES Z1 ETAGO                                      HAREM UN851 MAKEL OKEVU P606 DIVAM
+TIM4032    EFHK    LSZH    dct-962nm    FL-aut    ADIVO N872 ALS M852 ALASA UM852 EKERN UP615 LBV UL126 WRB UN850 EDEGA OMOGI T721 RILAX
 ----------------------------------------------
 ----------------------------------------------
 TIM4041    LSGG    EFRO    dct1374nm    FL-aut    MOLUS UN871 DITON T163 ZUE T125 ROMIR UN851 MAKEL N851 RIKUM Y370 RUBSI T95 NEPIX
