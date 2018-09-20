@@ -336,8 +336,8 @@ TIM4071    LSZH    EKCH    dct-514nm    FL-350    DEGES Z1 ETAGO                
 TIM4072    EKCH    LSZH    dct-514nm    FL-aut    NEXEN T503 GIMRU UT503 MIC UZ712 KEGAB UZ706 NVO UM170 KENUM UM615 GESLO UN852 MIRGU UT407 BLM
 ----------------------------------------------
 ----------------------------------------------
-TIM4081    LSGG    ELLX    dct-203nm    FL----    fixme
-TIM4082    ELLX    LSGG    dct-203nm    FL----    fixme
+TIM4081    LSGG    ELLX    dct-203nm    FL-240    DIPIR UV25 ARBOS UL47 GIVOR UN853 SORAL/F180 V36 AKELU
+TIM4082    ELLX    LSGG    dct-203nm    FL-230    GTQ UN852 MOROK UZ24 AKITO
 ----------------------------------------------
 ----------------------------------------------
 TIM4091    LSGG    ENBR    dct-845nm    FL-aut    DIPIR UV25 ARBOS UL47 IXILU UN853 DIK UN852 SPY UZ704 KONOM UZ733 GREFI P603 KARLI Z322 ALUVA
