@@ -332,8 +332,8 @@ TIM4061    LSGG    EIDW    dct-644nm    FL-aut    SIROD Z124 IBABA UZ124 OBURO U
 TIM4062    EIDW    LSGG    dct-644nm    FL-aut    PESIT BAKUR N546 STU UP2 NIGIT UL18 MID UL612 RESMI UM975 PILUL/F230 UM975 LUSAR
 ----------------------------------------------
 ----------------------------------------------
-TIM4071    LSZH    EKCH    dct-514nm    FL----    fixme
-TIM4072    EKCH    LSZH    dct-514nm    FL----    fixme
+TIM4071    LSZH    EKCH    dct-514nm    FL-350    DEGES Z1 ETAGO                                         HAREM UN851 MAKEL N851 GESKA Z711 MONAK
+TIM4072    EKCH    LSZH    dct-514nm    FL-aut    NEXEN T503 GIMRU UT503 MIC UZ712 KEGAB UZ706 NVO UM170 KENUM UM615 GESLO UN852 MIRGU UT407 BLM
 ----------------------------------------------
 ----------------------------------------------
 TIM4081    LSGG    ELLX    dct-203nm    FL----    fixme
