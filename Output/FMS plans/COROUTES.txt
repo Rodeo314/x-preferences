@@ -73,11 +73,11 @@ FSE0031    EDTY    LSZR    dct--99nm    FL-180    DKB N869 TEDGO N851 RAUTA T732
 FSE0032    LSZR    EDTY    dct--99nm    FL-170    ALAGO Z1 NOTGA Y712 DKB
 ----------------------------------------------
 ----------------------------------------------
-FSE0041    LOWI    EDNY    dct--79nm    FL-160    KPT
+FSE0041    LOWI    EDNY    dct--79nm    FL-160       MOGTI P66 KPT
 FSE0042    EDNY    LOWI    dct--79nm    FL-150    BEMKI Z999 XEBIX
 ----------------------------------------------
 ----------------------------------------------
-FSE0051    LOWI    LSZR    dct--74nm    FL-160    KPT
+FSE0051    LOWI    LSZR    dct--74nm    FL-160       MOGTI P66 KPT
 FSE0052    LSZR    LOWI    dct--74nm    FL-150    BEMKI Z999 XEBIX
 ----------------------------------------------
 ----------------------------------------------
