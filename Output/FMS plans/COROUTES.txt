@@ -116,7 +116,8 @@ TIM1002    EDNY    LSGG    dct-164nm    FL-170    TRA Z69 OLBEN N869 BENOT
 ----------------------------------------------
 TIM1011    LSGG    LFSB    dct-100nm    FL-140    KONIL Z63  SOSAL N871 KONOL Z59 LUMEL
 TIM1011    LSGG    LFSB    dct-100nm    FL-140    MOLUS N871 SOSAL N871 KONOL Z59 LUMEL
-TIM1012    LFSB    LSGG    dct-100nm    FL-150    BASUD Z55 ROTOS Z669 ULMES
+TIM1011    LSGG    LFSB    dct-100nm    FL-140                 SPR W102 BALIR Z59 LUMEL
+TIM1012    LFSB    LSGG    dct-100nm    FL-150               BASUD Z55 ROTOS Z669 ULMES
 ----------------------------------------------
 ----------------------------------------------
 TIM1021    EDNY    LSGS    dct-125nm    FL-170    TRA Z69 OLBEN N869 NEMOS Y58 VADAR
