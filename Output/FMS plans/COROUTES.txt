@@ -544,7 +544,7 @@ TIM5162    KSLC    KSFO    dct-520nm    FL-aut    ARCHZ1 KROST  OAL INYOE DYAMD3
 TIM5162    KSLC    KSFO    dct-520nm    FL-aut    DEZRT1 BAM    LLC LEGGS BDEGA2
 ----------------------------------------------
 ----------------------------------------------
-TIM5171    PAJN    KSEA    dct-790nm    FL-aut    JNU5 SSR J502 YYJ MARNR7
+TIM5171    PAJN    KSEA    dct-790nm    FL-aut          JNU5 LVD J502 YYJ MARNR7
 TIM5172    KSEA    PAJN    dct-790nm    FL-aut    BANGR9 ARRIE J523 YZT J502 SSR
 ----------------------------------------------
 ----------------------------------------------
@@ -667,7 +667,7 @@ TIM5371    KSLC    KTPA    dct1640nm    FL-aut    RUGGD1 EKR     WENIL RZC IGB M
 TIM5372    KTPA    KSLC    dct1640nm    FL-aut    ENDED7 SZW MEI SQS FSM PER PUB JNC HELPR LEEHY5
 ----------------------------------------------
 ----------------------------------------------
-TIM5381    PAJN    PAKT    dct-204nm    FL-290      JNU5 SSR J502 DOOZI
+TIM5381    PAJN    PAKT    dct-204nm    FL-290      JNU5 LVD J502 DOOZI
 TIM5382    PAKT    PAJN    dct-204nm    FL-300    SKOWL2 DOOZI J502 SSR
 TIM5382    PAKT    PAJN    dct-204nm    FL-300       CETK6 ANN J502 SSR
 ----------------------------------------------
