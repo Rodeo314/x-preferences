@@ -95,6 +95,11 @@ TIM0021    LSGG    LFMT    dct-184nm    FL-230    BALSI UY16 MTL MOLEN NG
 TIM0022    LFMT    LSGG    dct-184nm    FL-240    NG MOLEN MTL UN854 ETREK UN871 LTP UZ116 BELUS
 ----------------------------------------------
 ----------------------------------------------
+TIM0031    LSGG    EDDM    dct-264nm    FL-270    KONIL Z63  SOSAL UN871 DITON T103 OSDER
+TIM0031    LSGG    EDDM    dct-264nm    FL-270    MOLUS N871 SOSAL UN871 DITON T103 OSDER
+TIM0032    EDDM    LSGG    dct-264nm    FL-280       MERSI Y100 TRA Z69 OLBEN UN869 BENOT
+----------------------------------------------
+----------------------------------------------
 ----------------------------------------------
 TIM0101    LSGG    KBOS    dct3196nm    FL----
 TIM0102    KBOS    LSGG    dct3196nm    FL----
@@ -120,26 +125,31 @@ TIM1011    LSGG    LFSB    dct-100nm    FL-140                 SPR W102 BALIR Z5
 TIM1012    LFSB    LSGG    dct-100nm    FL-150               BASUD Z55 ROTOS Z669 ULMES
 ----------------------------------------------
 ----------------------------------------------
-TIM1021    EDNY    LSGS    dct-125nm    FL-170    TRA Z69 OLBEN N869 NEMOS Y58 VADAR
-TIM1022    LSGS    EDNY    dct-125nm    FL-180    SPR Z64 MOLUS N871 DITON Z671 ROLSA
+TIX1021    LSGG    LSGK    dct--40nm    FL--75             SPR4N SPR VFR
+TIX1021    LSGG    LSGK    dct--40nm    FL-105          MOLU3A MOLUS VFR
+TIX1022    LSGK    LSGG    dct--40nm    FL--75   VFR FRI IFR FRI1S/FRI1T
 ----------------------------------------------
 ----------------------------------------------
-TIM1031    LSGG    LSZA    dct-118nm    FL-220    KONIL Z63  SOSAL UN871 TELNO W112 SOSON UN850 ODINA
-TIM1031    LSGG    LSZA    dct-118nm    FL-220    MOLUS N871 SOSAL UN871 TELNO W112 SOSON UN850 ODINA
-TIM1032    LSZA    LSGG    dct-118nm    FL-220    OMETO L615 BANKO
+TIM1031    EDNY    LSGS    dct-125nm    FL-170    TRA Z69 OLBEN N869 NEMOS Y58 VADAR
+TIM1032    LSGS    EDNY    dct-125nm    FL-180    SPR Z64 MOLUS N871 DITON Z671 ROLSA
 ----------------------------------------------
 ----------------------------------------------
-TIM1041    EDNY    LSZB    dct--94nm    FL-150    TRA Z669 ROTOS
-TIM1042    LSZB    EDNY    dct--94nm    FL-160    RAMOK Z143 BERSU N871 DITON Z671 ROLSA
+TIM1041    LSGG    LSZA    dct-118nm    FL-220    KONIL Z63  SOSAL UN871 TELNO W112 SOSON UN850 ODINA
+TIM1041    LSGG    LSZA    dct-118nm    FL-220    MOLUS N871 SOSAL UN871 TELNO W112 SOSON UN850 ODINA
+TIM1042    LSZA    LSGG    dct-118nm    FL-220    OMETO L615 BANKO
 ----------------------------------------------
 ----------------------------------------------
-TIM1051    LSGG    LSZR    dct-161nm    FL-180    KONIL Z63  SOSAL N871 DITON Z671 ROLSA
-TIM1051    LSGG    LSZR    dct-161nm    FL-180    MOLUS N871 SOSAL N871 DITON Z671 ROLSA
-TIM1052    LSZR    LSGG    dct-161nm    FL-170    TRA Z69 OLBEN N869 BENOT
+TIM1051    EDNY    LSZB    dct--94nm    FL-150    TRA Z669 ROTOS
+TIM1052    LSZB    EDNY    dct--94nm    FL-160    RAMOK Z143 BERSU N871 DITON Z671 ROLSA
 ----------------------------------------------
 ----------------------------------------------
-TIM1061    LSZA    LSZR    dct--93nm    FL-150    CANNE Z651 KESEX Z653 ROLSA
-TIM1062    LSZR    LSZA    dct--93nm    FL-160    TRA N850 ODINA
+TIM1061    LSGG    LSZR    dct-161nm    FL-180    KONIL Z63  SOSAL N871 DITON Z671 ROLSA
+TIM1061    LSGG    LSZR    dct-161nm    FL-180    MOLUS N871 SOSAL N871 DITON Z671 ROLSA
+TIM1062    LSZR    LSGG    dct-161nm    FL-170    TRA Z69 OLBEN N869 BENOT
+----------------------------------------------
+----------------------------------------------
+TIM1071    LSZA    LSZR    dct--93nm    FL-150    CANNE Z651 KESEX Z653 ROLSA
+TIM1072    LSZR    LSZA    dct--93nm    FL-160    TRA N850 ODINA
 ----------------------------------------------
 ----------------------------------------------
 ----------------------------------------------
