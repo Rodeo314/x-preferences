@@ -99,8 +99,8 @@ FSE0091    EDDM    LOWI    dct--68nm    FL-160    TURBU Y107 RTT
 FSE0092    LOWI    EDDM    dct--68nm    FL-150    KOGOL
 ----------------------------------------------
 ----------------------------------------------
-FSE0101    EBAW    EDFH    dct-131nm    FL-210      NIK UM624 REMBA UL607 SPI UQ50 SUXIM L607 ROPUV
-FSE0102    EDFH    EBAW    dct-131nm    FL-220    RUDOT Q760 ODVUX Z104 ROBON UZ104 GESLO UN852 LNO
+FSE0101    EBAW    EDFH    dct-131nm    FL-210    NIK M624 BUB UM624 REMBA UL607 SPI Q50 ARCKY L607 ROPUV
+FSE0102    EDFH    EBAW    dct-131nm    FL-220                                             DIK UY37 BATTY
 ----------------------------------------------
 ----------------------------------------------
 ----------------------------------------------
