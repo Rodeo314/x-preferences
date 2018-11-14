@@ -106,7 +106,7 @@ FSE0102    EDFH    EBAW    dct-131nm    FL-220                                  
 ----------------------------------------------
 TIM0001    LSGG    LSZH    dct-124nm    FL-160    KONIL Z63  SOSAL N871 BERSU
 TIM0001    LSGG    LSZH    dct-124nm    FL-160    MOLUS N871 SOSAL N871 BERSU
-TIM0002    LSZH    LSGG    dct-124nm    FL-150    VEBIT T50 ROTOS Z669 ULMES
+TIM0002    LSZH    LSGG    dct-124nm    FL-150    VEBIT T50  ROTOS Z669 ULMES
 ----------------------------------------------
 ----------------------------------------------
 TIM0011    LSGG    LFMN    dct-161nm    FL-230    MEDAM  Y24  VEVAR
