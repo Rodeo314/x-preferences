@@ -810,16 +810,20 @@ TIM5641    KMIA    TNCM    dct1063nm    FL-aut    SKIPS2 SKIPS BR53V RAJAY A555 
 TIM5642    TNCM    KMIA    dct1063nm    FL-aut    JUICE B520 STT RTE6 ROBLL Y587 COZIE     FOWEE FLIPR5
 ----------------------------------------------
 ----------------------------------------------
-TIM5651    TNCM    TIST    dct-108nm    FL-160    JUICE B520 STT
-TIM5652    TIST    TNCM    dct-108nm    FL-170    STT A638 SLUGO
+TIM5651    TNCM    MDPC    dct-302nm    FL-aut             JUICE B520 STT L577 ANTEX
+TIM5652    MDPC    TNCM    dct-302nm    FL-aut    KATOK A636 BQN B520 STT A638 SLUGO
 ----------------------------------------------
 ----------------------------------------------
-TIM5661    TNCM    TLPL    dct-286nm    FL-aut    ELOPO UB520 ANU UA312 FOF A324 KISES
-TIM5662    TLPL    TNCM    dct-286nm    FL-aut    KISES A324 FOF UA312 ANU UB520 ELOPO
+TIM5661    TNCM    TIST    dct-108nm    FL-160    JUICE B520 STT
+TIM5662    TIST    TNCM    dct-108nm    FL-170    STT A638 SLUGO
 ----------------------------------------------
 ----------------------------------------------
-TIM5671    TNCM    TNCB    dct-463nm    FL-aut    DANDE A516 MILOK UA516 SINDA
-TIM5672    TNCB    TNCM    dct-463nm    FL-aut    SINDA UA516 MILOK A516 DANDE
+TIM5671    TNCM    TLPL    dct-286nm    FL-aut    ELOPO UB520 ANU UA312 FOF A324 KISES
+TIM5672    TLPL    TNCM    dct-286nm    FL-aut    KISES A324 FOF UA312 ANU UB520 ELOPO
+----------------------------------------------
+----------------------------------------------
+TIM5681    TNCM    TNCB    dct-463nm    FL-aut    DANDE A516 MILOK UA516 SINDA
+TIM5682    TNCB    TNCM    dct-463nm    FL-aut    SINDA UA516 MILOK A516 DANDE
 ----------------------------------------------
 ----------------------------------------------
 .
