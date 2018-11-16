@@ -627,9 +627,9 @@ TIM5271    KSLC    KASE    dct-254nm    FL-aut    RUGGD1 EKR TRUEL DBL
 TIM5271    KASE    KSLC    dct-254nm    FL-aut    LINDZ9 JNC HELPR LEEHY5
 ----------------------------------------------
 ----------------------------------------------
-TIM5281    KSLC    KJAC    dct-178nm    FL-290    RUGGD1 HOLTR DNW
-TIM5282    KJAC    KSLC    dct-178nm    FL-300    ALPIN2 KICNE LHO NORDK5
-TIM5282    KJAC    KSLC    dct-178nm    FL-300    GEYSR5 NALSI LHO NORDK5
+TIM5281    KSLC    KJAC    dct-178nm    FL-290    RUGGD1 HOLTR LEIDY DNW
+TIM5282    KJAC    KSLC    dct-178nm    FL-300    ALPIN2 KICNE LHO NORDK6
+TIM5282    KJAC    KSLC    dct-178nm    FL-300    GEYSR5 NALSI LHO NORDK6
 ----------------------------------------------
 ----------------------------------------------
 TIM5291    KSLC    KPUW    dct-421nm    FL-aut    CGULL1 TWF J12 DNJ MQG PUW
