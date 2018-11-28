@@ -195,20 +195,23 @@ TIM2051    LSGG    LIML    dct-141nm    FL----
 TIM2052    LIML    LSGG    dct-141nm    FL----
 ----------------------------------------------
 ----------------------------------------------
-TIM2061    LSGG    LIPZ    dct-265nm    FL-290    MEDAM UM730 ATMAD M730 KUMIN  Y11  LURUT M859 BOA Y504 NIMUM Z43 SOVUB
-TIM2061    LSGG    LIPZ    dct-265nm    FL-330    MEDAM UM730 ATMAD M730 NITAM MOGBO LURUT M859 BOA Y504 NIMUM Z43 SOVUB
-TIM2062    LIPZ    LSGG    dct-265nm    FL-320                                      VIC L615 OSKOR OMETO/F220 L615 BANKO
-TIM2062    LIPZ    LSGG    dct-265nm    FL-300                                      VIC L615       OMETO/F220 L615 BANKO
+TIM2061    LSGG    LIPZ    CFMU:IGNORE: PROF205: RS: TRAFFIC VIA GVA IS OFF MANDATORY ROUTE REF:[LS5042B] GVA DCT KOGAS APP4
+TIM2061    LSGG    LIPZ    dct-265nm    FL-290        MEDAM UM730 ATMAD M730 KUMIN  Y11  LURUT M859 BOA Y504 NIMUM Z43 SOVUB
+TIM2061    LSGG    LIPZ    dct-265nm    FL-330        MEDAM UM730 ATMAD M730 NITAM MOGBO LURUT M859 BOA Y504 NIMUM Z43 SOVUB
+TIM2062    LIPZ    LSGG    dct-265nm    FL-320                                          VIC L615 OSKOR OMETO/F220 L615 BANKO
+TIM2062    LIPZ    LSGG    dct-265nm    FL-300                                          VIC L615       OMETO/F220 L615 BANKO
 ----------------------------------------------
 ----------------------------------------------
 TIM2071    LSZH    LIRA    dct-381nm    FL-370    DEGES Z2 OSDOV UM738 NATAG/F290 M738 ADOSA P131 LUMAV Z982 DITUM Y106 GITOD
 TIM2072    LIRA    LSZH    dct-381nm    FL-360    SOVAN L995 KUGIX                          PEPAG/F300 L995 CANNE UZ651 KELIP
 ----------------------------------------------
 ----------------------------------------------
-TIM2081    LSGG    LIRF    dct-376nm    FL-370    MEDAM UM730 ATMAD M730 NITAM/F290 M730 TOP L50 ELB L146 ELKAP
-TIM2082    LIRF    LSGG    dct-376nm    FL-360    GILIO M729 ELB               PIMOT/F220 M729 AOSTA L615 BANKO
+TIM2081    LSGG    LIRF    CFMU:IGNORE: PROF205: RS: TRAFFIC VIA GVA IS OFF MANDATORY ROUTE REF:[LS5042B] GVA DCT KOGAS APP4
+TIM2081    LSGG    LIRF    dct-376nm    FL-370                 MEDAM UM730 ATMAD M730 NITAM/F290 M730 TOP L50 ELB L146 ELKAP
+TIM2082    LIRF    LSGG    dct-376nm    FL-360                               GILIO M729 ELB PIMOT/F220 M729 AOSTA L615 BANKO
 ----------------------------------------------
 ----------------------------------------------
+TIX2091    LSGG    LIRS    CFMU:IGNORE: PROF205: RS: TRAFFIC VIA GVA IS OFF MANDATORY ROUTE REF:[LS5042B] GVA DCT KOGAS APP4
 TIX2091    LSGG    LIRS    dct-298nm    FL-370                                               MEDAM UM730 ATMAD M730 NITAM/F290 M730 TOP L50 ELB L127 UPADU
 TIX2091    LSGG    LIRS    dct-298nm    FL-170    DEPUL G5 LSE A6 ROMAM T43 EVALA A3 PERUS G374 XAMAL M623 EBORA P856 DIVUL G374 SODRI A3 MIRSA L127 UPADU
 TIX2091    LSGG    LIRS    dct-298nm    FL--90                                                DEPUL G5 LSE A6 ROMAM B16 MTL R161 AMFOU A3 MIRSA L127 UPADU
