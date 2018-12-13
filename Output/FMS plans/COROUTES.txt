@@ -220,13 +220,13 @@ TIX2092    LIRS    LSGG    dct-298nm    FL-180                                  
 TIX2092    LIRS    LSGG    dct-298nm    FL-100                                                           UPADU L127 MIRSA A3 RUBIT G7 MTG A6 MTL B16 BELUS
 ----------------------------------------------
 ----------------------------------------------
-TIM2101    LSGG    LOWI    dct-225nm    FL-250           KONIL Z63  SOSAL UN871 MADEB
-TIM2101    LSGG    LOWI    dct-225nm    FL-250           MOLUS N871 SOSAL UN871 MADEB
-TIM2102    LOWI    LSGG    dct-225nm    FL-260    KPT UL856 TRA Z69 OLBEN UN869 BENOT
+TIM2101    LSGG    LOWI    dct-225nm    FL-250    KONIL Z63  SOSAL UN871 GAMSA N871 MADEB
+TIM2101    LSGG    LOWI    dct-225nm    FL-250    MOLUS N871 SOSAL UN871 GAMSA N871 MADEB
+TIM2102    LOWI    LSGG    dct-225nm    FL-260        KPT UL856 TRA Z69 OLBEN UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
-TIM2111    LSZH    LOWW    dct-327nm    FL-370    DEGES Z2 XEBIX UN871 BADVI UL725 INPUL NEMAL
-TIM2112    LOWW    LSZH    dct-327nm    FL-aut    SOVIL                      TRAUN UL856 NEGRA
+TIM2111    LSZH    LOWW    dct-327nm    FL-aut    DEGES Z2 UMVEG    NEMAL
+TIM2112    LOWW    LSZH    dct-327nm    FL-aut    SOVIL TRAUN UL856 NEGRA
 ----------------------------------------------
 ----------------------------------------------
 TIM2121    LSZH    EDDF    dct----nm    FL----
@@ -396,13 +396,13 @@ TIM4121    LSGG    ENSB    dct1938nm    FL-aut    DIPIR UV25 ARBOS UL47 IXILU UN
 TIM4122    ENSB    LSGG    dct1938nm    FL-aut    INPAR M604 OMEXA ALASA UP615 LBV UL126 WRB UN850 KRH/M080F300 UN850 NATOR UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
-TIM4131    LSGG    EPKK    dct-595nm    FL-aut    KONIL Z63  SOSAL UN871 GAMSA BADVI UN871 BEPAS T709 SOPAV L984 PADKA
-TIM4131    LSGG    EPKK    dct-595nm    FL-aut    MOLUS N871 SOSAL UN871 GAMSA BADVI UN871 BEPAS T709 SOPAV L984 PADKA
-TIM4132    EPKK    LSGG    dct-595nm    FL-340    TUSIN M984 MIKOV               TRAUN UL856 TRA Z69 OLBEN UN869 BENOT
+TIM4131    LSGG    EPKK    dct-595nm    FL-aut    KONIL Z63  SOSAL UN871 GAMSA BADVI N871 BEPAS T709 SOPAV L984 PADKA
+TIM4131    LSGG    EPKK    dct-595nm    FL-aut    MOLUS N871 SOSAL UN871 GAMSA BADVI N871 BEPAS T709 SOPAV L984 PADKA
+TIM4132    EPKK    LSGG    dct-595nm    FL-340    TUSIN M984 MIKOV              TRAUN UL856 TRA Z69 OLBEN UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
-TIM4141    LSZH    EPWA    dct-558nm    FL-370    DEGES Z2 XEBIX UN871 BEPAS N871 OKENO Q277 AGAVA
-TIM4142    EPWA    LSZH    dct-558nm    FL-aut    EVINA N744 TUSIN M984 MIKOV    TRAUN UL856 NEGRA
+TIM4141    LSZH    EPWA    dct-558nm    FL-aut             DEGES Z2 XEBIX N871 OKENO Q277 AGAVA
+TIM4142    EPWA    LSZH    dct-558nm    FL-aut    EVINA N744 TUSIN M984 MIKOV TRAUN UL856 NEGRA
 ----------------------------------------------
 ----------------------------------------------
 TIM4151    LSZH    ESGG    dct-628nm    FL-350    DEGES Z1 ETAGO HAREM UN851 MAKEL N851 GESKA Z706 NOVPO L997 RISMA
@@ -419,16 +419,16 @@ TIM4171    LSZH    ESSA    dct-804nm    FL-350    DEGES Z1 ETAGO HAREM UN851 MAK
 TIM4172    ESSA    LSZH    dct-804nm    FL-aut    NOSLI N850 BAGOS UN850 EDEGA          OMOGI T721 RILAX
 ----------------------------------------------
 ----------------------------------------------
-TIM4181    EDNY    GCFV    dct1586nm    FL-aut    TRA Z69 OLBEN UN869 NEMOS NINTU UN869 ZAR UZ245 CJN UN10 CRISA UN864 VULPE UN747 SVL UN857 TERTO
-TIM4182    GCFV    EDNY    dct1586nm    FL-360    KORAL UG5 SONSO NIRAL UN871 OSDAM UB28 BARPA UM985 PIMOS UM445 SOPET UM985 RAPED/N0340F300 UM985 EKSID M985 MONEB N851 ABESI UN851 ROLSA
+TIM4181    EDNY    GCFV    dct1586nm    FL-aut                       TRA Z69 OLBEN UN869 NEMOS NINTU UN869 ZAR UZ245 CJN UN10 CRISA UN864 VULPE UN747 SVL UN857 TERTO
+TIM4182    GCFV    EDNY    dct1586nm    FL-aut    KORAL UN871 OSDAM UB28 BARPA UM985 PIMOS UM445 SOPET UM985 RAPED/F300 UM985 EKSID M985 MONEB N851 ABESI UN851 ROLSA
 ----------------------------------------------
 ----------------------------------------------
-TIM4191    LSZH    GCLP    dct1622nm    FL-350    VEBIT T50 ROTOS UZ669 VADAR                           NINTU UN869 RUSIK
-TIM4192    GCLP    LSZH    dct1622nm    FL-360    KORAL UN871 ETREK/F300 UN871 KINNI UZ67 VENAT/F220 UZ67 LAMUR Z57 DOPIL
+TIM4191    LSZH    GCLP    dct1622nm    FL-370    VEBIT T50 ROTOS UZ669 VADAR                           NINTU UN869 RUSIK
+TIM4192    GCLP    LSZH    dct1622nm    FL-380    KORAL UN871 ETREK/F320 UN871 KINNI UZ67 VENAT/F220 UZ67 LAMUR Z57 DOPIL
 ----------------------------------------------
 ----------------------------------------------
 TIM4201    LSGG    GCTS    dct1531nm    FL-aut    BALSI UN852 DIVKO UN975 BCN UM985 MGA UN851 VJF UL82 IBALU UN857 TERTO
-TIM4202    GCTS    LSGG    dct1531nm    FL-aut    KORAL UG5 ESS UN871 GAI/F300 UN871 LTP UZ116 BELUS
+TIM4202    GCTS    LSGG    dct1531nm    FL-aut                                KORAL UN871 GAI/F300 UN871 LTP UZ116 BELUS
 ----------------------------------------------
 ----------------------------------------------
 TIM4211    LSZH    LCLK    dct1354nm    FL-aut    DEGES Z2 UMVEG NISVA N131 RODIP UN131 KULAR UT39 TOMBI UM855 DASNI UM601 VADUS UR19 BONEK
@@ -480,13 +480,13 @@ TIM4311    LSZH    ULLI    dct1063nm    FL-350    DEGES Z1 ETAGO TIKNI N746 MAG 
 TIM4312    ULLI    LSZH    dct1063nm    FL-aut                        TURAL B141 RANVA P863 RESMO N619 SOKVA GARSO L134 RONUN B810 KUNER GOVEN AMOSA UN869 TEDGO T724 RILAX
 ----------------------------------------------
 ----------------------------------------------
-TIM4321    LSZH    UUEE    dct1181nm    FL-aut    DEGES Z2 XEBIX UN871 BEPAS N871 POLON M863 MNS T52 MOSON L158 FK
-TIM4322    UUEE    LSZH    dct1181nm    FL-aut                           BG L29 TU N869 OKG UN869 TEDGO T724 RILAX
+TIM4321    LSZH    UUEE    dct1181nm    FL-aut    DEGES Z2 XEBIX N871 POLON M863 MNS T52 MOSON L158 FK
+TIM4322    UUEE    LSZH    dct1181nm    FL-aut               BG L29 TU N869 OKG UN869 TEDGO T724 RILAX
 ----------------------------------------------
 ----------------------------------------------
-TIM4331    LSGG    UUWW    dct1295nm    FL-aut    KONIL Z63  SOSAL UN871 GAMSA BADVI UN871 BEPAS N871 POLON M863 MNS T52 MOSON L158 FK
-TIM4331    LSGG    UUWW    dct1295nm    FL-aut    MOLUS N871 SOSAL UN871 GAMSA BADVI UN871 BEPAS N871 POLON M863 MNS T52 MOSON L158 FK
-TIM4332    UUWW    LSGG    dct1295nm    FL-aut    BG L29 TU N869 OKG UN869 TEDGO/M080F300 UN869 BENOT
+TIM4331    LSGG    UUWW    dct1295nm    FL-aut    KONIL Z63  SOSAL UN871 GAMSA BADVI N871 POLON M863 MNS T52 MOSON L158 FK
+TIM4331    LSGG    UUWW    dct1295nm    FL-aut    MOLUS N871 SOSAL UN871 GAMSA BADVI N871 POLON M863 MNS T52 MOSON L158 FK
+TIM4332    UUWW    LSGG    dct1295nm    FL-aut                             BG L29 TU N869 OKG UN869 TEDGO/F300 UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
 ----------------------------------------------
