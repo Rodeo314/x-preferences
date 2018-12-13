@@ -701,8 +701,8 @@ TIM5362    KSLC    KLAX    dct-512nm    FL-aut    ARCHZ1 WINEN LAKRR Q88 HAKMN A
 TIM5362    KSLC    KLAX    dct-512nm    FL-aut    ARCHZ1 WINEN LAKRR Q88 HAKMN BIGBR3
 ----------------------------------------------
 ----------------------------------------------
-TIM5371    KSLC    KTPA    dct1640nm    FL-aut    RUGGD1 EKR     WENIL RZC IGB MGM     SZW FOOXX4
-TIM5372    KTPA    KSLC    dct1640nm    FL-aut    ENDED7 SZW MEI SQS FSM PER PUB JNC HELPR LEEHY5
+TIM5371    KSLC    KTPA    dct1640nm    FL-aut    RUGGD1 EKR         BRK GCK BVO RZC IGB ARNNY CABLO Q104 HEVVN FOOXX5
+TIM5372    KTPA    KSLC    dct1640nm    FL-aut    ENDED8 LACEN PATOY JAWJA MGM IGB RZC ICT J182 GLD DVV RLG EKR LEEHY5
 ----------------------------------------------
 ----------------------------------------------
 TIM5381    PAJN    PAKT    dct-204nm    FL-290      JNU5 LVD J502 DOOZI
@@ -788,12 +788,12 @@ TIM5571    KMIA    KEYW    dct-109nm    FL-160    MNATE2 MNATE JANKA
 TIM5572    KEYW    KMIA    dct-109nm    FL-170    CARNU DVALL CURSO5
 ----------------------------------------------
 ----------------------------------------------
-TIM5581    KMIA    KTPA    dct-177nm    FL-240    WINCO2 WINCO J43 LBV DEAKK5
-TIM5582    KTPA    KMIA    dct-177nm    FL-250    GANDY7 SABEE       RSW CYY9
+TIM5581    KMIA    KTPA    dct-177nm    FL-240    WINCO2 WINCO CHRRI DEAKK DEAKK5
+TIM5582    KTPA    KMIA    dct-177nm    FL-250    GANDY7 SABEE       BAARY SSCOT5
 ----------------------------------------------
 ----------------------------------------------
-TIM5591    KTLH    KTPA    dct-174nm    FL-250    SZW FOOXX4
-TIM5592    KTPA    KTLH    dct-174nm    FL-260    ENDED7 SZW
+TIM5591    KTLH    KTPA    dct-174nm    FL-250    HEVVN FOOXX4
+TIM5592    KTPA    KTLH    dct-174nm    FL-260    ENDED8 LACEN BULZI SZW
 ----------------------------------------------
 ----------------------------------------------
 TIM5601    KMIA    MKJP    dct-509nm    FL-aut    EONNS2 EONNS A509 URSUS UA301 SAVEM
@@ -801,11 +801,11 @@ TIM5602    MKJP    KMIA    dct-509nm    FL-aut    RADOK UL417 BORDO      FOWEE F
 ----------------------------------------------
 ----------------------------------------------
 TIM5611    KMIA    MKJS    dct-456nm    FL-aut    EONNS2 EONNS A509 URSUS UL780 TASNO UM795 NIBEO UL341 ENARI
-TIM5612    KMJS    KMIA    dct-456nm    FL-aut                  SEKAM G430 PUTUL UG430 UCA UA301 URSUS FLIPR5
+TIM5612    MKJS    KMIA    dct-456nm    FL-aut                  SEKAM G430 PUTUL UG430 UCA UA301 URSUS FLIPR5
 ----------------------------------------------
 ----------------------------------------------
-TIM5621    KMIA    MWCR    dct-393nm    FL-330    MNATE2 MNATE Y442 FUNDI UZ465 ALVEK UM328 UCL UG448 ATUVI GORAN3
-TIM5621    KMIA    MWCR    dct-393nm    FL-330    MNATE2 MNATE Y442 FUNDI UZ465 ALVEK UM328 UCL UG448 ATUVI GUBEL3
+TIM5621    KMIA    MWCR    dct-393nm    FL-330         MNATE2 MNATE Y442 FUNDI UZ465 ALVEK UM328 UCL UG448 ATUVI GORAN3
+TIM5621    KMIA    MWCR    dct-393nm    FL-330         MNATE2 MNATE Y442 FUNDI UZ465 ALVEK UM328 UCL UG448 ATUVI GUBEL3
 TIM5622    MWCR    KMIA    dct-393nm    FL-340    RIKEL2 RIKEL G877 UCL UG448 XOPLI UG448 IKBIX Y183 PEAKY DVALL CURSO5
 TIM5622    MWCR    KMIA    dct-393nm    FL-340    ATUVI1 ATUVI          UG448 XOPLI UG448 IKBIX Y183 PEAKY DVALL CURSO5
 ----------------------------------------------
