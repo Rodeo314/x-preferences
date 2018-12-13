@@ -797,11 +797,11 @@ TIM5592    KTPA    KTLH    dct-174nm    FL-260    ENDED8 LACEN BULZI SZW
 ----------------------------------------------
 ----------------------------------------------
 TIM5601    KMIA    MKJP    dct-509nm    FL-aut    EONNS2 EONNS A509 URSUS UA301 SAVEM
-TIM5602    MKJP    KMIA    dct-509nm    FL-aut    RADOK UL417 BORDO      FOWEE FLIPR5
+TIM5602    MKJP    KMIA    dct-509nm    FL-aut    RADOK UL417 BORDO      FOWEE FLIPR6
 ----------------------------------------------
 ----------------------------------------------
 TIM5611    KMIA    MKJS    dct-456nm    FL-aut    EONNS2 EONNS A509 URSUS UL780 TASNO UM795 NIBEO UL341 ENARI
-TIM5612    MKJS    KMIA    dct-456nm    FL-aut                  SEKAM G430 PUTUL UG430 UCA UA301 URSUS FLIPR5
+TIM5612    MKJS    KMIA    dct-456nm    FL-aut                  SEKAM G430 PUTUL UG430 UCA UA301 URSUS FLIPR6
 ----------------------------------------------
 ----------------------------------------------
 TIM5621    KMIA    MWCR    dct-393nm    FL-330         MNATE2 MNATE Y442 FUNDI UZ465 ALVEK UM328 UCL UG448 ATUVI GORAN3
@@ -811,11 +811,11 @@ TIM5622    MWCR    KMIA    dct-393nm    FL-340    ATUVI1 ATUVI          UG448 XO
 ----------------------------------------------
 ----------------------------------------------
 TIM5631    KMIA    MYNN    dct-160nm    FL-210    SKIPS2 SKIPS BR53V RAJAY
-TIM5632    MYNN    KMIA    dct-160nm    FL-220    NICKO BR49V FOWEE FLIPR5
+TIM5632    MYNN    KMIA    dct-160nm    FL-220    NICKO BR49V FOWEE FLIPR6
 ----------------------------------------------
 ----------------------------------------------
 TIM5641    KMIA    TNCM    dct1063nm    FL-aut    SKIPS2 SKIPS BR53V RAJAY A555 DDP G633 COY R760 GOUDA
-TIM5642    TNCM    KMIA    dct1063nm    FL-aut    JUICE B520 STT RTE6 ROBLL Y587 COZIE     FOWEE FLIPR5
+TIM5642    TNCM    KMIA    dct1063nm    FL-aut    JUICE B520 STT RTE6 ROBLL Y587 COZIE     FOWEE FLIPR6
 ----------------------------------------------
 ----------------------------------------------
 TIM5651    TNCM    MDPC    dct-302nm    FL-aut             JUICE B520 STT L577 ANTEX
