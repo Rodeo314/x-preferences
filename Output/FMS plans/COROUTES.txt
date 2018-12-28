@@ -264,13 +264,14 @@ TIM2192    EDLW    LSZH    dct----nm    FL----
 ----------------------------------------------
 ----------------------------------------------
 ----------------------------------------------
-TIM3005    EDNY    EGGW    dct-459nm    FL-aut                                      ALAGO Z1 ETAGO SUNEG LIRSU DENUT UL608 SUMUM Y6 IDESI
-TIM3001    LSZH    EGGW    dct-437nm    FL-aut        VEBIT T51 LASUN UT10 RLP UL613 DIDOR UT10 IRBAL UT421 SOMIL UT421 PIREG UM733 BANVA
-TIM3003    LSGG    EGGW    dct-424nm    FL-aut    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 SOMIL UT421 PIREG UM733 BANVA
-TIM3003    LSGG    EGGW    dct-424nm    FL-aut    SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 SOMIL UT421 PIREG UM733 BANVA
-TIM3002    EGGW    LSZH    dct-437nm    FL-aut                        CPT UN859 GWC BOGNA UL612 RESMI UN491               MELKO UM606 BLM
-TIM3004    EGGW    LSGG    dct-424nm    FL-aut                        CPT UN859 GWC BOGNA UL612 RESMI UM975        PILUL/F230 UM975 LUSAR
-TIM3006    EGGW    EDNY    dct-459nm    FL-aut                        CPT UN859 GWC BOGNA UL612 RESMI UN491 EPL/F230 UN491 TRA T734 GARMO
+TIM3005    EDNY    EGGW    dct-459nm    FL-aut                                                                            ALAGO Z1 ETAGO SUNEG LIRSU DENUT UL608 SUMUM Y6 IDESI
+TIM3001    LSZH    EGGW    dct-437nm    FL-aut                                              VEBIT T51 LASUN UT10 RLP UL613 DIDOR UT10 IRBAL UT421 SOMIL UT421 PIREG UM733 BANVA
+TIM3003    LSGG    EGGW    dct-424nm    FL-aut                                          DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 SOMIL UT421 PIREG UM733 BANVA
+TIM3003    LSGG    EGGW    dct-424nm    FL-aut                                          SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 SOMIL UT421 PIREG UM733 BANVA
+TIM3002    EGGW    LSZH    dct-437nm    FL-aut    MATCH Q295 BRAIN P44 DAGGA M85 ITVIP UL10 DVR UL9 KONAN UL607                           REMBA UM624 DIK UN852 TIRSO UM606 BLM
+TIM3006    EGGW    EDNY    dct-459nm    FL-aut    MATCH Q295 BRAIN P44 DAGGA M85 ITVIP UL10 DVR UL9 KONAN UL607 SUNEG T721 LAMGO/F230 T721 SUL Z714 LEBSO N851 RAUTA T732 GARMO
+TIM300-    EGGW    ----    CFMU:N2SELF: EG2728:                                                         2. When M85 is closed EGGW/WU DEPs traffic must use MATCH-CLN M84 KONAN
+TIM3004    EGGW    LSGG    dct-424nm    FL-aut                                                                     CPT UN859 GWC BOGNA UL612 RESMI UM975 PILUL/F230 UM975 LUSAR
 ----------------------------------------------
 ----------------------------------------------
 TIM3015    EDNY    EGKK    dct-433nm    FL-aut                        ALAGO Z1 ETAGO SUNEG LIRSU DENUT UL610 RAPIX L610 TEBRA
