@@ -316,12 +316,12 @@ TIM3046    EGSS    EDNY    dct-440nm    FL-aut    DET L6 DVR UL9 KONAN UL607 SUN
 ----------------------------------------------
 ----------------------------------------------
 TIM3051    LSZH    EGAA    dct-704nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613 SANDY UN601 LESTA UP6 RODOL UM65 TENSO L603 REMSI M147 ROBOP M146 IPSET BEL
-TIM3052    EGAA    LSZH    dct-704nm    FL-aut    LISBO        RINGA Q39 NOMSU UQ4 WAL UL10 HON UL15 BIG UL9 KONAN UL607 KOK UM150 DIK UN852 MIRGU UT407 BLM
+TIM3052    EGAA    LSZH    dct-704nm    FL-aut           LISBO RINGA Q39 NOMSU UQ4 WAL UL10 HON UL15 BIG UL9 KONAN UL607 KOK UM150 DIK UN852 TIRSO UM606 BLM
 ----------------------------------------------
 ----------------------------------------------
 TIM3061    LSGG    EGAC    dct-680nm    FL-aut    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 VESAN UL613 SANDY UN601 LESTA UP6 RODOL UM65 TENSO L603 REMSI M148 MAGEE
 TIM3061    LSGG    EGAC    dct-680nm    FL-aut    SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 VESAN UL613 SANDY UN601 LESTA UP6 RODOL UM65 TENSO L603 REMSI M148 MAGEE
-TIM3062    EGAC    LSGG    dct-680nm    FL-aut    DUFFY                            RINGA Q39 NOMSU UQ4 WAL UN862 RISLA UL15 KEPAD UL151 MID UL612 RESMI UM975 PILUL/F230 UM975 LUSAR
+TIM3062    EGAC    LSGG    dct-680nm    FL-aut                               DUFFY RINGA Q39 NOMSU UQ4 WAL UN862 RISLA UL15 KEPAD UL151 MID UL612 RESMI UM975 PILUL/F230 UM975 LUSAR
 ----------------------------------------------
 ----------------------------------------------
 TIM3071    LSGG    EGBB    dct-484nm    FL-aut    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UM976 ABNUR UT10 ALESO T420 BUZAD
@@ -338,11 +338,11 @@ TIX3082    EGCB    LSGG    dct-545nm    FL-170    NUGRA Y53 PEDIG M605 DTY L10 B
 ----------------------------------------------
 ----------------------------------------------
 TIM3091    LSZH    EGCC    dct-545nm    FL-aut                       VEBIT T51 LASUN UT10 RLP UL613 SANDY UN57 WELIN T420 TNT
-TIM3092    EGCC    LSZH    dct-545nm    FL-aut    LISTO L612 HON UL15 BIG UL9 KONAN UL607 KOK UM150 DIK UN852 MIRGU UT407 BLM
+TIM3092    EGCC    LSZH    dct-545nm    FL-aut    LISTO L612 HON UL15 BIG UL9 KONAN UL607 KOK UM150 DIK UN852 TIRSO UM606 BLM
 ----------------------------------------------
 ----------------------------------------------
 TIM3101    LSZH    EGGD    dct-500nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613 DIDOR UT10 IRBAL UT421 BIG UL9 CPT
-TIM3102    EGGD    LSZH    dct-500nm    FL-aut    WOTAN            GAVGO UL18 MID UL612 RESMI UN491 MELKO UM606 BLM
+TIM3102    EGGD    LSZH    dct-500nm    FL-aut               WOTAN GAVGO UL18 MID UL612 RESMI UN491 MELKO UM606 BLM
 ----------------------------------------------
 ----------------------------------------------
 TIM3111    LSGG    EGGP    dct-549nm    FL-aut    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 VESAN UL613 SANDY UN57 WELIN T420 TNT
@@ -350,13 +350,13 @@ TIM3111    LSGG    EGGP    dct-549nm    FL-aut    SIROD Z124 IBABA UZ124 OBURO U
 TIM3112    EGGP    LSGG    dct-549nm    FL-aut                        NANTI L8 STAFA P18 TELBA UL151 MID UL612 RESMI UM975 PILUL/F230 UM975 LUSAR
 ----------------------------------------------
 ----------------------------------------------
-TIM3121    EDNY    EGFF    dct-549nm    FL-aut    ALAGO Z1 ETAGO    SUNEG    LIRSU    DENUT UL610 RAPIX L610 KOPUL Q63 CPT
+TIM3121    EDNY    EGFF    dct-549nm    FL-aut             ALAGO Z1 ETAGO SUNEG LIRSU DENUT UL610 RAPIX L610 KOPUL Q63 CPT
 TIM3122    EGFF    EDNY    dct-549nm    FL-aut    BCN ALVIN GAVGO UL18 MID UL612 RESMI UN491 EPL/F230 UN491 TRA T734 GARMO
 ----------------------------------------------
 ----------------------------------------------
 TIM3131    LSGG    EGHI    dct-410nm    FL-320    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 SUBIP M8 ELDAX
 TIM3131    LSGG    EGHI    dct-410nm    FL-320    SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 SUBIP M8 ELDAX
-TIM3132    EGHI    LSGG    dct-410nm    FL-aut    GWC           BENBO UL612 RESMI UM975 PILUL/F230 UM975 LUSAR
+TIM3132    EGHI    LSGG    dct-410nm    FL-aut              GWC BENBO UL612 RESMI UM975 PILUL/F230 UM975 LUSAR
 ----------------------------------------------
 ----------------------------------------------
 TIX3141    LSGG    EGJB    dct-401nm    FL-340    DIPIR UB37 IBABA UZ124 OBURO UH10 AMODO UM729 RESMI UN491 PIGOP UN160 CAN
@@ -376,8 +376,8 @@ TIM3162    EGPD    EDNY    CFMU:N2SELF: PROF50: WHEN(CLIMBING/DESCENDING OUTSIDE
 ----------------------------------------------
 TIM3171    LSZH    EGPF    dct-698nm    FL-aut                                          VEBIT T51 LASUN UT10 RLP UL613 HALIF UN590 APPLE
 TIX3171    LSZH    EGPF    dct-698nm    FL-300                                          VEBIT T51 LASUN UT10 RLP UL613 HALIF UN590 APPLE
-TIX3172    EGPF    LSZH    dct-698nm    FL-290              LUSIV UL612 HON UL15 BIG UL9 KONAN UL607 KOK UM150 DIK UN852 MIRGU UT407 BLM
-TIM3172    EGPF    LSZH    dct-698nm    FL-aut    NORBO UT256 DCS UL612 HON UL15 BIG UL9 KONAN UL607 KOK UM150 DIK UN852 MIRGU UT407 BLM
+TIX3172    EGPF    LSZH    dct-698nm    FL-290              LUSIV UL612 HON UL15 BIG UL9 KONAN UL607 KOK UM150 DIK UN852 TIRSO UM606 BLM
+TIM3172    EGPF    LSZH    dct-698nm    FL-aut    NORBO UT256 DCS UL612 HON UL15 BIG UL9 KONAN UL607 KOK UM150 DIK UN852 TIRSO UM606 BLM
 ----------------------------------------------
 ----------------------------------------------
 TIM3181    LSGG    EGPH    dct-683nm    FL-aut    DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 VESAN UL613 HALIF UN590 ABEVI UN601 ESKDO
@@ -390,12 +390,12 @@ TIM3192    EGPK    EDNY    dct-705nm    FL-aut                           NGY UT2
 ----------------------------------------------
 ----------------------------------------------
 TIM3201    LSZH    EGSH    dct-420nm    FL-aut    VEBIT T51 LASUN UT10 TORPA UM624 LUL UT60 GIVOR UN853 DIK UM624 BUB UL608 SUMUM Y6 BANEM
-TIM3202    EGSH    LSZH    dct-420nm    FL-aut    BANEM                 JACKO M189 DVR UL9 KONAN UL607 KOK UM150 DIK UN852 MIRGU UT407 BLM
+TIM3202    EGSH    LSZH    dct-420nm    FL-aut                    BANEM JACKO M189 DVR UL9 KONAN UL607 KOK UM150 DIK UN852 TIRSO UM606 BLM
 ----------------------------------------------
 ----------------------------------------------
 ----------------------------------------------
-TIM4001    LSZH    BIKF    dct1424nm    FL-aut    VEBIT T51 LASUN UT10 RLP UL613 TLA UN601 STN N610 RATSU                               NASBU
-TIM4002    BIKF    LSZH    dct1424nm    FL-aut    OSKUM RATSU N610 STN UL612 HON UL15 BIG UL9 KONAN UL607 KOK UM150 DIK UN852 MIRGU UT407 BLM
+TIM4001    LSZH    BIKF    dct1424nm    FL-aut                                  VEBIT T51 LASUN UT10 RLP UL613 TLA UN601 STN N610 RATSU NASBU
+TIM4002    BIKF    LSZH    dct1424nm    FL-aut    OSKUM RATSU N610 STN UL612 HON UL15 BIG UL9 KONAN UL607 KOK UM150 DIK UN852 TIRSO UM606 BLM
 ----------------------------------------------
 ----------------------------------------------
 TIM4011    LSGG    EBBR    dct-287nm    FL-240    DIPIR UV25 ARBOS UL47 IXILU UN853 DIK UN852 LNO
