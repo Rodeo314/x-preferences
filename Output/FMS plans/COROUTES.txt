@@ -229,8 +229,8 @@ TIM2111    LSZH    LOWW    dct-327nm    FL-aut    DEGES Z2 UMVEG    NEMAL
 TIM2112    LOWW    LSZH    dct-327nm    FL-aut    SOVIL TRAUN UL856 NEGRA
 ----------------------------------------------
 ----------------------------------------------
-TIM2121    LSZH    EDDF    dct----nm    FL----
-TIM2122    EDDF    LSZH    dct----nm    FL----
+TIM2121    LSZH    EDDF    dct-155nm    FL-220                   DEGES Z1 SUDEN T164 KOVAN T163 PSA
+TIM2122    EDDF    LSZH    dct-155nm    FL-210    ANEKI Y163 NEKLO Y171 INKAM T725 LAMGO T721 RILAX
 ----------------------------------------------
 ----------------------------------------------
 TIM2131    LSZH    EDDH    dct----nm    FL----
@@ -255,8 +255,9 @@ TIM2171    LSGG    EDDS    dct-194nm    FL-230      MOLUS N871 SOSAL UN871 DITON
 TIM2172    EDDS    LSGG    dct-194nm    FL-240    ROTWE Y126 TUBLO N850 NATOR N869 RINLI UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
-TIM2181    LSGG    EDDT    dct----nm    FL----
-TIM2181    EDDT    LSGG    dct----nm    FL----
+TIM2181    EDNY    EDDT    dct-328nm    FL-270    ALAGO Z1 ETAGO                     TIKNI T279 TAMEB T278 RUDAK
+TIM2181    EDNY    EDDT    dct-328nm    FL-aut    ALAGO Z1 ETAGO          HAREM UN851 KEMAD UP605 DLE T207 BATEL
+TIM2182    EDDT    EDNY    dct-328nm    FL-aut    BRANE Z115 ORTAG BAMKI AMOSA UN869 TEDGO N851 RAUTA T732 GARMO
 ----------------------------------------------
 ----------------------------------------------
 TIM2191    LSZH    EDLW    dct----nm    FL----
