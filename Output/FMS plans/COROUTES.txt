@@ -225,43 +225,49 @@ TIM2101    LSGG    LOWI    dct-225nm    FL-250    MOLUS N871 SOSAL UN871 GAMSA N
 TIM2102    LOWI    LSGG    dct-225nm    FL-260        KPT UL856 TRA Z69 OLBEN UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
-TIM2111    LSZH    LOWW    dct-327nm    FL-aut    DEGES Z2 UMVEG    NEMAL
-TIM2112    LOWW    LSZH    dct-327nm    FL-aut    SOVIL TRAUN UL856 NEGRA
+TIM2111    EDNY    LOWS    dct-142nm    FL-210    BEMKI Z999 XEBIX N871 BADVI L725 UNKEN
+TIM2112    LOWS    EDNY    dct-142nm    FL-220                            TRAUN L856 KPT
 ----------------------------------------------
 ----------------------------------------------
-TIM2121    LSZH    EDDF    dct-155nm    FL-220                   DEGES Z1 SUDEN T164 KOVAN T163 PSA
-TIM2122    EDDF    LSZH    dct-155nm    FL-210    ANEKI Y163 NEKLO Y171 INKAM T725 LAMGO T721 RILAX
+TIM2121    LSZH    LOWW    dct-327nm    FL-aut       DEGES Z2 UMVEG NEMAL
+TIM2122    LOWW    LSZH    dct-327nm    FL-aut    SOVIL TRAUN UL856 NEGRA
 ----------------------------------------------
 ----------------------------------------------
-TIM2131    LSZH    EDDH    dct----nm    FL----
-TIM2132    EDDH    LSZH    dct----nm    FL----
+TIM2131    LSGG    EDDB    dct-468nm    FL-aut    KONIL Z63  SOSAL UN871 DITON T163 ZUE T125 ROMIR UN851 LOKTA TIKNI T279 TAMEB T278 RELKO/F270 T278 RUDAK
+TIM2131    LSGG    EDDB    dct-468nm    FL-aut    MOLUS N871 SOSAL UN871 DITON T163 ZUE T125 ROMIR UN851 LOKTA TIKNI T279 TAMEB T278 RELKO/F270 T278 RUDAK
+TIM2132    EDDB    LSGG    dct-468nm    FL-aut                                                   BELID Z117 ORTAG BAMKI AMOSA UN869 TEDGO/F300 UN869 BENOT                                                                                                                                
 ----------------------------------------------
 ----------------------------------------------
-TIM2141    LSGG    EDDK    dct----nm    FL----
-TIM2142    EDDK    LSGG    dct----nm    FL----
+TIM2141    LSZH    EDDF    dct-155nm    FL-220                   DEGES Z1 SUDEN T164 KOVAN T163 PSA
+TIM2142    EDDF    LSZH    dct-155nm    FL-210    ANEKI Y163 NEKLO Y171 INKAM T725 LAMGO T721 RILAX
 ----------------------------------------------
 ----------------------------------------------
-TIM2151    LSZH    EDDL    dct----nm    FL----
-TIM2152    EDDL    LSZH    dct----nm    FL----
+TIM2151    EDNY    EDDH    dct-358nm    FL-aut    ALAGO Z1 ETAGO                   HAREM UN851 KEMAD UP605 NOLGO
+TIM2152    EDDH    EDNY    dct-358nm    FL-aut    AMLUH M852 DENIX LARET AMOSA UN869 TEDGO N851 RAUTA T732 GARMO
 ----------------------------------------------
 ----------------------------------------------
-TIM2161    LSGG    EDDM    dct-264nm    FL-270    KONIL Z63  SOSAL UN871 DITON T103 OSDER
-TIM2161    LSGG    EDDM    dct-264nm    FL-270    MOLUS N871 SOSAL UN871 DITON T103 OSDER
-TIM2162    EDDM    LSGG    dct-264nm    FL-280       MERSI Y100 TRA Z69 OLBEN UN869 BENOT
+TIM2161    LSGG    EDDK    dct-281nm    FL-310    DIPIR UV25 ARBOS UL47 PENDU UN853 ARCKY UT853 IBESA T860 ERUKI T856 DEPOK
+TIM2161    LSGG    EDDK    dct-281nm    FL-aut                KONIL Z63  SOSAL UN871 DITON T163 KOVAN T844 ASKIK T840 GULKO
+TIM2161    LSGG    EDDK    dct-281nm    FL-aut                MOLUS N871 SOSAL UN871 DITON T163 KOVAN T844 ASKIK T840 GULKO
+TIM2162    EDDK    LSGG    dct-281nm    FL-aut                      KUMIK Y854 BOMBI UN850 KRH/F300 UN850 NATOR UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
-TIM2171    LSGG    EDDS    dct-194nm    FL-230      KONIL Z63  SOSAL UN871 DITON T163 ZUE T125 REUTL
-TIM2171    LSGG    EDDS    dct-194nm    FL-230      MOLUS N871 SOSAL UN871 DITON T163 ZUE T125 REUTL
-TIM2172    EDDS    LSGG    dct-194nm    FL-240    ROTWE Y126 TUBLO N850 NATOR N869 RINLI UN869 BENOT
+TIM2171    LSZH    EDDL    dct-240nm    FL-280    VEBIT T51 LASUN UT10 TORPA UM624 LUL UT60 GIVOR UN853 ARCKY UT853 IBESA T853 NVO T857 BIKMU
+TIM2172    EDDL    LSZH    dct-240nm    FL-270                                    MODRU Z283 SUMAS UZ283 RITAX UT27 GTQ UN852 TIRSO UM606 BLM
 ----------------------------------------------
 ----------------------------------------------
-TIM2181    EDNY    EDDT    dct-328nm    FL-270    ALAGO Z1 ETAGO                     TIKNI T279 TAMEB T278 RUDAK
-TIM2181    EDNY    EDDT    dct-328nm    FL-aut    ALAGO Z1 ETAGO          HAREM UN851 KEMAD UP605 DLE T207 BATEL
-TIM2182    EDDT    EDNY    dct-328nm    FL-aut    BRANE Z115 ORTAG BAMKI AMOSA UN869 TEDGO N851 RAUTA T732 GARMO
+TIM2181    LSGG    EDDM    dct-264nm    FL-270    KONIL Z63  SOSAL UN871 DITON T103 OSDER
+TIM2181    LSGG    EDDM    dct-264nm    FL-270    MOLUS N871 SOSAL UN871 DITON T103 OSDER
+TIM2182    EDDM    LSGG    dct-264nm    FL-280       MERSI Y100 TRA Z69 OLBEN UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
-TIM2191    LSZH    EDLW    dct----nm    FL----
-TIM2192    EDLW    LSZH    dct----nm    FL----
+TIM2191    LSGG    EDDS    dct-194nm    FL-230      KONIL Z63  SOSAL UN871 DITON T163 ZUE T125 REUTL
+TIM2191    LSGG    EDDS    dct-194nm    FL-230      MOLUS N871 SOSAL UN871 DITON T163 ZUE T125 REUTL
+TIM2192    EDDS    LSGG    dct-194nm    FL-240    ROTWE Y126 TUBLO N850 NATOR N869 RINLI UN869 BENOT
+----------------------------------------------
+----------------------------------------------
+TIM2201    EDNY    EDDT    dct-328nm    FL-aut    ALAGO Z1 ETAGO     TIKNI T279 TAMEB T278 RELKO/F270 T278 RUDAK
+TIM2202    EDDT    EDNY    dct-328nm    FL-aut    BRANE Z115 ORTAG BAMKI AMOSA UN869 TEDGO N851 RAUTA T732 GARMO
 ----------------------------------------------
 ----------------------------------------------
 ----------------------------------------------
