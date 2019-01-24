@@ -564,7 +564,7 @@ TIM5012    KLAX    KLAS    dct-205nm    FL-270    GARDY3    MISEN    KEPEC6
 TIM5021    KLAS    KSAN    dct-225nm    FL-300    BOACH8          LVELL          LUCKI1
 TIM5021    KLAS    KSAN    dct-225nm    FL-300    BOACH8     LVELL Q73 MOMAR     TOPGN2
 TIM5022    KSAN    KLAS    dct-225nm    FL-290    PADRZ2 CHKNN SEBBY YELAH MISEN KEPEC6
-TIM5022    KSAN    KLAS    dct-225nm    FL-290    ECHHO2 SLI   SEBBY YELAH MISEN KEPEC6
+TIM5022    KSAN    KLAS    dct-225nm    FL-290    ECHHO2  SLI  SEBBY YELAH MISEN KEPEC6
 ----------------------------------------------
 ----------------------------------------------
 TIM5031    KLAS    KSNA    dct-197nm    FL-280    BOACH8 WHIGG FEYLA DSNEE4
@@ -601,8 +601,8 @@ TIX5092    KSBA    KSNA    dct-108nm    FL----    TEC
 ----------------------------------------------
 ----------------------------------------------
 TIM5101    KPDX    KSEA    dct-112nm    FL-200    COUGA        KRIEG HAWKZ7
-TIM5102    KSEA    KPDX    dct-112nm    FL-190    SEA          BUWZO KRATR2
-TIM5102    KSEA    KPDX    dct-112nm    FL-190    OZWLD1 OZWLD BUWZO KRATR2
+TIM5102    KSEA    KPDX    dct-112nm    FL-170    SEA          BUWZO KRATR2
+TIM5102    KSEA    KPDX    dct-112nm    FL-210    OZWLD1 OZWLD BUWZO KRATR2
 ----------------------------------------------
 ----------------------------------------------
 TIM5111    KPDX    KSFO    dct-478nm    FL-aut    MINNE5 FAMUK Q3 FOWND MLBEC BDEGA2
