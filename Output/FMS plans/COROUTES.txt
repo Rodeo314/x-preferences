@@ -63,51 +63,51 @@ FSE0002    EDDM    EDTY    dct--92nm    FL-100    RIDAR L173 LBU
 FSE0002    EDDM    EDTY    dct--92nm    FL-180    RIDAR L173 LBU
 ----------------------------------------------
 ----------------------------------------------
-FSE0011    EDTY    EDDR    CFMU:N2SELF: PROF195: RINEX Z818 LADAT DOES NOT EXIST IN FL RANGE F105..F999
-FSE0011    EDTY    EDDR    dct-105nm    FL-100                                           TAGIK Z818 ZWN
-FSE0012    EDDR    EDTY    dct-105nm    FL--90                                             ZWN Z729 LBU
-FSE0012    EDDR    EDTY    CFMU:N2SELF: PROF198:       ZWN Z729 BADLI IS A CDR 3 IN FL RANGE F105..F235
+FSE0011    EDTY    EDDS    dct--34nm    FL-120    DKB Z818 GEBNO T726 LBU
+FSE0011    EDTY    EDDS    dct--34nm    FL--60    DKB Z818 GEBNO T726 LBU
+FSE0012    EDDS    EDTY    dct--34nm    FL--50    DKB
+FSE0012    EDDS    EDTY    dct--34nm    FL-110    DKB
 ----------------------------------------------
 ----------------------------------------------
-FSE0021    EDTY    EDDS    dct--34nm    FL-120    DKB Z818 GEBNO T726 LBU
-FSE0021    EDTY    EDDS    dct--34nm    FL--60    DKB Z818 GEBNO T726 LBU
-FSE0022    EDDS    EDTY    dct--34nm    FL--50    DKB
-FSE0022    EDDS    EDTY    dct--34nm    FL-110    DKB
+FSE0021    EDTY    EDNY    dct--88nm    FL-180    DKB N869 TEDGO N851 RAUTA T732 GARMO
+FSE0021    EDTY    EDNY    dct--88nm    FL-100    DKB N869 TEDGO N851 RAUTA T732 GARMO
+FSE0022    EDNY    EDTY    dct--88nm    FL--90    ALAGO Z1 NOTGA Y712 DKB
+FSE0022    EDNY    EDTY    dct--88nm    FL-170    ALAGO Z1 NOTGA Y712 DKB
 ----------------------------------------------
 ----------------------------------------------
-FSE0031    EDTY    EDNY    dct--88nm    FL-180    DKB N869 TEDGO N851 RAUTA T732 GARMO
-FSE0031    EDTY    EDNY    dct--88nm    FL-100    DKB N869 TEDGO N851 RAUTA T732 GARMO
-FSE0032    EDNY    EDTY    dct--88nm    FL--90    ALAGO Z1 NOTGA Y712 DKB
-FSE0032    EDNY    EDTY    dct--88nm    FL-170    ALAGO Z1 NOTGA Y712 DKB
+FSE0031    EDDM    EDDF    dct-162nm    FL-240     GIVMI Y101 ERNAS T161 PSA
+FSE0031    EDDM    EDDF    dct-162nm    FL-100     GIVMI Y101 ERNAS T161 PSA
+FSE0032    EDDF    EDDM    dct-162nm    FL--90    AKONI Z74 HAREM T104 ANORA
+FSE0032    EDDF    EDDM    dct-162nm    FL-230    AKONI Z74 HAREM T104 ANORA
 ----------------------------------------------
 ----------------------------------------------
-FSE0041    EDTY    LOWI    dct-128nm    FL-210    DKB P605 AKANU L603 OLETU Z106 MANAL M736 TULSI
-FSE0042    LOWI    EDTY    dct-128nm    FL-220    KOGOL M726 MAH L173 RIXED Y161 ELVAG Z818 DKB
+FSE0041    EDDM    EDNY    dct-100nm    FL-180    MERSI Y100 ATMAX Y110 KPT
+FSE0041    EDDM    EDNY    dct-100nm    FL-100    MERSI Y100 ATMAX Y110 KPT
+FSE0042    EDNY    EDDM    dct-100nm    FL--90    KPT Y110 ATMAX Y100 MERSI
+FSE0042    EDNY    EDDM    dct-100nm    FL-170             BEMKI T103 OSDER
 ----------------------------------------------
 ----------------------------------------------
-FSE0051    EDDM    EDDF    dct-162nm    FL-240     GIVMI Y101 ERNAS T161 PSA
-FSE0051    EDDM    EDDF    dct-162nm    FL-100     GIVMI Y101 ERNAS T161 PSA
-FSE0052    EDDF    EDDM    dct-162nm    FL--90    AKONI Z74 HAREM T104 ANORA
-FSE0052    EDDF    EDDM    dct-162nm    FL-230    AKONI Z74 HAREM T104 ANORA
+FSE0051    EDDR    EDDF    dct--75nm    FL--90             TOMPI Q760 IDARO Z100 TIGPI EMGOD Z658 ROLIS
+FSE0052    EDDF    EDDR    dct--75nm    FL-100                      ANEKI Y163 NEKLO Z97 MANEM Z818 ZWN
+FSE0052    EDDF    EDDR    CFMU:N2SELF: PROF195: MANEM Z818 LADAT DOES NOT EXIST IN FL RANGE F105..F999
 ----------------------------------------------
 ----------------------------------------------
-FSE0061    EDDM    EDNY    dct-100nm    FL-180    MERSI Y100 ATMAX Y110 KPT
-FSE0061    EDDM    EDNY    dct-100nm    FL-100    MERSI Y100 ATMAX Y110 KPT
-FSE0062    EDNY    EDDM    dct-100nm    FL--90    KPT Y110 ATMAX Y100 MERSI
-FSE0062    EDNY    EDDM    dct-100nm    FL-170             BEMKI T103 OSDER
+FSE0061    EDDR    EDTY    CFMU:N2SELF: PROF198:       ZWN Z729 BADLI IS A CDR 3 IN FL RANGE F105..F235
+FSE0061    EDDR    EDTY    dct-105nm    FL--90                                             ZWN Z729 LBU
+FSE0062    EDTY    EDDR    dct-105nm    FL-100                                           TAGIK Z818 ZWN
+FSE0062    EDTY    EDDR    CFMU:N2SELF: PROF195: RINEX Z818 LADAT DOES NOT EXIST IN FL RANGE F105..F999
 ----------------------------------------------
 ----------------------------------------------
-FSE0071    EDDM    LOWI    dct--68nm    FL-160    TURBU Y107 RTT
-FSE0072    LOWI    EDDM    dct--68nm    FL-150    KOGOL
+FSE0071    LOWI    EDDM    dct--68nm    FL-150    KOGOL
+FSE0072    EDDM    LOWI    dct--68nm    FL-160    TURBU Y107 RTT
 ----------------------------------------------
 ----------------------------------------------
-FSE0081    EDDR    EDDF    dct--75nm    FL--90             TOMPI Q760 IDARO Z100 TIGPI EMGOD Z658 ROLIS
-FSE0082    EDDF    EDDR    dct--75nm    FL-100                      ANEKI Y163 NEKLO Z97 MANEM Z818 ZWN
-FSE0082    EDDF    EDDR    CFMU:N2SELF: PROF195: MANEM Z818 LADAT DOES NOT EXIST IN FL RANGE F105..F999
+FSE0081    LOWI    EDNY    dct--79nm    FL-160       MOGTI P66 KPT
+FSE0082    EDNY    LOWI    dct--79nm    FL-150    BEMKI Z999 XEBIX
 ----------------------------------------------
 ----------------------------------------------
-FSE0091    EDNY    LOWI    dct--79nm    FL-150    BEMKI Z999 XEBIX
-FSE0092    LOWI    EDNY    dct--79nm    FL-160       MOGTI P66 KPT
+FSE0091    LOWI    EDTY    dct-128nm    FL-220      KOGOL M726 MAH L173 RIXED Y161 ELVAG Z818 DKB
+FSE0092    EDTY    LOWI    dct-128nm    FL-210    DKB P605 AKANU L603 OLETU Z106 MANAL M736 TULSI
 ----------------------------------------------
 ----------------------------------------------
 ----------------------------------------------
