@@ -256,9 +256,9 @@ TIM2171    LSZH    EDDL    dct-240nm    FL-280    VEBIT T51 LASUN UT10 TORPA UM6
 TIM2172    EDDL    LSZH    dct-240nm    FL-270                                    MODRU Z283 SUMAS UZ283 RITAX UT27 GTQ UN852 TIRSO UM606 BLM
 ----------------------------------------------
 ----------------------------------------------
-TIM2181    LSGG    EDDM    dct-264nm    FL-270    KONIL Z63  SOSAL UN871 DITON T103 OSDER
-TIM2181    LSGG    EDDM    dct-264nm    FL-270    MOLUS N871 SOSAL UN871 DITON T103 OSDER
-TIM2182    EDDM    LSGG    dct-264nm    FL-280       MERSI Y100 TRA Z69 OLBEN UN869 BENOT
+TIM2181    LSGG    EDDM    dct-264nm    FL-290    KONIL Z63  SOSAL UN871 DITON T103 OSDER
+TIM2181    LSGG    EDDM    dct-264nm    FL-290    MOLUS N871 SOSAL UN871 DITON T103 OSDER
+TIM2182    EDDM    LSGG    dct-264nm    FL-300       MERSI Y100 TRA Z69 OLBEN UN869 BENOT
 ----------------------------------------------
 ----------------------------------------------
 TIM2191    LSGG    EDDS    dct-194nm    FL-230      KONIL Z63  SOSAL UN871 DITON T163 ZUE T125 REUTL
