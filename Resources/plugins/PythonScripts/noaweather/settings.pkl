@@ -1,7 +1,7 @@
 (dp1
 S'turbulence_probability'
 p2
-F0.5
+F0.33
 sS'set_turb'
 p3
 I1
