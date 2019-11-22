@@ -21453,7 +21453,7 @@ _joy_lru_time0 1539355042
 _joy_lru_time1 1539355042
 _joy_lru_time2 1492523694
 _joy_lru_time3 1527148870
-_joy_lru_time4 1574436591
+_joy_lru_time4 1574445902
 _joy_lru_time5 0
 _joy_lru_time6 0
 _joy_lru_time7 0
@@ -21502,7 +21502,7 @@ _joy_rev_axis39 0
 _joy_rev_axis40 0
 _joy_rev_axis41 0
 _joy_rev_axis42 0
-_joy_rev_axis43 1
+_joy_rev_axis43 0
 _joy_rev_axis44 0
 _joy_rev_axis45 0
 _joy_rev_axis46 0
@@ -21899,10 +21899,10 @@ _joy_center36 0.500000
 _joy_center37 0.500000
 _joy_center38 0.500000
 _joy_center39 0.500000
-_joy_center40 -0.254902
-_joy_center41 0.003922
-_joy_center42 -0.019608
-_joy_center43 1.000000
+_joy_center40 -1.000000
+_joy_center41 0.043137
+_joy_center42 0.490196
+_joy_center43 -0.003922
 _joy_center44 0.500000
 _joy_center45 0.500000
 _joy_center46 0.500000
@@ -22199,8 +22199,8 @@ _joy_AXIS_use38 0
 _joy_AXIS_use39 0
 _joy_AXIS_use40 2
 _joy_AXIS_use41 1
-_joy_AXIS_use42 3
-_joy_AXIS_use43 4
+_joy_AXIS_use42 0
+_joy_AXIS_use43 3
 _joy_AXIS_use44 0
 _joy_AXIS_use45 0
 _joy_AXIS_use46 0
