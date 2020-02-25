@@ -282,10 +282,10 @@ TIM3005    EDNY    EGGW    dct-459nm    FL-aut                                  
 TIM3001    LSZH    EGGW    dct-437nm    FL-aut                                              VEBIT T51 LASUN UT10 RLP UL613 DIDOR UT10 IRBAL UT421 SOMIL UT421 PIREG UM733 BANVA
 TIM3003    LSGG    EGGW    dct-424nm    FL-aut                                          DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 SOMIL UT421 PIREG UM733 BANVA
 TIM3003    LSGG    EGGW    dct-424nm    FL-aut                                          SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 SOMIL UT421 PIREG UM733 BANVA
-TIM3002    EGGW    LSZH    dct-437nm    FL-aut    MATCH Q295 BRAIN P44 DAGGA M85 ITVIP UL10 DVR UL9 KONAN UL607                           REMBA UM624 DIK UN852 TIRSO UM606 BLM
 TIM3006    EGGW    EDNY    dct-459nm    FL-aut    MATCH Q295 BRAIN P44 DAGGA M85 ITVIP UL10 DVR UL9 KONAN UL607 SUNEG T721 LAMGO/F230 T721 SUL Z714 LEBSO N851 RAUTA T732 GARMO
 TIM300-    EGGW    ----    CFMU:N2SELF: EG2728:                                                         2. When M85 is closed EGGW/WU DEPs traffic must use MATCH-CLN M84 KONAN
 TIM3004    EGGW    LSGG    dct-424nm    FL-aut                                                                     CPT UN859 GWC BOGNA UL612 RESMI UM975 PILUL/F230 UM975 LUSAR
+TIM3002    EGGW    LSZH    dct-437nm    FL-aut                                                                     CPT UN859 GWC BOGNA UL612 RESMI        UN491 MELKO UM606 BLM
 ----------------------------------------------
 ----------------------------------------------
 TIM3015    EDNY    EGKK    dct-433nm    FL-aut                        ALAGO Z1 ETAGO SUNEG LIRSU DENUT UL610 RAPIX L610 TEBRA
@@ -300,30 +300,29 @@ TIM3016    EGKK    EDNY    dct-433nm    FL-aut                BOGNA UL612 RESMI 
 TIM3016    EGKK    EDNY    dct-433nm    FL-aut       SFD UY47 BENBO UL612 RESMI UN491 MELKO UM164 LUPEN Y711 NATOR T732 GARMO
 ----------------------------------------------
 ----------------------------------------------
+TIM3021    LSZH    EGLC    dct-411nm    FL-380                                                                      VEBIT T51 LASUN UT10 RLP UL613 SOVAT
 TIM3025    EDNY    EGLC    dct-435nm    FL-aut                                                              ALAGO Z1 ETAGO SUNEG LIRSU DENUT UL608 SUMUM
-TIM3021    LSZH    EGLC    dct-411nm    FL-380                       VEBIT T51 LASUN UT10 RLP UL613 DIDOR UT10 IRBAL UT421 SOMIL UY376 VESAN UL613 SOVAT
 TIM3023    LSGG    EGLC    dct-397nm    FL-380                   DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 SOMIL UY376 VESAN UL613 SOVAT
 TIM3023    LSGG    EGLC    dct-397nm    FL-380                   SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 SOMIL UY376 VESAN UL613 SOVAT
+TIM3022    EGLC    LSZH    dct-411nm    FL-aut    EKNIV M91                                     LYD UM189 HAWKE UL612 RESMI        UN491 MELKO UM606 BLM
 TIM3024    EGLC    LSGG    dct-397nm    FL-310    EKNIV M91                                     LYD UM189 HAWKE UL612 RESMI UM975 PILUL/F230 UM975 LUSAR
-TIM3022    EGLC    LSZH    dct-411nm    FL-aut    EKNIV M87 UMTUM L9 DVR UL9 KONAN UL607                             KOK UM150 DIK UN852 TIRSO UM606 BLM
 TIM3026    EGLC    EDNY    dct-435nm    FL-aut    EKNIV M87 UMTUM L9 DVR UL9 KONAN UL607 SUNEG T721 LAMGO/F230 T721 SUL Z714 LEBSO N851 RAUTA T732 GARMO
 ----------------------------------------------
 ----------------------------------------------
+TIM3031    LSZH    EGLL    dct-427nm    FL-aut                                               VEBIT T51 LASUN UT10 RLP UL613 DIDOR UT10 ALESO
 TIM3035    EDNY    EGLL    dct-451nm    FL-aut                                       ALAGO Z1 ETAGO SUNEG LIRSU DENUT UL608 SUMUM L608 LOGAN
-TIM3031    LSZH    EGLL    dct-427nm    FL-aut            VEBIT T51 LASUN UT10 RLP UL613 DIDOR UT10 IRBAL UT421 SOMIL UY376 NITAR UT10 ALESO
 TIM3033    LSGG    EGLL    dct-408nm    FL-aut        DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 SOMIL UY376 NITAR UT10 ALESO
 TIM3033    LSGG    EGLL    dct-408nm    FL-aut        SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 SOMIL UY376 NITAR UT10 ALESO
-TIM3032    EGLL    LSZH    dct-427nm    FL-aut    DET L6 DVR UL9 KONAN UL607                             KOK UM150 DIK UN852 TIRSO UM606 BLM
 TIM3036    EGLL    EDNY    dct-451nm    FL-aut    DET L6 DVR UL9 KONAN UL607 SUNEG T721 LAMGO/F230 T721 SUL Z714 LEBSO N851 RAUTA T732 GARMO
 TIM3034    EGLL    LSGG    dct-408nm    FL-aut                                                  MID UL612 RESMI UM975 PILUL/F230 UM975 LUSAR
+TIM3032    EGLL    LSZH    dct-427nm    FL-aut                                                         MID UL612 RESMI UN491 MELKO UM606 BLM
 ----------------------------------------------
 ----------------------------------------------
 TIM3045    EDNY    EGSS    dct-440nm    FL-aut                                         ALAGO Z1 ETAGO SUNEG LIRSU DENUT UL608 SUMUM Y6 IDESI
 TIM3041    LSZH    EGSS    dct-419nm    FL-aut           VEBIT T51 LASUN UT10 RLP UL613 DIDOR UT10 IRBAL UT421 SOMIL UT421 PIREG UM733 BANVA
 TIM3043    LSGG    EGSS    dct-410nm    FL-aut       DIPIR UB37 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 SOMIL UT421 PIREG UM733 BANVA
 TIM3043    LSGG    EGSS    dct-410nm    FL-aut       SIROD Z124 IBABA UZ124 OBURO UH10 CHABY UM733 KOPOR UY376 SOMIL UT421 PIREG UM733 BANVA
-TIM3042    EGSS    LSZH    dct-419nm    FL-aut           CLN M84 KONAN UL607                            KOK UM150 DIK UN852 TIRSO UM606  BLM
-TIM3042    EGSS    LSZH    dct-419nm    FL-aut    DET L6 DVR UL9 KONAN UL607                            KOK UM150 DIK UN852 TIRSO UM606  BLM
+TIM3042    EGSS    LSZH    dct-419nm    FL-aut                                   LYD M189 HAWKE L612 XAMAB UL612 RESMI UN491 MELKO UM606 BLM
 TIM3044    EGSS    LSGG    dct-410nm    FL-aut           CLN M84 KONAN UL607                            KOK UM150 DIK UN852 TIRSO UZ24 AKITO
 TIM3044    EGSS    LSGG    dct-410nm    FL-aut    DET L6 DVR UL9 KONAN UL607                            KOK UM150 DIK UN852 TIRSO UZ24 AKITO
 TIM3046    EGSS    EDNY    dct-440nm    FL-aut           CLN M84 KONAN UL607 SUNEG T721 LAMGO/F230 T721 SUL Z714 LEBSO N851 RAUTA T732 GARMO
