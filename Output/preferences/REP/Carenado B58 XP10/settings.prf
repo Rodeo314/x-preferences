@@ -1,4 +1,4 @@
-# File saved on Sun Apr 12 22:17:44 2020
+# File saved on Thu May  7 21:19:39 2020
 generalsettings.damages_on=1
 generalsettings.savestatus_on=1
 generalsettings.savewindows_on=0
@@ -21,6 +21,7 @@ generalsettings.use_carenado_static_elements_panel=0
 generalsettings.advancedsteering=1
 generalsettings.advancedrain=1
 generalsettings.itt_limiter=0
+generalsettings.new_walkaround=0
 generalsettings.mainmonitorindex=0
 generalsettings.windvolume=100
 currentversion=64
