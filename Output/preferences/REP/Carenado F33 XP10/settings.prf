@@ -1,4 +1,4 @@
-# File saved on Fri May 22 22:14:36 2020
+# File saved on Tue Jun  2 00:46:22 2020
 generalsettings.damages_on=1
 generalsettings.savestatus_on=1
 generalsettings.savewindows_on=0
@@ -24,4 +24,4 @@ generalsettings.itt_limiter=0
 generalsettings.vr_walkaround=0
 generalsettings.mainmonitorindex=0
 generalsettings.windvolume=100
-currentversion=60
+currentversion=61
