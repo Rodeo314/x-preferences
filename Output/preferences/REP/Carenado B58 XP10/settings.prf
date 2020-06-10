@@ -1,6 +1,6 @@
-# File saved on Tue Jun  2 00:45:38 2020
-generalsettings.damages_on=1
-generalsettings.savestatus_on=1
+# File saved on Tue Jun  2 00:44:34 2020
+generalsettings.damages_on=0
+generalsettings.savestatus_on=0
 generalsettings.savewindows_on=0
 generalsettings.imperialunits_on=0
 generalsettings.failure_messages_on=1
@@ -8,13 +8,13 @@ generalsettings.tip_messages_on=1
 generalsettings.info_messages_on=1
 generalsettings.enable_hypoxia=1
 generalsettings.hide_menu=0
-generalsettings.correct_roll=0
+generalsettings.correct_roll=1
 generalsettings.correct_stall=0
 generalsettings.disable_switch_sounds=0
 generalsettings.roll_steering=0
 generalsettings.smoothbrakes=1
-generalsettings.engine_differencies=1
-generalsettings.engine_monitor_on=0
+generalsettings.engine_differencies=0
+generalsettings.engine_monitor_on=1
 generalsettings.pilot_use_altimeter_inhg=0
 generalsettings.copilot_use_altimeter_inhg=0
 generalsettings.use_carenado_static_elements_panel=0
@@ -24,4 +24,4 @@ generalsettings.itt_limiter=0
 generalsettings.vr_walkaround=0
 generalsettings.mainmonitorindex=0
 generalsettings.windvolume=100
-currentversion=65
+currentversion=61
