@@ -4,7 +4,7 @@ wxr_disclose_water 0
 networking_disclose_multiplayer 0
 networking_disclose_flir 0
 wxr_disclose_atmosphere 1
-selected_tab 1
+selected_tab 9
 networking_disclose_ports 0
 networking_disclose_data_io 0
 wxr_disclose_thermals 0
@@ -12,12 +12,12 @@ wxr_disclose_runway_conditions 1
 networking_disclose_iphone 0
 networking_disclose_instructor 0
 networking_disclose_external_visuals 0
-P monitor_8 _visuals 0
-P monitor_8 _offsets 0
-P monitor_8 _field_of_view 0
 P monitor_10 _visuals 0
 P monitor_10 _offsets 0
 P monitor_10 _field_of_view 0
+P monitor_4 _visuals 0
+P monitor_4 _offsets 0
+P monitor_4 _field_of_view 0
 P monitor_14 _visuals 0
 P monitor_14 _offsets 0
 P monitor_14 _field_of_view 0
@@ -70,7 +70,7 @@ P window_state texture_browser v=0 p=0 m=0 b=0,0,0,0
 P window_state projection_params v=0 p=0 m=0 b=0,0,0,0
 P window_state key_shortcuts v=0 p=0 m=0 b=0,0,0,0
 P window_state settings v=0 p=0 m=0 b=0,0,0,0
-P window_state main_menu v=0 p=0 m=0 b=0,0,1792,1120
+P window_state main_menu v=1 p=0 m=0 b=0,0,1792,1120
 P window_state atc_window v=0 p=0 m=0 b=0,0,0,0
 P window_state save_flight_window v=0 p=0 m=0 b=0,0,0,0
 P window_state logbook_window v=0 p=0 m=0 b=0,0,0,0
@@ -80,7 +80,7 @@ P window_state ios v=0 p=0 m=0 b=0,0,0,0
 P window_state map v=0 p=0 m=0 b=0,0,0,0
 P window_state data_out v=0 p=0 m=0 b=0,0,0,0
 P window_state replay_controls v=0 p=0 m=0 b=0,0,0,0
-P window_state menu_bar v=1 p=0 m=0 b=0,0,1792,1120
+P window_state menu_bar v=0 p=0 m=0 b=0,0,1792,1120
 P window_state video_recording_config v=0 p=0 m=0 b=0,0,0,0
 P window_state ground_handling_window v=0 p=0 m=0 b=0,0,0,0
 P window_state interaction_recorder v=0 p=0 m=0 b=0,0,0,0
@@ -93,6 +93,6 @@ P monitor_19 _field_of_view 0
 P monitor_1 _visuals 0
 P monitor_1 _offsets 0
 P monitor_1 _field_of_view 0
-P monitor_4 _visuals 0
-P monitor_4 _offsets 0
-P monitor_4 _field_of_view 0
+P monitor_8 _visuals 0
+P monitor_8 _offsets 0
+P monitor_8 _field_of_view 0

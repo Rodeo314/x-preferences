@@ -61,7 +61,7 @@ _start_running 0
 _start_on_ramp 0
 _track_net 0
 _track_time 0
-_show_atc_taxi_route 1
+_show_atc_taxi_route 0
 _warn_text 1
 _save_acf_sel 0
 _rel_path_x15 Aircraft/Extra Aircraft/X-15/X-15.ACF
@@ -205,23 +205,23 @@ _CfreqSTDBY14 118000
 _CfreqSTDBY15 118000
 _CfreqSTDBY16 118000
 _acf_path_rel0 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
-_acf_path_rel1 Aircraft/Laminar Research/McDonnell Douglas MD-80/MD80.acf
-_acf_path_rel2 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
-_acf_path_rel3 Aircraft/Laminar Research/McDonnell Douglas MD-80/MD80.acf
-_acf_path_rel4 Aircraft/Laminar Research/Sikorsky S-76/S-76C.acf
-_acf_path_rel5 Aircraft/Laminar Research/Sikorsky S-76/S-76C.acf
-_acf_path_rel6 Aircraft/Laminar Research/Cirrus SF-50/CirrusSF50.acf
-_acf_path_rel7 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
-_acf_path_rel8 Aircraft/Laminar Research/Baron B58/Baron_58.acf
-_acf_path_rel9 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
-_acf_path_rel10 Aircraft/Laminar Research/Cirrus SF-50/CirrusSF50.acf
-_acf_path_rel11 Aircraft/Laminar Research/Boeing B737-800/b738.acf
-_acf_path_rel12 Aircraft/Laminar Research/Baron B58/Baron_58.acf
-_acf_path_rel13 Aircraft/Laminar Research/Boeing B737-800/b738.acf
-_acf_path_rel14 Aircraft/Laminar Research/Boeing B747-400/747-400.acf
-_acf_path_rel15 Aircraft/Laminar Research/Cirrus SF-50/CirrusSF50.acf
-_acf_path_rel16 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
-_acf_path_rel17 Aircraft/Laminar Research/Sikorsky S-76/S-76C.acf
+_acf_path_rel1 Aircraft/Laminar Research/Baron B58/Baron_58.acf
+_acf_path_rel2 Aircraft/Laminar Research/KingAir C90B/C90B.acf
+_acf_path_rel3 Aircraft/Laminar Research/KingAir C90B/C90B.acf
+_acf_path_rel4 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel5 Aircraft/Laminar Research/Boeing B737-800/b738.acf
+_acf_path_rel6 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel7 Aircraft/Laminar Research/KingAir C90B/C90B.acf
+_acf_path_rel8 Aircraft/Laminar Research/Boeing B737-800/b738.acf
+_acf_path_rel9 Aircraft/Laminar Research/Baron B58/Baron_58.acf
+_acf_path_rel10 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel11 Aircraft/Laminar Research/Sikorsky S-76/S-76C.acf
+_acf_path_rel12 Aircraft/Laminar Research/McDonnell Douglas MD-80/MD80.acf
+_acf_path_rel13 Aircraft/Laminar Research/Sikorsky S-76/S-76C.acf
+_acf_path_rel14 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel15 Aircraft/Laminar Research/Baron B58/Baron_58.acf
+_acf_path_rel16 Aircraft/Laminar Research/KingAir C90B/C90B.acf
+_acf_path_rel17 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
 _acf_path_rel18 Aircraft/Laminar Research/KingAir C90B/C90B.acf
 _acf_path_rel19 Aircraft/Laminar Research/Baron B58/Baron_58.acf
 _vol_master 1.000000
@@ -648,7 +648,7 @@ _Bgraf135 0
 _Bgraf136 0
 _Bgraf137 0
 _Bgraf138 0
-_Breal0 0
+_Breal0 1
 _Breal1 0
 _Breal2 0
 _Breal3 0
@@ -998,7 +998,7 @@ renopt_deer_birds 1
 renopt_draw_3d_04 1
 renopt_effects_04 3
 renopt_fire_ball 0
-renopt_gload 1
+renopt_gload 0
 renopt_per_pix_liting 1
 renopt_planet 1
 renopt_scattering 1

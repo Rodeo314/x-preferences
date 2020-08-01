@@ -17,10 +17,10 @@ monitor/0/m_x_res_full 1792
 monitor/0/m_y_res_full 1120
 monitor/0/m_is_fullscreen wmgr_mode_fullscreen
 monitor/0/m_usage wmgr_usage_normal_visuals
-monitor/0/proj/window_2d_off 0
+monitor/0/proj/window_2d_off 1
 monitor/0/proj/diff_FOV 0
-monitor/0/proj/FOVx_renopt 60.000000
-monitor/0/proj/FOVy_renopt 39.683343
+monitor/0/proj/FOVx_renopt 65.000000
+monitor/0/proj/FOVy_renopt 37.500000
 monitor/0/proj/os_x_rat 0.000000
 monitor/0/proj/os_y_rat 0.000000
 monitor/0/proj/off_vrt_deg 0.000000
