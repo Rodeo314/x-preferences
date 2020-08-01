@@ -105,3 +105,11 @@ R CTRL sim/general/rot_up_slow
 F CTRL sim/general/rot_down_slow
 Q CTRL sim/general/rot_left_slow
 E CTRL sim/general/rot_right_slow
+T OPT sim/operation/ground_speed_change
+T CTRL sim/operation/flightmodel_speed_change
+P <none> sim/operation/pause_toggle
+R OPT sim/replay/replay_toggle
+Return <none> sim/operation/contact_atc
+D CTRL sim/flight_controls/landing_gear_down
+U CTRL sim/flight_controls/landing_gear_up
+G <none> sim/flight_controls/landing_gear_toggle
