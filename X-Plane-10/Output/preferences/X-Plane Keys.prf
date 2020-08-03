@@ -155,3 +155,16 @@ X <none> sim/view/chase
 8 SHIFT+OPT+CTRL sim/view/quick_look_8_mem
 9 SHIFT+OPT+CTRL sim/view/quick_look_9_mem
 0 SHIFT+OPT+CTRL sim/view/quick_look_0_mem
+Numpad-+ <none> navP/thrust/up_once
+Numpad-- <none> navP/thrust/dn_once
+Numpad-* <none> navP/switches/at_disc
+Numpad-/ <none> navP/thrust/reverse
+Numpad-= <none> navP/thrust/forward
+Clear <none> navP/switches/at_toga
+F13 <none> sim/engines/mixture_max
+F14 <none> sim/engines/mixture_up
+F15 <none> sim/engines/mixture_down
+F16 <none> sim/engines/prop_up
+F17 <none> sim/engines/prop_down
+F18 <none> sim/engines/throttle_up
+F19 <none> sim/engines/throttle_down
