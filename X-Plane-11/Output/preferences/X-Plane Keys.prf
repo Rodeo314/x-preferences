@@ -117,3 +117,13 @@ E SHIFT sim/general/rot_right_fast
 R CTRL sim/general/rot_up_slow
 F CTRL sim/general/rot_down_slow
 E CTRL sim/general/rot_right_slow
+T OPTION sim/operation/ground_speed_change
+T CTRL sim/operation/flightmodel_speed_change
+P <NONE> sim/operation/pause_toggle
+R OPTION sim/replay/replay_toggle
+Return <NONE> sim/operation/contact_atc
+D CTRL sim/flight_controls/landing_gear_down
+U CTRL sim/flight_controls/landing_gear_up
+G <NONE> sim/flight_controls/landing_gear_toggle
+Space OPTION sim/general/action
+M <NONE> sim/map/show_current
