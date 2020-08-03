@@ -168,3 +168,14 @@ F16 <none> sim/engines/prop_up
 F17 <none> sim/engines/prop_down
 F18 <none> sim/engines/throttle_up
 F19 <none> sim/engines/throttle_down
+F7 <none> sim/engines/mixture_up
+F8 <none> sim/engines/mixture_down
+F9 <none> sim/engines/prop_up
+F10 <none> sim/engines/prop_down
+F11 <none> sim/engines/throttle_up
+F12 <none> sim/engines/throttle_down
+<NONE> <none> navP/thrust/reverse
+<NONE> <none> navP/thrust/forward
+<NONE> <none> navP/switches/ap_disc
+<NONE> <none> navP/switches/at_disc
+<NONE> <none> navP/switches/at_toga
