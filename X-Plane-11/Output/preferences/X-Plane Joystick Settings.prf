@@ -23,7 +23,7 @@ _eq_pfc_ice_all 0
 _eq_pfc_fuel_cutoff 0
 _joy_unique_id0 VID:1406PID:8201
 _joy_location0 Bluetooth_057e_2009_34-2f-bd-63-9e-9c_3d639e9c_0001_0005
-_joy_lru_time0 1596540499
+_joy_lru_time0 1596541507
 _joy_lru_time1 0
 _joy_lru_time2 0
 _joy_lru_time3 0
@@ -4772,12 +4772,12 @@ _joy_BUTN_use14 sim/engines/throttle_down
 _joy_BUTN_use15 sim/engines/throttle_up
 _joy_BUTN_use16 sim/flight_controls/flaps_up
 _joy_BUTN_use17 sim/flight_controls/flaps_down
-_joy_BUTN_use18 sim/view/quick_look_1
-_joy_BUTN_use19 sim/none/none
-_joy_BUTN_use20 navP/switches/ap_conn
-_joy_BUTN_use_desc20 A/P engagement
-_joy_BUTN_use21 navP/switches/at_toga
-_joy_BUTN_use_desc21 A/T takeoff/GA
+_joy_BUTN_use18 sim/none/none
+_joy_BUTN_use19 sim/view/quick_look_1
+_joy_BUTN_use20 navP/switches/at_toga
+_joy_BUTN_use_desc20 A/T takeoff/GA
+_joy_BUTN_use21 navP/switches/ap_conn
+_joy_BUTN_use_desc21 A/P engagement
 _joy_BUTN_use22 sim/none/none
 _joy_BUTN_use23 sim/none/none
 _joy_BUTN_use24 sim/none/none
