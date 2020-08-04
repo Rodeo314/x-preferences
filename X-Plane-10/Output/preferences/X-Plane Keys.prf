@@ -174,8 +174,8 @@ F9 <none> sim/engines/prop_up
 F10 <none> sim/engines/prop_down
 F11 <none> sim/engines/throttle_up
 F12 <none> sim/engines/throttle_down
-<NONE> <none> navP/thrust/reverse
-<NONE> <none> navP/thrust/forward
-<NONE> <none> navP/switches/ap_disc
-<NONE> <none> navP/switches/at_disc
-<NONE> <none> navP/switches/at_toga
+Backspace OPT navP/thrust/reverse
+Backspace CTRL navP/thrust/forward
+F1 <none> navP/switches/ap_disc
+F2 <none> navP/switches/at_disc
+F3 <none> navP/switches/at_toga

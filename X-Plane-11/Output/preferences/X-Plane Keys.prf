@@ -187,8 +187,8 @@ F9 <NONE> sim/engines/prop_up
 F10 <NONE> sim/engines/prop_down
 F11 <NONE> sim/engines/throttle_up
 F12 <NONE> sim/engines/throttle_down
-<NONE> <NONE> navP/thrust/reverse deploy thrust reversers
-<NONE> <NONE> navP/thrust/forward stow thrust reversers
-<NONE> <NONE> navP/switches/ap_disc A/P disconnect
-<NONE> <NONE> navP/switches/at_disc A/T disconnect
-<NONE> <NONE> navP/switches/at_toga A/T takeoff/GA
+Backspace OPTION navP/thrust/reverse deploy thrust reversers
+Backspace CTRL navP/thrust/forward stow thrust reversers
+F1 <NONE> navP/switches/ap_disc A/P disconnect
+F2 <NONE> navP/switches/at_disc A/T disconnect
+F3 <NONE> navP/switches/at_toga A/T takeoff/GA
