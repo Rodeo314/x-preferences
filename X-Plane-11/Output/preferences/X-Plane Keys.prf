@@ -127,23 +127,23 @@ U CTRL sim/flight_controls/landing_gear_up
 G <NONE> sim/flight_controls/landing_gear_toggle
 Space OPTION sim/general/action
 M <NONE> sim/map/show_current
-Space <NONE> navP/brakes/regular
-B <NONE> navP/brakes/release
-V <NONE> navP/brakes/parking
-A <NONE> navP/turnaround_set
-U <NONE> navP/switches/ap_clmb
-Numpad-Enter <NONE> navP/switches/cdu_toggle
+Space <NONE> navP/brakes/regular regular braking action
+B <NONE> navP/brakes/release release parking brake
+V <NONE> navP/brakes/parking apply max. park brake
+A <NONE> navP/turnaround_set friendly cold & dark
+U <NONE> navP/switches/ap_clmb A/P pitch: CLB
+Numpad-Enter <NONE> navP/switches/cdu_toggle CDU pop-up/down
 End <NONE> sim/flight_controls/flaps_down
 Home <NONE> sim/flight_controls/flaps_up
-PageDown <NONE> navP/spoilers/extend
-PageUp <NONE> navP/spoilers/retract
-Right OPTION navP/trims/aileron_right
-Left OPTION navP/trims/aileron_left
-Down OPTION navP/trims/pitch_down
-Up OPTION navP/trims/pitch_up
-` <NONE> navP/thrust/dn_once
-' <NONE> navP/thrust/up_once
-Backspace <NONE> navP/thrust/idle_boost
+PageDown <NONE> navP/spoilers/extend speedbrakes extend one
+PageUp <NONE> navP/spoilers/retract speedbrakes retract one
+Right OPTION navP/trims/aileron_right aileron trim right one
+Left OPTION navP/trims/aileron_left aileron trim left one
+Down OPTION navP/trims/pitch_down pitch trim down one
+Up OPTION navP/trims/pitch_up pitch trim up one
+` <NONE> navP/thrust/dn_once throttle down once
+' <NONE> navP/thrust/up_once throttle up once
+Backspace <NONE> navP/thrust/idle_boost apply just a bit of throttle
 H <NONE> sim/view/forward_with_hud
 Y <NONE> sim/view/flashlight_wht
 N <NONE> sim/view/night_vision
@@ -168,12 +168,12 @@ X <NONE> sim/view/chase
 8 SHIFT+OPTION+CTRL sim/view/quick_look_8_mem
 9 SHIFT+OPTION+CTRL sim/view/quick_look_9_mem
 0 SHIFT+OPTION+CTRL sim/view/quick_look_0_mem
-Numpad-+ <NONE> navP/thrust/up_once
-Numpad-- <NONE> navP/thrust/dn_once
-Numpad-* <NONE> navP/switches/at_disc
-Numpad-/ <NONE> navP/thrust/reverse
-Numpad-= <NONE> navP/thrust/forward
-Clear <NONE> navP/switches/at_toga
+Numpad-+ <NONE> navP/thrust/up_once throttle up once
+Numpad-- <NONE> navP/thrust/dn_once throttle down once
+Numpad-* <NONE> navP/switches/at_disc A/T disconnect
+Numpad-/ <NONE> navP/thrust/reverse deploy thrust reversers
+Numpad-= <NONE> navP/thrust/forward stow thrust reversers
+Clear <NONE> navP/switches/at_toga A/T takeoff/GA
 F13 <NONE> sim/engines/mixture_max
 F14 <NONE> sim/engines/mixture_up
 F15 <NONE> sim/engines/mixture_down
@@ -187,8 +187,8 @@ F9 <NONE> sim/engines/prop_up
 F10 <NONE> sim/engines/prop_down
 F11 <NONE> sim/engines/throttle_up
 F12 <NONE> sim/engines/throttle_down
-<NONE> <NONE> navP/thrust/reverse
-<NONE> <NONE> navP/thrust/forward
-<NONE> <NONE> navP/switches/ap_disc
-<NONE> <NONE> navP/switches/at_disc
-<NONE> <NONE> navP/switches/at_toga
+<NONE> <NONE> navP/thrust/reverse deploy thrust reversers
+<NONE> <NONE> navP/thrust/forward stow thrust reversers
+<NONE> <NONE> navP/switches/ap_disc A/P disconnect
+<NONE> <NONE> navP/switches/at_disc A/T disconnect
+<NONE> <NONE> navP/switches/at_toga A/T takeoff/GA
