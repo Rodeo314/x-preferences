@@ -6,4 +6,4 @@ opt:operation_timeout|n|0
 opt:run_at_startup|n|1
 opt:scan_sceneries|n|0
 opt:sound_gain|n|150
-opt:verbose_logging|n|0
+opt:verbose_logging|n|1
