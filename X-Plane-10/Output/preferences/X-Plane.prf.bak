@@ -21599,9 +21599,9 @@ _joy_lo_raw_dat36 0.000000
 _joy_lo_raw_dat37 0.000000
 _joy_lo_raw_dat38 0.000000
 _joy_lo_raw_dat39 0.000000
-_joy_lo_raw_dat40 0.110000
+_joy_lo_raw_dat40 0.200000
 _joy_lo_raw_dat41 0.200000
-_joy_lo_raw_dat42 0.140000
+_joy_lo_raw_dat42 0.200000
 _joy_lo_raw_dat43 0.200000
 _joy_lo_raw_dat44 0.000000
 _joy_lo_raw_dat45 0.000000
@@ -21699,10 +21699,10 @@ _joy_hi_raw_dat36 0.000000
 _joy_hi_raw_dat37 0.000000
 _joy_hi_raw_dat38 0.000000
 _joy_hi_raw_dat39 0.000000
-_joy_hi_raw_dat40 0.790000
-_joy_hi_raw_dat41 0.890000
-_joy_hi_raw_dat42 0.810000
-_joy_hi_raw_dat43 0.870000
+_joy_hi_raw_dat40 0.800000
+_joy_hi_raw_dat41 0.800000
+_joy_hi_raw_dat42 0.800000
+_joy_hi_raw_dat43 0.800000
 _joy_hi_raw_dat44 0.000000
 _joy_hi_raw_dat45 0.000000
 _joy_hi_raw_dat46 0.000000
