@@ -21899,10 +21899,10 @@ _joy_center36 0.500000
 _joy_center37 0.500000
 _joy_center38 0.500000
 _joy_center39 0.500000
-_joy_center40 0.071000
+_joy_center40 -0.10000
 _joy_center41 0.500000
-_joy_center42 0.124000
-_joy_center43 -0.04600
+_joy_center42 0.100000
+_joy_center43 0.010000
 _joy_center44 0.500000
 _joy_center45 0.500000
 _joy_center46 0.500000
@@ -21999,10 +21999,10 @@ _joy_null36 0.025000
 _joy_null37 0.025000
 _joy_null38 0.025000
 _joy_null39 0.025000
-_joy_null40 0.025000
+_joy_null40 0.050000
 _joy_null41 0.025000
-_joy_null42 0.025000
-_joy_null43 0.025000
+_joy_null42 0.050000
+_joy_null43 0.050000
 _joy_null44 0.025000
 _joy_null45 0.025000
 _joy_null46 0.025000

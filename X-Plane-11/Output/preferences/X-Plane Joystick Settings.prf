@@ -2543,10 +2543,10 @@ _joy_axis_wants_relaxed_calibration496 0
 _joy_axis_wants_relaxed_calibration497 0
 _joy_axis_wants_relaxed_calibration498 0
 _joy_axis_wants_relaxed_calibration499 0
-_joy_center0 0.065000
+_joy_center0 -0.10000
 _joy_center1 0.000000
-_joy_center2 0.160000
-_joy_center3 -0.10000
+_joy_center2 0.100000
+_joy_center3 0.010000
 _joy_center4 0.000000
 _joy_center5 0.000000
 _joy_center6 0.000000
@@ -3043,10 +3043,10 @@ _joy_center496 0.000000
 _joy_center497 0.000000
 _joy_center498 0.000000
 _joy_center499 0.000000
-_joy_null0 0.025000
+_joy_null0 0.050000
 _joy_null1 0.025000
-_joy_null2 0.025000
-_joy_null3 0.025000
+_joy_null2 0.050000
+_joy_null3 0.050000
 _joy_null4 0.025000
 _joy_null5 0.025000
 _joy_null6 0.025000
