@@ -63,7 +63,7 @@ _track_net 0
 _track_time 0
 _show_atc_taxi_route 0
 _warn_text 1
-_save_acf_sel 0
+_save_acf_sel 1
 _rel_path_x15 Aircraft/Extra Aircraft/X-15/X-15.ACF
 _rel_rel_path_nasa747 Aircraft/Extra Aircraft/B747-100 NASA/B747-100 NASA.acf
 _rel_path_shuttle Aircraft/Extra Aircraft/Space Shuttle/Orbiter.acf
@@ -78,7 +78,7 @@ _use_MTBF 0
 _real_MTBF_hours 10000.000000
 _atc_UI_x 10.000000
 _atc_UI_y 600.000000
-_zulu_time 72012.184634
+_zulu_time 43200.000000
 _locl_date_jan1 80.000000
 _mode_lat 15
 _mode_vert 12
@@ -205,32 +205,32 @@ _CfreqSTDBY14 118000
 _CfreqSTDBY15 118000
 _CfreqSTDBY16 118000
 _acf_path_rel0 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
-_acf_path_rel1 Aircraft/Laminar Research/McDonnell Douglas MD-80/MD80.acf
+_acf_path_rel1 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
 _acf_path_rel2 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
-_acf_path_rel3 Aircraft/Laminar Research/Boeing B737-800/b738.acf
-_acf_path_rel4 Aircraft/Laminar Research/Boeing B737-800/b738.acf
-_acf_path_rel5 Aircraft/Laminar Research/KingAir C90B/C90B.acf
-_acf_path_rel6 Aircraft/Laminar Research/Boeing B737-800/b738.acf
-_acf_path_rel7 Aircraft/Laminar Research/Baron B58/Baron_58.acf
-_acf_path_rel8 Aircraft/Laminar Research/McDonnell Douglas MD-80/MD80.acf
-_acf_path_rel9 Aircraft/Laminar Research/Boeing B747-400/747-400.acf
-_acf_path_rel10 Aircraft/Laminar Research/McDonnell Douglas MD-80/MD80.acf
-_acf_path_rel11 Aircraft/Laminar Research/Boeing B747-400/747-400.acf
-_acf_path_rel12 Aircraft/Laminar Research/Sikorsky S-76/S-76C.acf
+_acf_path_rel3 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel4 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel5 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel6 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel7 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel8 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel9 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel10 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel11 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel12 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
 _acf_path_rel13 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
-_acf_path_rel14 Aircraft/Laminar Research/Baron B58/Baron_58.acf
-_acf_path_rel15 Aircraft/Laminar Research/Baron B58/Baron_58.acf
+_acf_path_rel14 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel15 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
 _acf_path_rel16 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
-_acf_path_rel17 Aircraft/Laminar Research/Boeing B747-400/747-400.acf
+_acf_path_rel17 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
 _acf_path_rel18 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
-_acf_path_rel19 Aircraft/Laminar Research/Boeing B747-400/747-400.acf
-_vol_master 1.000000
-_vol_grp_aircraft 1.000000
-_vol_grp_cockpit 1.000000
-_vol_grp_copilot 1.000000
-_vol_grp_radios 1.000000
-_vol_grp_enviro 1.000000
-_vol_grp_ui 1.000000
+_acf_path_rel19 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_vol_master 0.200000
+_vol_grp_aircraft 0.500000
+_vol_grp_cockpit 0.500000
+_vol_grp_copilot 0.500000
+_vol_grp_radios 0.632456
+_vol_grp_enviro 0.500000
+_vol_grp_ui 0.500000
 _Binet0 0
 _Binet1 0
 _Binet2 0

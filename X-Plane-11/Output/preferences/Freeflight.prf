@@ -14,12 +14,8 @@ _wxr_use_rvr 0
 P _rwy_or_ramp KSEA 17
 P _fuel_tank __AircraftLaminarResearchCessna172SPCessna172SPacf_1 87.500000
 P _fuel_tank __AircraftLaminarResearchCessna172SPCessna172SPacf_0 87.500000
-P _payload _AircraftLaminarResearchCessna172SPCessna172SPacf 125.550003
+P _payload _AircraftLaminarResearchCessna172SPCessna172SPacf 170.000000
 P _livery _AircraftLaminarResearchCessna172SPCessna172SPacf Default
 P _start_is_rwy KSEA 0
-P _other_aircraft 0 Aircraft/Laminar Research/Sikorsky S-76/S-76C.acf
-P _other_aircraft 1 Aircraft/Laminar Research/McDonnell Douglas MD-80/MD80.acf
 P _cg _AircraftLaminarResearchCessna172SPCessna172SPacf 0.000000
-P _other_aircraft_combat_role 0 noncombatant
-P _other_aircraft_combat_role 1 noncombatant
 P _timestamp _AircraftLaminarResearchCessna172SPCessna172SPacf 1567079680.000000
