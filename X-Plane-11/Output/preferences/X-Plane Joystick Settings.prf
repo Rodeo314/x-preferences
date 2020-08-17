@@ -1543,7 +1543,7 @@ _joy_hi_raw_dat496 -9900000256.000000
 _joy_hi_raw_dat497 -9900000256.000000
 _joy_hi_raw_dat498 -9900000256.000000
 _joy_hi_raw_dat499 -9900000256.000000
-_joy_axis_is_calibrated_override0 0
+_joy_axis_is_calibrated_override0 1
 _joy_axis_is_calibrated_override1 0
 _joy_axis_is_calibrated_override2 0
 _joy_axis_is_calibrated_override3 0
@@ -2543,10 +2543,10 @@ _joy_axis_wants_relaxed_calibration496 0
 _joy_axis_wants_relaxed_calibration497 0
 _joy_axis_wants_relaxed_calibration498 0
 _joy_axis_wants_relaxed_calibration499 0
-_joy_center0 0.000000
+_joy_center0 0.065000
 _joy_center1 0.000000
-_joy_center2 0.000000
-_joy_center3 0.000000
+_joy_center2 0.160000
+_joy_center3 -0.10000
 _joy_center4 0.000000
 _joy_center5 0.000000
 _joy_center6 0.000000
