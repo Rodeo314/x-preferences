@@ -4044,9 +4044,9 @@ _joy_axis_delta_sec497 0.000000
 _joy_axis_delta_sec498 0.000000
 _joy_axis_delta_sec499 0.000000
 _joy_prat0 0.000000
-_joy_prat1 0.500000
-_joy_prat2 0.500000
-_joy_prat3 0.500000
+_joy_prat1 1.000000
+_joy_prat2 1.000000
+_joy_prat3 1.000000
 _joy_prat4 0.000000
 _joy_prat5 0.000000
 _joy_prat6 0.000000
