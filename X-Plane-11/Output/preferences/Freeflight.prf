@@ -2,7 +2,7 @@ I
 1100 Version
 _default_to_ramps 1
 _num_other_aircraft 0
-_airport KSEA
+_airport PMDY
 _track_system_date_time 0
 _time 12.00
 _gmt_offset 0
@@ -11,11 +11,11 @@ _editing_mode 0
 _aircraft Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
 _wxr_def version=2 visibility_sm=25 storms_ratio=0 thermal_vvi_fpm=500 runway_friction_conditions_are_uniform=1 wave_height_ft=0.5 wave_direction_deg=0 temp=14.134 pressure=101325 runway_friction=0 precipitation_ratio=0 thermal_coverage_ratio=0 thermal_altitude_ft_agl=5000 [ clouds version=1 height_ft_amsl=10000 thickness_ft=0 type=0 ] [ clouds version=1 height_ft_amsl=18000 thickness_ft=0 type=0 ] [ clouds version=1 height_ft_amsl=26000 thickness_ft=0 type=0 ] [ winds version=1 altitude_ft_amsl=10000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] [ winds version=1 altitude_ft_amsl=20000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] [ winds version=1 altitude_ft_amsl=30000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] 
 _wxr_use_rvr 0
-P _rwy_or_ramp KSEA 17
+P _rwy_or_ramp PMDY 0
 P _fuel_tank __AircraftLaminarResearchCessna172SPCessna172SPacf_1 87.500000
 P _fuel_tank __AircraftLaminarResearchCessna172SPCessna172SPacf_0 87.500000
 P _payload _AircraftLaminarResearchCessna172SPCessna172SPacf 170.000000
 P _livery _AircraftLaminarResearchCessna172SPCessna172SPacf Default
-P _start_is_rwy KSEA 0
+P _start_is_rwy PMDY 0
 P _cg _AircraftLaminarResearchCessna172SPCessna172SPacf 0.000000
 P _timestamp _AircraftLaminarResearchCessna172SPCessna172SPacf 1567079680.000000

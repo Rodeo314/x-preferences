@@ -41,7 +41,7 @@ _vr_manip_visualize 1
 _vr_has_3d_mouse 0
 _eq_matrox_TH 0
 _num_acf 1
-_apt_id_str KSEA
+_apt_id_str PMDY
 _tex_res 4
 _aniso_filter 1
 _default_view 2
@@ -72,7 +72,7 @@ _rel_path_tow Aircraft/Laminar Research/Stinson L5/L5_Sentinel.acf
 _rel_path_ref_KC10 Aircraft/Extra Aircraft/McDonnell Douglas KC-10/KC-10.acf
 _rel_path_ref_C130 Aircraft/Extra Aircraft/C-130/C-130.acf
 _rel_path_carry Aircraft/Extra Aircraft/B-52G NASA/B-52G NASA.acf
-_ref_rwy_wrl 17
+_ref_rwy_wrl 0
 _ref_rwy_dir 0
 _use_experimental_FM 0
 _use_MTBF 0

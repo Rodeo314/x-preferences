@@ -1,0 +1,71 @@
+diff --git b/X-Plane-11/Output/preferences/Freeflight.prf a/X-Plane-11/Output/preferences/Freeflight.prf
+index b24b561..0eb319d 100644
+--- b/X-Plane-11/Output/preferences/Freeflight.prf
++++ a/X-Plane-11/Output/preferences/Freeflight.prf
+@@ -2,7 +2,7 @@ I
+ 1100 Version
+ _default_to_ramps 1
+ _num_other_aircraft 0
+-_airport PMDY
++_airport KSEA
+ _track_system_date_time 0
+ _time 12.00
+ _gmt_offset 0
+@@ -11,11 +11,11 @@ _editing_mode 0
+ _aircraft Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+ _wxr_def version=2 visibility_sm=25 storms_ratio=0 thermal_vvi_fpm=500 runway_friction_conditions_are_uniform=1 wave_height_ft=0.5 wave_direction_deg=0 temp=14.134 pressure=101325 runway_friction=0 precipitation_ratio=0 thermal_coverage_ratio=0 thermal_altitude_ft_agl=5000 [ clouds version=1 height_ft_amsl=10000 thickness_ft=0 type=0 ] [ clouds version=1 height_ft_amsl=18000 thickness_ft=0 type=0 ] [ clouds version=1 height_ft_amsl=26000 thickness_ft=0 type=0 ] [ winds version=1 altitude_ft_amsl=10000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] [ winds version=1 altitude_ft_amsl=20000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] [ winds version=1 altitude_ft_amsl=30000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] 
+ _wxr_use_rvr 0
+-P _rwy_or_ramp PMDY 0
++P _rwy_or_ramp KSEA 17
+ P _fuel_tank __AircraftLaminarResearchCessna172SPCessna172SPacf_1 87.500000
+ P _fuel_tank __AircraftLaminarResearchCessna172SPCessna172SPacf_0 87.500000
+ P _payload _AircraftLaminarResearchCessna172SPCessna172SPacf 170.000000
+ P _livery _AircraftLaminarResearchCessna172SPCessna172SPacf Default
+-P _start_is_rwy PMDY 0
++P _start_is_rwy KSEA 0
+ P _cg _AircraftLaminarResearchCessna172SPCessna172SPacf 0.000000
+ P _timestamp _AircraftLaminarResearchCessna172SPCessna172SPacf 1567079680.000000
+diff --git b/X-Plane-11/Output/preferences/X-Plane.prf a/X-Plane-11/Output/preferences/X-Plane.prf
+index 0bebc5d..55fb248 100644
+--- b/X-Plane-11/Output/preferences/X-Plane.prf
++++ a/X-Plane-11/Output/preferences/X-Plane.prf
+@@ -41,7 +41,7 @@ _vr_manip_visualize 1
+ _vr_has_3d_mouse 0
+ _eq_matrox_TH 0
+ _num_acf 1
+-_apt_id_str PMDY
++_apt_id_str KSEA
+ _tex_res 4
+ _aniso_filter 1
+ _default_view 2
+@@ -72,7 +72,7 @@ _rel_path_tow Aircraft/Laminar Research/Stinson L5/L5_Sentinel.acf
+ _rel_path_ref_KC10 Aircraft/Extra Aircraft/McDonnell Douglas KC-10/KC-10.acf
+ _rel_path_ref_C130 Aircraft/Extra Aircraft/C-130/C-130.acf
+ _rel_path_carry Aircraft/Extra Aircraft/B-52G NASA/B-52G NASA.acf
+-_ref_rwy_wrl 0
++_ref_rwy_wrl 17
+ _ref_rwy_dir 0
+ _use_experimental_FM 0
+ _use_MTBF 0
+diff --git b/X-Plane-11/Output/preferences/X-Plane.prf.bak a/X-Plane-11/Output/preferences/X-Plane.prf.bak
+index 0bebc5d..55fb248 100644
+--- b/X-Plane-11/Output/preferences/X-Plane.prf.bak
++++ a/X-Plane-11/Output/preferences/X-Plane.prf.bak
+@@ -41,7 +41,7 @@ _vr_manip_visualize 1
+ _vr_has_3d_mouse 0
+ _eq_matrox_TH 0
+ _num_acf 1
+-_apt_id_str PMDY
++_apt_id_str KSEA
+ _tex_res 4
+ _aniso_filter 1
+ _default_view 2
+@@ -72,7 +72,7 @@ _rel_path_tow Aircraft/Laminar Research/Stinson L5/L5_Sentinel.acf
+ _rel_path_ref_KC10 Aircraft/Extra Aircraft/McDonnell Douglas KC-10/KC-10.acf
+ _rel_path_ref_C130 Aircraft/Extra Aircraft/C-130/C-130.acf
+ _rel_path_carry Aircraft/Extra Aircraft/B-52G NASA/B-52G NASA.acf
+-_ref_rwy_wrl 0
++_ref_rwy_wrl 17
+ _ref_rwy_dir 0
+ _use_experimental_FM 0
+ _use_MTBF 0
