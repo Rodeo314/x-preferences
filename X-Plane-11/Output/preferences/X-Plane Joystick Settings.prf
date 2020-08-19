@@ -4744,40 +4744,36 @@ _joy_AXIS_use496 0
 _joy_AXIS_use497 0
 _joy_AXIS_use498 0
 _joy_AXIS_use499 0
-_joy_BUTN_use0 navP/trims/pitch_up
-_joy_BUTN_use_desc0 pitch trim up one
+_joy_BUTN_use0 sim/flight_controls/landing_gear_up
 _joy_BUTN_use1 sim/none/none
-_joy_BUTN_use2 navP/trims/rudder_right
-_joy_BUTN_use_desc2 rudder trim right one
+_joy_BUTN_use2 sim/flight_controls/flaps_down
 _joy_BUTN_use3 sim/none/none
-_joy_BUTN_use4 navP/trims/pitch_down
-_joy_BUTN_use_desc4 pitch trim down one
+_joy_BUTN_use4 sim/flight_controls/landing_gear_down
 _joy_BUTN_use5 sim/none/none
-_joy_BUTN_use6 navP/trims/rudder_left
-_joy_BUTN_use_desc6 rudder trim left one
+_joy_BUTN_use6 sim/flight_controls/flaps_up
 _joy_BUTN_use7 sim/none/none
-_joy_BUTN_use8 navP/switches/ap_disc
-_joy_BUTN_use_desc8 A/P disconnect
-_joy_BUTN_use9 navP/switches/at_disc
-_joy_BUTN_use_desc9 A/T disconnect
+_joy_BUTN_use8 navP/brakes/regular
+_joy_BUTN_use_desc8 regular braking action
+_joy_BUTN_use9 navP/brakes/parking
+_joy_BUTN_use_desc9 apply max. park brake
 _joy_BUTN_use10 navP/thrust/reverse
 _joy_BUTN_use_desc10 deploy thrust reversers
 _joy_BUTN_use11 navP/thrust/forward
 _joy_BUTN_use_desc11 stow thrust reversers
-_joy_BUTN_use12 navP/brakes/regular
-_joy_BUTN_use_desc12 regular braking action
-_joy_BUTN_use13 navP/brakes/parking
-_joy_BUTN_use_desc13 apply max. park brake
+_joy_BUTN_use12 navP/switches/at_disc
+_joy_BUTN_use_desc12 A/T disconnect
+_joy_BUTN_use13 navP/switches/ap_disc
+_joy_BUTN_use_desc13 A/P disconnect
 _joy_BUTN_use14 sim/engines/throttle_down
 _joy_BUTN_use15 sim/engines/throttle_up
-_joy_BUTN_use16 sim/flight_controls/flaps_up
-_joy_BUTN_use17 sim/flight_controls/flaps_down
+_joy_BUTN_use16 navP/switches/ap_conn
+_joy_BUTN_use_desc16 A/P engagement
+_joy_BUTN_use17 navP/switches/at_toga
+_joy_BUTN_use_desc17 A/T takeoff/GA
 _joy_BUTN_use18 sim/none/none
 _joy_BUTN_use19 sim/view/quick_look_1
-_joy_BUTN_use20 navP/switches/at_toga
-_joy_BUTN_use_desc20 A/T takeoff/GA
-_joy_BUTN_use21 navP/switches/ap_conn
-_joy_BUTN_use_desc21 A/P engagement
+_joy_BUTN_use20 sim/none/none
+_joy_BUTN_use21 sim/none/none
 _joy_BUTN_use22 sim/none/none
 _joy_BUTN_use23 sim/none/none
 _joy_BUTN_use24 sim/none/none
