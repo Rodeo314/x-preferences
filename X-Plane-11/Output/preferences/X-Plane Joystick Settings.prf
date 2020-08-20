@@ -4765,7 +4765,8 @@ _joy_BUTN_use_desc12 A/T disconnect
 _joy_BUTN_use13 navP/switches/ap_disc
 _joy_BUTN_use_desc13 A/P disconnect
 _joy_BUTN_use14 sim/engines/throttle_down
-_joy_BUTN_use15 sim/engines/throttle_up
+_joy_BUTN_use15 navP/thrust/up_once
+_joy_BUTN_use_desc15 throttle up 12pc
 _joy_BUTN_use16 navP/switches/ap_conn
 _joy_BUTN_use_desc16 A/P engagement
 _joy_BUTN_use17 navP/switches/at_toga
