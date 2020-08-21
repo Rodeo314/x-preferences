@@ -7,7 +7,7 @@ _track_system_date_time 0
 _time 12.00
 _gmt_offset 0
 _date 80
-_editing_mode 0
+_editing_mode 1
 _aircraft Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
 _wxr_def version=2 visibility_sm=25 storms_ratio=0 thermal_vvi_fpm=500 runway_friction_conditions_are_uniform=1 wave_height_ft=0.5 wave_direction_deg=0 temp=14.134 pressure=101325 runway_friction=0 precipitation_ratio=0 thermal_coverage_ratio=0 thermal_altitude_ft_agl=5000 [ clouds version=1 height_ft_amsl=10000 thickness_ft=0 type=0 ] [ clouds version=1 height_ft_amsl=18000 thickness_ft=0 type=0 ] [ clouds version=1 height_ft_amsl=26000 thickness_ft=0 type=0 ] [ winds version=1 altitude_ft_amsl=10000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] [ winds version=1 altitude_ft_amsl=20000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] [ winds version=1 altitude_ft_amsl=30000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] 
 _wxr_use_rvr 0

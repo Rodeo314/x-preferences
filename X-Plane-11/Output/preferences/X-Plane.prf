@@ -9,13 +9,13 @@ _time_compression 1
 _data_rate_02 2
 _use_pbos 0
 _cloud_pref_number_rat 0.000000
-_wxr_init_type 0
+_wxr_init_type 3
 _coverage_rat 0.500000
 _intensity_rat 0.500000
 _temperature_rat 0.500000
 _cell_size_rat 0.500000
 _random_rat 0.000000
-_rwx_download_selected 0
+_rwx_download_selected 1
 _sound_on 1
 _voice_on 1
 _text_out 1
