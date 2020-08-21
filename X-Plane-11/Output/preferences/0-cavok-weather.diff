@@ -1,0 +1,53 @@
+diff --git b/Freeflight.prf a/Freeflight.prf
+index 0546305..b24b561 100644
+--- b/Freeflight.prf
++++ a/Freeflight.prf
+@@ -7,7 +7,7 @@ _track_system_date_time 0
+ _time 12.00
+ _gmt_offset 0
+ _date 80
+-_editing_mode 1
++_editing_mode 0
+ _aircraft Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+ _wxr_def version=2 visibility_sm=25 storms_ratio=0 thermal_vvi_fpm=500 runway_friction_conditions_are_uniform=1 wave_height_ft=0.5 wave_direction_deg=0 temp=14.134 pressure=101325 runway_friction=0 precipitation_ratio=0 thermal_coverage_ratio=0 thermal_altitude_ft_agl=5000 [ clouds version=1 height_ft_amsl=10000 thickness_ft=0 type=0 ] [ clouds version=1 height_ft_amsl=18000 thickness_ft=0 type=0 ] [ clouds version=1 height_ft_amsl=26000 thickness_ft=0 type=0 ] [ winds version=1 altitude_ft_amsl=10000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] [ winds version=1 altitude_ft_amsl=20000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] [ winds version=1 altitude_ft_amsl=30000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] 
+ _wxr_use_rvr 0
+diff --git b/X-Plane.prf a/X-Plane.prf
+index 0591523..0bebc5d 100644
+--- b/X-Plane.prf
++++ a/X-Plane.prf
+@@ -9,13 +9,13 @@ _time_compression 1
+ _data_rate_02 2
+ _use_pbos 0
+ _cloud_pref_number_rat 0.000000
+-_wxr_init_type 3
++_wxr_init_type 0
+ _coverage_rat 0.500000
+ _intensity_rat 0.500000
+ _temperature_rat 0.500000
+ _cell_size_rat 0.500000
+ _random_rat 0.000000
+-_rwx_download_selected 1
++_rwx_download_selected 0
+ _sound_on 1
+ _voice_on 1
+ _text_out 1
+diff --git b/X-Plane.prf.bak a/X-Plane.prf.bak
+index 0591523..0bebc5d 100644
+--- b/X-Plane.prf.bak
++++ a/X-Plane.prf.bak
+@@ -9,13 +9,13 @@ _time_compression 1
+ _data_rate_02 2
+ _use_pbos 0
+ _cloud_pref_number_rat 0.000000
+-_wxr_init_type 3
++_wxr_init_type 0
+ _coverage_rat 0.500000
+ _intensity_rat 0.500000
+ _temperature_rat 0.500000
+ _cell_size_rat 0.500000
+ _random_rat 0.000000
+-_rwx_download_selected 1
++_rwx_download_selected 0
+ _sound_on 1
+ _voice_on 1
+ _text_out 1
