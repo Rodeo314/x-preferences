@@ -1,0 +1,13 @@
+diff --git a/X-Plane.prf b/X-Plane.prf
+index 0bebc5d..7cb8395 100644
+--- a/X-Plane.prf
++++ b/X-Plane.prf
+@@ -1005,7 +1005,7 @@ renopt_planet 0
+ renopt_scattering 0
+ renopt_scenery_shadows 0
+ renopt_sloped_runways 1
+-renopt_static_acf 1
++renopt_static_acf 0
+ renopt_view_ind 0
+ renopt_volume_fog 0
+ renopt_wat_05 0
