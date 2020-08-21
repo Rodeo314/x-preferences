@@ -1,8 +1,8 @@
 diff --git a/X-Plane.prf b/X-Plane.prf
-index 4653432..0779dc9 100644
+index 5aaa29a..322442c 100644
 --- a/X-Plane.prf
 +++ b/X-Plane.prf
-@@ -23876,8 +23876,8 @@ renopt_per_pix_liting 0
+@@ -23877,8 +23877,8 @@ renopt_per_pix_liting 0
  renopt_planet 0
  renopt_scattering 0
  renopt_shadows_06 0
