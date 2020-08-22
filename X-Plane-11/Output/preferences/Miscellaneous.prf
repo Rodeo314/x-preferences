@@ -1,0 +1,28 @@
+I
+1100 Version
+wxr_disclose_water 0
+weather_download_time 900
+wxr_disclose_atmosphere 1
+wxr_disclose_thermals 0
+wxr_disclose_runway_conditions 0
+P pilot-530 gps_window_visible 0
+P copilot-430 gps_window_visible 0
+P window_state particle_browser v=0 p=0 m=0 b=0,0,0,0
+P window_state texture_browser v=0 p=0 m=0 b=0,0,0,0
+P window_state projection_params v=0 p=0 m=0 b=0,0,0,0
+P window_state key_shortcuts v=0 p=0 m=0 b=0,0,0,0
+P window_state settings v=0 p=0 m=0 b=0,0,0,0
+P window_state main_menu v=0 p=0 m=0 b=0,0,1792,1120
+P window_state atc_window v=0 p=0 m=0 b=0,0,0,0
+P window_state save_flight_window v=0 p=0 m=0 b=0,0,0,0
+P window_state logbook_window v=0 p=0 m=0 b=0,0,0,0
+P window_state text_file_window v=0 p=0 m=0 b=0,0,0,0
+P window_state checklist_window v=0 p=0 m=0 b=0,0,0,0
+P window_state ios v=0 p=0 m=0 b=0,0,0,0
+P window_state map v=0 p=0 m=0 b=0,0,0,0
+P window_state data_out v=0 p=0 m=0 b=0,0,0,0
+P window_state replay_controls v=0 p=0 m=0 b=0,0,0,0
+P window_state menu_bar v=1 p=0 m=0 b=0,0,1792,1120
+P window_state video_recording_config v=0 p=0 m=0 b=0,0,0,0
+P window_state ground_handling_window v=0 p=0 m=0 b=0,0,0,0
+P window_state interaction_recorder v=0 p=0 m=0 b=0,0,0,0
