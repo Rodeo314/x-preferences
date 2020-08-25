@@ -22,9 +22,11 @@ _eq_pfc_ice_inlet 0
 _eq_pfc_ice_all 0
 _eq_pfc_fuel_cutoff 0
 _joy_unique_id0 VID:1406PID:8201
+_joy_unique_id1 VID:1699PID:1891
 _joy_location0 Bluetooth_057e_2009_34-2f-bd-63-9e-9c_3d639e9c_0001_0005
-_joy_lru_time0 1596541507
-_joy_lru_time1 0
+_joy_location1 USB_06a3_0763_none_14111000_0001_0004
+_joy_lru_time0 1598386973
+_joy_lru_time1 1598386973
 _joy_lru_time2 0
 _joy_lru_time3 0
 _joy_lru_time4 0
@@ -568,9 +570,9 @@ _joy_lo_raw_dat21 9900000256.000000
 _joy_lo_raw_dat22 9900000256.000000
 _joy_lo_raw_dat23 9900000256.000000
 _joy_lo_raw_dat24 9900000256.000000
-_joy_lo_raw_dat25 9900000256.000000
-_joy_lo_raw_dat26 9900000256.000000
-_joy_lo_raw_dat27 9900000256.000000
+_joy_lo_raw_dat25 8999999488.000000
+_joy_lo_raw_dat26 8999999488.000000
+_joy_lo_raw_dat27 0.010000
 _joy_lo_raw_dat28 9900000256.000000
 _joy_lo_raw_dat29 9900000256.000000
 _joy_lo_raw_dat30 9900000256.000000
@@ -1068,9 +1070,9 @@ _joy_hi_raw_dat21 -9900000256.000000
 _joy_hi_raw_dat22 -9900000256.000000
 _joy_hi_raw_dat23 -9900000256.000000
 _joy_hi_raw_dat24 -9900000256.000000
-_joy_hi_raw_dat25 -9900000256.000000
-_joy_hi_raw_dat26 -9900000256.000000
-_joy_hi_raw_dat27 -9900000256.000000
+_joy_hi_raw_dat25 -8999999488.000000
+_joy_hi_raw_dat26 -8999999488.000000
+_joy_hi_raw_dat27 0.990000
 _joy_hi_raw_dat28 -9900000256.000000
 _joy_hi_raw_dat29 -9900000256.000000
 _joy_hi_raw_dat30 -9900000256.000000
@@ -1568,8 +1570,8 @@ _joy_axis_is_calibrated_override21 0
 _joy_axis_is_calibrated_override22 0
 _joy_axis_is_calibrated_override23 0
 _joy_axis_is_calibrated_override24 0
-_joy_axis_is_calibrated_override25 0
-_joy_axis_is_calibrated_override26 0
+_joy_axis_is_calibrated_override25 1
+_joy_axis_is_calibrated_override26 1
 _joy_axis_is_calibrated_override27 0
 _joy_axis_is_calibrated_override28 0
 _joy_axis_is_calibrated_override29 0
@@ -2570,7 +2572,7 @@ _joy_center23 0.000000
 _joy_center24 0.000000
 _joy_center25 0.000000
 _joy_center26 0.000000
-_joy_center27 0.000000
+_joy_center27 0.000001
 _joy_center28 0.000000
 _joy_center29 0.000000
 _joy_center30 0.000000
@@ -4244,7 +4246,7 @@ _axis_is_required63 0
 _axis_is_required64 0
 _axis_is_required65 0
 _axis_is_required66 0
-_joy_AXIS_use0 3
+_joy_AXIS_use0 0
 _joy_AXIS_use1 0
 _joy_AXIS_use2 2
 _joy_AXIS_use3 1
@@ -4271,7 +4273,7 @@ _joy_AXIS_use23 0
 _joy_AXIS_use24 0
 _joy_AXIS_use25 0
 _joy_AXIS_use26 0
-_joy_AXIS_use27 0
+_joy_AXIS_use27 3
 _joy_AXIS_use28 0
 _joy_AXIS_use29 0
 _joy_AXIS_use30 0
@@ -7961,3 +7963,9 @@ _joy_AXIS_cmnd8 sim/none/none
 _joy_AXIS_cmnd9 sim/none/none
 _joy_AXIS_cmnd12 sim/none/none
 _joy_AXIS_cmnd13 sim/none/none
+_joy_AXIS_cmnd100 sim/none/none
+_joy_AXIS_cmnd101 sim/none/none
+_joy_AXIS_cmnd104 sim/none/none
+_joy_AXIS_cmnd105 sim/none/none
+_joy_AXIS_cmnd108 sim/none/none
+_joy_AXIS_cmnd109 sim/none/none
