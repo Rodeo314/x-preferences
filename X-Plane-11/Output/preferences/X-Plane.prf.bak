@@ -1,7 +1,7 @@
 I
 10 Version
 _lang 0
-_use_sys_time 0
+_use_sys_time 1
 _hours_offset 0.000000
 _movie_dx 640
 _movie_framerate 20.000000
@@ -1004,8 +1004,8 @@ renopt_per_pix_liting 0
 renopt_planet 0
 renopt_scattering 0
 renopt_scenery_shadows 0
-renopt_sloped_runways 1
-renopt_static_acf 1
+renopt_sloped_runways 0
+renopt_static_acf 0
 renopt_view_ind 0
 renopt_volume_fog 0
 renopt_wat_05 0
