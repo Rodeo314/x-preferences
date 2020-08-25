@@ -22160,7 +22160,7 @@ _joy_damp48 0.000000
 _joy_AXIS_use0 0
 _joy_AXIS_use1 0
 _joy_AXIS_use2 3
-_joy_AXIS_use3 4
+_joy_AXIS_use3 0
 _joy_AXIS_use4 0
 _joy_AXIS_use5 0
 _joy_AXIS_use6 0
@@ -22180,9 +22180,9 @@ _joy_AXIS_use19 0
 _joy_AXIS_use20 0
 _joy_AXIS_use21 0
 _joy_AXIS_use22 0
-_joy_AXIS_use23 4
+_joy_AXIS_use23 0
 _joy_AXIS_use24 0
-_joy_AXIS_use25 9
+_joy_AXIS_use25 0
 _joy_AXIS_use26 0
 _joy_AXIS_use27 0
 _joy_AXIS_use28 0
@@ -22193,8 +22193,8 @@ _joy_AXIS_use32 0
 _joy_AXIS_use33 0
 _joy_AXIS_use34 0
 _joy_AXIS_use35 0
-_joy_AXIS_use36 9
-_joy_AXIS_use37 8
+_joy_AXIS_use36 0
+_joy_AXIS_use37 0
 _joy_AXIS_use38 0
 _joy_AXIS_use39 0
 _joy_AXIS_use40 0
