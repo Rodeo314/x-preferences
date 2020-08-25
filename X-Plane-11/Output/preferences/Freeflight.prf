@@ -3,7 +3,7 @@ I
 _default_to_ramps 1
 _num_other_aircraft 0
 _airport PMDY
-_track_system_date_time 0
+_track_system_date_time 1
 _time 12.00
 _gmt_offset 0
 _date 80
