@@ -22438,7 +22438,7 @@ _joy_BUTN_use177 navP/thrust/reverse
 _joy_BUTN_use178 sim/engines/mixture_up
 _joy_BUTN_use179 sim/engines/prop_up
 _joy_BUTN_use180 sim/engines/mixture_max
-_joy_BUTN_use181 navP/thrust/idle_boost
+_joy_BUTN_use181 sim/operation/contact_atc
 _joy_BUTN_use182 sim/engines/prop_down
 _joy_BUTN_use183 sim/engines/mixture_down
 _joy_BUTN_use184 sim/none/none
