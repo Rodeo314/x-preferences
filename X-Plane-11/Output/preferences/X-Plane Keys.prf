@@ -5,8 +5,6 @@ Space SHIFT sim/operation/screenshot
 Escape <NONE> sim/operation/show_menu
 M SHIFT sim/operation/cycle_dump
 X CTRL sim/operation/create_snap_marker
-, CTRL sim/operation/test_data_ref
-F CTRL sim/operation/fail_system
 Space SHIFT+OPTION+CTRL sim/operation/make_panel_previews
 I <NONE> sim/map/show_instructor_operator_station
 ` <NONE> sim/operation/toggle_flight_config
@@ -86,7 +84,7 @@ Left <NONE> sim/general/left
 Right <NONE> sim/general/right
 Up <NONE> sim/general/up
 Down <NONE> sim/general/down
-. <NONE> sim/general/forward
+. <NONE> sim/general/forward_slow
 , <NONE> sim/general/backward
 = <NONE> sim/general/zoom_in
 - <NONE> sim/general/zoom_out
@@ -102,13 +100,12 @@ Left CTRL sim/general/left_slow
 Right CTRL sim/general/right_slow
 Up CTRL sim/general/up_slow
 Down CTRL sim/general/down_slow
-. CTRL sim/general/forward_slow
 , CTRL sim/general/backward_slow
 = CTRL sim/general/zoom_in_slow
 - CTRL sim/general/zoom_out_slow
 R <NONE> sim/general/rot_up
 F <NONE> sim/general/rot_down
-Q <NONE> sim/general/rot_left
+Q <NONE> sim/general/rot_left_slow
 E <NONE> sim/general/rot_right
 R SHIFT sim/general/rot_up_fast
 F SHIFT sim/general/rot_down_fast
