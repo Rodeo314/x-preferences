@@ -1,6 +1,6 @@
 I
 1005 Version
-Q CTRL sim/operation/quit
+Q CTRL sim/none/none
 Space SHIFT sim/operation/screenshot
 Escape <NONE> sim/operation/show_menu
 M SHIFT sim/operation/cycle_dump
