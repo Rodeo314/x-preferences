@@ -95,7 +95,7 @@ Down CTRL sim/general/down_slow
 - CTRL sim/general/zoom_out_slow
 R <none> sim/general/rot_up
 F <none> sim/general/rot_down
-Q <none> sim/general/rot_left
+Q <none> sim/general/rot_left_slow
 E <none> sim/general/rot_right
 R SHIFT sim/general/rot_up_fast
 F SHIFT sim/general/rot_down_fast
