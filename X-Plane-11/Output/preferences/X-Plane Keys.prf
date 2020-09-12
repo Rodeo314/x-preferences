@@ -140,7 +140,7 @@ Down OPTION navP/trims/pitch_down pitch trim down one
 Up OPTION navP/trims/pitch_up pitch trim up one
 ` <NONE> navP/thrust/dn_once throttle down once
 ' <NONE> navP/thrust/up_once throttle up once
-Backspace <NONE> navP/thrust/idle_boost apply just a bit of throttle
+Backspace <NONE> navP/thrust/up_lots throttle up 12pc
 H <NONE> sim/view/forward_with_hud
 Y <NONE> sim/view/flashlight_wht
 N <NONE> sim/view/night_vision

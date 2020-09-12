@@ -130,7 +130,7 @@ Down OPT navP/trims/pitch_down
 Up OPT navP/trims/pitch_up
 ` <none> navP/thrust/dn_once
 ' <none> navP/thrust/up_once
-Backspace <none> navP/thrust/idle_boost
+Backspace <none> navP/thrust/up_lots
 H <none> sim/view/forward_with_hud
 Y <none> sim/view/flashlight_wht
 N <none> sim/view/night_vision
