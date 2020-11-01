@@ -5251,22 +5251,29 @@ _joy_BUTN_use476 sim/none/none
 _joy_BUTN_use477 sim/none/none
 _joy_BUTN_use478 sim/none/none
 _joy_BUTN_use479 sim/none/none
-_joy_BUTN_use480 sim/none/none
+_joy_BUTN_use480 navP/trims/pitch_down
+_joy_BUTN_use_desc480 pitch trim down one
 _joy_BUTN_use481 sim/none/none
-_joy_BUTN_use482 sim/none/none
+_joy_BUTN_use482 navP/trims/rudder_right
+_joy_BUTN_use_desc482 rudder trim right one
 _joy_BUTN_use483 sim/none/none
-_joy_BUTN_use484 sim/none/none
+_joy_BUTN_use484 navP/trims/pitch_up
+_joy_BUTN_use_desc484 pitch trim up one
 _joy_BUTN_use485 sim/none/none
-_joy_BUTN_use486 sim/none/none
+_joy_BUTN_use486 navP/trims/rudder_left
+_joy_BUTN_use_desc486 rudder trim left one
 _joy_BUTN_use487 sim/none/none
-_joy_BUTN_use488 sim/none/none
-_joy_BUTN_use489 sim/none/none
-_joy_BUTN_use490 sim/none/none
-_joy_BUTN_use491 sim/none/none
+_joy_BUTN_use488 sim/operation/contact_atc
+_joy_BUTN_use489 navP/switches/at_toga
+_joy_BUTN_use_desc489 A/T takeoff/GA
+_joy_BUTN_use490 navP/switches/ap_conn
+_joy_BUTN_use_desc490 A/P engagement
+_joy_BUTN_use491 navP/switches/ap_disc
+_joy_BUTN_use_desc491 A/P disconnect
 _joy_BUTN_use492 sim/none/none
 _joy_BUTN_use493 sim/none/none
 _joy_BUTN_use494 sim/none/none
-_joy_BUTN_use495 sim/none/none
+_joy_BUTN_use495 sim/operation/contact_atc
 _joy_BUTN_use496 sim/none/none
 _joy_BUTN_use497 sim/none/none
 _joy_BUTN_use498 sim/none/none
@@ -5411,14 +5418,22 @@ _joy_BUTN_use636 sim/none/none
 _joy_BUTN_use637 sim/none/none
 _joy_BUTN_use638 sim/none/none
 _joy_BUTN_use639 sim/none/none
-_joy_BUTN_use640 sim/none/none
-_joy_BUTN_use641 sim/none/none
-_joy_BUTN_use642 sim/none/none
-_joy_BUTN_use643 sim/none/none
-_joy_BUTN_use644 sim/none/none
-_joy_BUTN_use645 sim/none/none
-_joy_BUTN_use646 sim/none/none
-_joy_BUTN_use647 sim/none/none
+_joy_BUTN_use640 navP/switches/at_disc
+_joy_BUTN_use_desc640 A/T disconnect
+_joy_BUTN_use641 navP/switches/at_disc
+_joy_BUTN_use_desc641 A/T disconnect
+_joy_BUTN_use642 navP/tca/engine/l/run
+_joy_BUTN_use_desc642 engi. 1 to run
+_joy_BUTN_use643 navP/tca/engine/2/run
+_joy_BUTN_use_desc643 engi. 2 to run
+_joy_BUTN_use644 navP/tca/eng/button/l
+_joy_BUTN_use_desc644 en. button (l)
+_joy_BUTN_use645 navP/tca/eng/button/r
+_joy_BUTN_use_desc645 en. button (r)
+_joy_BUTN_use646 navP/tca/eng/mode/crk
+_joy_BUTN_use_desc646 en. mode crank
+_joy_BUTN_use647 navP/tca/eng/mode/ign
+_joy_BUTN_use_desc647 en. mode start
 _joy_BUTN_use648 sim/none/none
 _joy_BUTN_use649 sim/none/none
 _joy_BUTN_use650 sim/none/none
