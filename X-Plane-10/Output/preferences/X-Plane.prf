@@ -21521,8 +21521,8 @@ _joy_rev_axis56 0
 _joy_rev_axis57 0
 _joy_rev_axis58 0
 _joy_rev_axis59 0
-_joy_rev_axis60 1
-_joy_rev_axis61 1
+_joy_rev_axis60 0
+_joy_rev_axis61 0
 _joy_rev_axis62 0
 _joy_rev_axis63 0
 _joy_rev_axis64 0
@@ -22219,8 +22219,8 @@ _joy_AXIS_use56 0
 _joy_AXIS_use57 0
 _joy_AXIS_use58 0
 _joy_AXIS_use59 0
-_joy_AXIS_use60 26
-_joy_AXIS_use61 27
+_joy_AXIS_use60 20
+_joy_AXIS_use61 21
 _joy_AXIS_use62 0
 _joy_AXIS_use63 0
 _joy_AXIS_use64 0
