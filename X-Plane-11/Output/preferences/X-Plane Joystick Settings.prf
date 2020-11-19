@@ -5526,9 +5526,12 @@ _joy_BUTN_use736 sim/none/none
 _joy_BUTN_use737 sim/none/none
 _joy_BUTN_use738 sim/none/none
 _joy_BUTN_use739 sim/none/none
-_joy_BUTN_use740 sim/none/none
-_joy_BUTN_use741 sim/none/none
-_joy_BUTN_use742 sim/none/none
+_joy_BUTN_use740 navP/tca/engine/l/cut
+_joy_BUTN_use_desc740 engi. 1 cutoff
+_joy_BUTN_use741 navP/tca/engine/2/cut
+_joy_BUTN_use_desc741 engi. 2 cutoff
+_joy_BUTN_use742 navP/tca/eng/mode/nrm
+_joy_BUTN_use_desc742 eng. mode norm
 _joy_BUTN_use743 sim/none/none
 _joy_BUTN_use744 sim/none/none
 _joy_BUTN_use745 sim/none/none
