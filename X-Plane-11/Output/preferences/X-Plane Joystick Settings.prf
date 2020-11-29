@@ -4052,9 +4052,9 @@ _joy_axis_delta_sec497 0.000000
 _joy_axis_delta_sec498 0.000000
 _joy_axis_delta_sec499 0.000000
 _joy_prat0 0.000000
-_joy_prat1 0.500000
-_joy_prat2 0.500000
-_joy_prat3 0.500000
+_joy_prat1 1.000000
+_joy_prat2 1.000000
+_joy_prat3 1.000000
 _joy_prat4 0.000000
 _joy_prat5 0.000000
 _joy_prat6 0.000000
@@ -4252,10 +4252,10 @@ _axis_is_required63 0
 _axis_is_required64 0
 _axis_is_required65 0
 _axis_is_required66 0
-_joy_AXIS_use0 0
+_joy_AXIS_use0 3
 _joy_AXIS_use1 0
-_joy_AXIS_use2 0
-_joy_AXIS_use3 0
+_joy_AXIS_use2 2
+_joy_AXIS_use3 1
 _joy_AXIS_use4 0
 _joy_AXIS_use5 0
 _joy_AXIS_use6 0
@@ -4279,7 +4279,7 @@ _joy_AXIS_use23 0
 _joy_AXIS_use24 0
 _joy_AXIS_use25 0
 _joy_AXIS_use26 0
-_joy_AXIS_use27 3
+_joy_AXIS_use27 0
 _joy_AXIS_use28 0
 _joy_AXIS_use29 0
 _joy_AXIS_use30 0
@@ -4327,8 +4327,8 @@ _joy_AXIS_use71 0
 _joy_AXIS_use72 0
 _joy_AXIS_use73 0
 _joy_AXIS_use74 0
-_joy_AXIS_use75 2
-_joy_AXIS_use76 1
+_joy_AXIS_use75 0
+_joy_AXIS_use76 0
 _joy_AXIS_use77 0
 _joy_AXIS_use78 36
 _joy_AXIS_use79 0
