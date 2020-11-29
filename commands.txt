@@ -1,4 +1,4 @@
 git reset --hard; git checkout master && git checkout nintendo && git rebase master;
-git reset --hard: git checkout master && git checkout worldflight && git rebase master;
+git reset --hard; git checkout master && git checkout worldflight && git rebase master;
 git reset --hard; git checkout master && git checkout worldflight-nintendo && git rebase nintendo;
 git reset --hard; git checkout master;
