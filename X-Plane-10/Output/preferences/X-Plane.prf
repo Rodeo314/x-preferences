@@ -22435,7 +22435,7 @@ _joy_BUTN_use172 navP/thrust/forward
 _joy_BUTN_use173 navP/switches/at_toga
 _joy_BUTN_use174 sim/engines/throttle_up
 _joy_BUTN_use175 sim/engines/throttle_down
-_joy_BUTN_use176 navP/switches/at_disc
+_joy_BUTN_use176 xnz/tca/12/at/disc/lt
 _joy_BUTN_use177 navP/thrust/reverse
 _joy_BUTN_use178 sim/engines/mixture_up
 _joy_BUTN_use179 sim/engines/prop_up
@@ -22616,7 +22616,7 @@ _joy_BUTN_use353 sim/none/none
 _joy_BUTN_use354 sim/none/none
 _joy_BUTN_use355 sim/none/none
 _joy_BUTN_use356 sim/none/none
-_joy_BUTN_use357 navP/switches/at_disc
+_joy_BUTN_use357 xnz/tca/12/at/disc/lt
 _joy_BUTN_use358 navP/brakes/release
 _joy_BUTN_use359 sim/none/none
 _joy_BUTN_use360 navP/thrust/forward
@@ -22747,7 +22747,7 @@ _joy_BUTN_use484 sim/general/hat_switch_down
 _joy_BUTN_use485 sim/general/hat_switch_down_left
 _joy_BUTN_use486 sim/general/hat_switch_left
 _joy_BUTN_use487 sim/general/hat_switch_up_left
-_joy_BUTN_use488 navP/switches/at_disc
+_joy_BUTN_use488 xnz/tca/12/at/disc/lt
 _joy_BUTN_use489 navP/brakes/maximum
 _joy_BUTN_use490 navP/brakes/parking
 _joy_BUTN_use491 navP/thrust/reverse
@@ -22911,7 +22911,7 @@ _joy_BUTN_use648 navP/brakes/regular
 _joy_BUTN_use649 navP/brakes/parking
 _joy_BUTN_use650 navP/thrust/reverse
 _joy_BUTN_use651 navP/thrust/forward
-_joy_BUTN_use652 navP/switches/at_disc
+_joy_BUTN_use652 xnz/tca/12/at/disc/lt
 _joy_BUTN_use653 navP/switches/ap_disc
 _joy_BUTN_use654 sim/engines/throttle_down
 _joy_BUTN_use655 navP/thrust/up_lots

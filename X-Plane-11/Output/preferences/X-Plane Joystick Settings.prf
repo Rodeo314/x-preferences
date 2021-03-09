@@ -4768,8 +4768,8 @@ _joy_BUTN_use10 navP/thrust/reverse
 _joy_BUTN_use_desc10 deploy thrust reversers
 _joy_BUTN_use11 navP/thrust/forward
 _joy_BUTN_use_desc11 stow thrust reversers
-_joy_BUTN_use12 navP/switches/at_disc
-_joy_BUTN_use_desc12 A/T disconnect
+_joy_BUTN_use12 xnz/tca/12/at/disc/lt
+_joy_BUTN_use_desc12 TCA 1&2: lt A/T disconnect
 _joy_BUTN_use13 navP/switches/ap_disc
 _joy_BUTN_use_desc13 A/P disconnect
 _joy_BUTN_use14 sim/engines/throttle_down
@@ -5111,8 +5111,8 @@ _joy_BUTN_use339 navP/switches/at_toga
 _joy_BUTN_use_desc339 A/T takeoff/GA
 _joy_BUTN_use340 sim/engines/throttle_up
 _joy_BUTN_use341 sim/engines/throttle_down
-_joy_BUTN_use342 navP/switches/at_disc
-_joy_BUTN_use_desc342 A/T disconnect
+_joy_BUTN_use342 xnz/tca/12/at/disc/lt
+_joy_BUTN_use_desc342 TCA 1&2: lt A/T disconnect
 _joy_BUTN_use343 navP/thrust/reverse
 _joy_BUTN_use_desc343 deploy thrust reversers
 _joy_BUTN_use344 sim/none/none

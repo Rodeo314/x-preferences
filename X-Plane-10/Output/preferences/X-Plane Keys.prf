@@ -157,7 +157,7 @@ X <none> sim/view/chase
 0 SHIFT+OPT+CTRL sim/view/quick_look_0_mem
 Numpad-+ <none> navP/thrust/up_once
 Numpad-- <none> navP/thrust/dn_once
-Numpad-* <none> navP/switches/at_disc
+Numpad-* <none> xnz/tca/12/at/disc/lt
 Numpad-/ <none> navP/thrust/reverse
 Numpad-= <none> navP/thrust/forward
 Clear <none> navP/switches/at_toga
@@ -177,5 +177,5 @@ F12 <none> sim/engines/throttle_down
 Backspace OPT navP/thrust/reverse
 Backspace CTRL navP/thrust/forward
 F1 <none> navP/switches/ap_disc
-F2 <none> navP/switches/at_disc
+F2 <none> xnz/tca/12/at/disc/lt
 F3 <none> navP/switches/at_toga
