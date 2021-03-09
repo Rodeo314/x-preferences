@@ -5418,22 +5418,22 @@ _joy_BUTN_use636 sim/none/none
 _joy_BUTN_use637 sim/none/none
 _joy_BUTN_use638 sim/none/none
 _joy_BUTN_use639 sim/none/none
-_joy_BUTN_use640 navP/switches/at_disc
-_joy_BUTN_use_desc640 A/T disconnect
-_joy_BUTN_use641 navP/switches/at_disc
-_joy_BUTN_use_desc641 A/T disconnect
-_joy_BUTN_use642 navP/tca/engine/l/run
-_joy_BUTN_use_desc642 engi. 1 to run
-_joy_BUTN_use643 navP/tca/engine/2/run
-_joy_BUTN_use_desc643 engi. 2 to run
-_joy_BUTN_use644 navP/tca/eng/button/l
-_joy_BUTN_use_desc644 en. button (l)
-_joy_BUTN_use645 navP/tca/eng/button/r
-_joy_BUTN_use_desc645 en. button (r)
-_joy_BUTN_use646 navP/tca/eng/mode/crk
-_joy_BUTN_use_desc646 en. mode crank
-_joy_BUTN_use647 navP/tca/eng/mode/ign
-_joy_BUTN_use_desc647 en. mode start
+_joy_BUTN_use640 xnz/tca/12/at/disc/lt
+_joy_BUTN_use_desc640 TCA 1&2: lt A/T disconnect
+_joy_BUTN_use641 xnz/tca/12/at/disc/rt
+_joy_BUTN_use_desc641 TCA 1&2: rt A/T disconnect
+_joy_BUTN_use642 xnz/tca/engines/1/on/hold
+_joy_BUTN_use_desc642 TCA: engine 1 ON hold
+_joy_BUTN_use643 xnz/tca/engines/2/on/hold
+_joy_BUTN_use_desc643 TCA: engine 2 ON hold
+_joy_BUTN_use644 xnz/tca/12/extra/lt
+_joy_BUTN_use_desc644 TCA 1&2: lt extra button
+_joy_BUTN_use645 xnz/tca/12/extra/rt
+_joy_BUTN_use_desc645 TCA 1&2: rt extra button
+_joy_BUTN_use646 xnz/tca/12/modes/crank/hold
+_joy_BUTN_use_desc646 TCA 1&2: crank mode hold
+_joy_BUTN_use647 xnz/tca/12/modes/start/hold
+_joy_BUTN_use_desc647 TCA 1&2: start mode hold
 _joy_BUTN_use648 sim/none/none
 _joy_BUTN_use649 sim/none/none
 _joy_BUTN_use650 sim/none/none
