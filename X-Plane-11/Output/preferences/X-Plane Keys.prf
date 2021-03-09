@@ -7,8 +7,6 @@ M SHIFT sim/operation/cycle_dump
 X CTRL sim/operation/create_snap_marker
 Space SHIFT+OPTION+CTRL sim/operation/make_panel_previews
 I <NONE> sim/map/show_instructor_operator_station
-` <NONE> sim/operation/toggle_flight_config
-` CTRL sim/operation/toggle_settings_window
 G CTRL sim/operation/toggle_data_output_graph
 F1 SHIFT sim/operation/slider_01
 F2 SHIFT sim/operation/slider_02
