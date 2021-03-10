@@ -168,7 +168,7 @@ Numpad-- <NONE> navP/thrust/dn_once throttle down once
 Numpad-* <NONE> xnz/tca/12/at/disc/lt TCA 1&2: lt A/T disconnect
 Numpad-/ <NONE> navP/thrust/reverse deploy thrust reversers
 Numpad-= <NONE> navP/thrust/forward stow thrust reversers
-Clear <NONE> navP/switches/at_toga A/T takeoff/GA
+Clear <NONE> xnz/auto/thrust/to/ga A/T takeoff/go-around
 F13 <NONE> sim/engines/mixture_max
 F14 <NONE> sim/engines/mixture_up
 F15 <NONE> sim/engines/mixture_down
@@ -186,4 +186,4 @@ Backspace OPTION navP/thrust/reverse deploy thrust reversers
 Backspace CTRL navP/thrust/forward stow thrust reversers
 F1 <NONE> navP/switches/ap_disc A/P disconnect
 F2 <NONE> xnz/tca/12/at/disc/lt TCA 1&2: lt A/T disconnect
-F3 <NONE> navP/switches/at_toga A/T takeoff/GA
+F3 <NONE> xnz/auto/thrust/to/ga A/T takeoff/go-around

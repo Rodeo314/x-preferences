@@ -22432,7 +22432,7 @@ _joy_BUTN_use169 navP/switches/ap_disc
 _joy_BUTN_use170 sim/view/quick_look_1
 _joy_BUTN_use171 navP/switches/ap_conn
 _joy_BUTN_use172 navP/thrust/forward
-_joy_BUTN_use173 navP/switches/at_toga
+_joy_BUTN_use173 xnz/auto/thrust/to/ga
 _joy_BUTN_use174 sim/engines/throttle_up
 _joy_BUTN_use175 sim/engines/throttle_down
 _joy_BUTN_use176 xnz/tca/12/at/disc/lt
@@ -22593,7 +22593,7 @@ _joy_BUTN_use330 sim/none/none
 _joy_BUTN_use331 sim/none/none
 _joy_BUTN_use332 sim/none/none
 _joy_BUTN_use333 sim/none/none
-_joy_BUTN_use334 navP/switches/at_toga
+_joy_BUTN_use334 xnz/auto/thrust/to/ga
 _joy_BUTN_use335 navP/brakes/parking
 _joy_BUTN_use336 sim/none/none
 _joy_BUTN_use337 sim/none/none
@@ -22752,7 +22752,7 @@ _joy_BUTN_use489 navP/brakes/maximum
 _joy_BUTN_use490 navP/brakes/parking
 _joy_BUTN_use491 navP/thrust/reverse
 _joy_BUTN_use492 navP/thrust/forward
-_joy_BUTN_use493 navP/switches/at_toga
+_joy_BUTN_use493 xnz/auto/thrust/to/ga
 _joy_BUTN_use494 sim/flight_controls/cowl_flaps_closed
 _joy_BUTN_use495 navP/thrust/idle_boost
 _joy_BUTN_use496 sim/flight_controls/cowl_flaps_open
@@ -22916,7 +22916,7 @@ _joy_BUTN_use653 navP/switches/ap_disc
 _joy_BUTN_use654 sim/engines/throttle_down
 _joy_BUTN_use655 navP/thrust/up_lots
 _joy_BUTN_use656 navP/switches/ap_conn
-_joy_BUTN_use657 navP/switches/at_toga
+_joy_BUTN_use657 xnz/auto/thrust/to/ga
 _joy_BUTN_use658 sim/none/none
 _joy_BUTN_use659 sim/view/quick_look_1
 _joy_BUTN_use660 sim/none/none
@@ -23068,7 +23068,7 @@ _joy_BUTN_use805 sim/none/none
 _joy_BUTN_use806 navP/trims/rudder_left
 _joy_BUTN_use807 sim/none/none
 _joy_BUTN_use808 sim/operation/contact_atc
-_joy_BUTN_use809 navP/switches/at_toga
+_joy_BUTN_use809 xnz/auto/thrust/to/ga
 _joy_BUTN_use810 navP/switches/ap_conn
 _joy_BUTN_use811 navP/switches/ap_disc
 _joy_BUTN_use812 sim/none/none

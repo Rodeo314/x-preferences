@@ -160,7 +160,7 @@ Numpad-- <none> navP/thrust/dn_once
 Numpad-* <none> xnz/tca/12/at/disc/lt
 Numpad-/ <none> navP/thrust/reverse
 Numpad-= <none> navP/thrust/forward
-Clear <none> navP/switches/at_toga
+Clear <none> xnz/auto/thrust/to/ga
 F13 <none> sim/engines/mixture_max
 F14 <none> sim/engines/mixture_up
 F15 <none> sim/engines/mixture_down
@@ -178,4 +178,4 @@ Backspace OPT navP/thrust/reverse
 Backspace CTRL navP/thrust/forward
 F1 <none> navP/switches/ap_disc
 F2 <none> xnz/tca/12/at/disc/lt
-F3 <none> navP/switches/at_toga
+F3 <none> xnz/auto/thrust/to/ga

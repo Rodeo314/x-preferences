@@ -4777,8 +4777,8 @@ _joy_BUTN_use15 navP/thrust/up_lots
 _joy_BUTN_use_desc15 throttle up 12pc
 _joy_BUTN_use16 navP/switches/ap_conn
 _joy_BUTN_use_desc16 A/P engagement
-_joy_BUTN_use17 navP/switches/at_toga
-_joy_BUTN_use_desc17 A/T takeoff/GA
+_joy_BUTN_use17 xnz/auto/thrust/to/ga
+_joy_BUTN_use_desc17 A/T takeoff/go-around
 _joy_BUTN_use18 sim/none/none
 _joy_BUTN_use19 sim/view/quick_look_1
 _joy_BUTN_use20 sim/none/none
@@ -5107,8 +5107,8 @@ _joy_BUTN_use336 sim/engines/prop_down
 _joy_BUTN_use337 sim/engines/mixture_down
 _joy_BUTN_use338 navP/thrust/forward
 _joy_BUTN_use_desc338 stow thrust reversers
-_joy_BUTN_use339 navP/switches/at_toga
-_joy_BUTN_use_desc339 A/T takeoff/GA
+_joy_BUTN_use339 xnz/auto/thrust/to/ga
+_joy_BUTN_use_desc339 A/T takeoff/go-around
 _joy_BUTN_use340 sim/engines/throttle_up
 _joy_BUTN_use341 sim/engines/throttle_down
 _joy_BUTN_use342 xnz/tca/12/at/disc/lt
@@ -5264,8 +5264,8 @@ _joy_BUTN_use486 navP/trims/rudder_left
 _joy_BUTN_use_desc486 rudder trim left one
 _joy_BUTN_use487 sim/none/none
 _joy_BUTN_use488 sim/operation/contact_atc
-_joy_BUTN_use489 navP/switches/at_toga
-_joy_BUTN_use_desc489 A/T takeoff/GA
+_joy_BUTN_use489 xnz/auto/thrust/to/ga
+_joy_BUTN_use_desc489 A/T takeoff/go-around
 _joy_BUTN_use490 navP/switches/ap_conn
 _joy_BUTN_use_desc490 A/P engagement
 _joy_BUTN_use491 navP/switches/ap_disc
