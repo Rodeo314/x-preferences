@@ -114,7 +114,7 @@ D CTRL sim/flight_controls/landing_gear_down
 U CTRL sim/flight_controls/landing_gear_up
 G <none> sim/flight_controls/landing_gear_toggle
 Space OPT sim/general/action
-Space <none> navP/brakes/regular
+Space <none> xnz/brakes/regular/hold
 B <none> xnz/brakes/park/unset
 V <none> xnz/brakes/park/on/set
 A <none> navP/turnaround_set

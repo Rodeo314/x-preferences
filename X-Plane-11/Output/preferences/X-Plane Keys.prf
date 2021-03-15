@@ -122,7 +122,7 @@ U CTRL sim/flight_controls/landing_gear_up
 G <NONE> sim/flight_controls/landing_gear_toggle
 Space OPTION sim/general/action
 M <NONE> sim/map/show_current
-Space <NONE> navP/brakes/regular regular braking action
+Space <NONE> xnz/brakes/regular/hold hold brakes regular
 B <NONE> xnz/brakes/park/unset parking brake release
 V <NONE> xnz/brakes/park/on/set parking brake set
 A <NONE> navP/turnaround_set friendly cold & dark

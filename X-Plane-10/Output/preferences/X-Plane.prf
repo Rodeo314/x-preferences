@@ -22907,7 +22907,7 @@ _joy_BUTN_use644 sim/flight_controls/landing_gear_down
 _joy_BUTN_use645 sim/none/none
 _joy_BUTN_use646 sim/flight_controls/flaps_up
 _joy_BUTN_use647 sim/none/none
-_joy_BUTN_use648 navP/brakes/regular
+_joy_BUTN_use648 xnz/brakes/regular/hold
 _joy_BUTN_use649 xnz/brakes/park/on/set
 _joy_BUTN_use650 navP/thrust/reverse
 _joy_BUTN_use651 navP/thrust/forward

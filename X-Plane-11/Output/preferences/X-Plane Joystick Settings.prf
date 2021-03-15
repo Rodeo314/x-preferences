@@ -4760,8 +4760,8 @@ _joy_BUTN_use4 sim/flight_controls/landing_gear_down
 _joy_BUTN_use5 sim/none/none
 _joy_BUTN_use6 sim/flight_controls/flaps_up
 _joy_BUTN_use7 sim/none/none
-_joy_BUTN_use8 navP/brakes/regular
-_joy_BUTN_use_desc8 regular braking action
+_joy_BUTN_use8 xnz/brakes/regular/hold
+_joy_BUTN_use_desc8 hold brakes regular
 _joy_BUTN_use9 xnz/brakes/park/on/set
 _joy_BUTN_use_desc9 parking brake set
 _joy_BUTN_use10 navP/thrust/reverse
