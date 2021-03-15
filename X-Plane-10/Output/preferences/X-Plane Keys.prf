@@ -115,8 +115,8 @@ U CTRL sim/flight_controls/landing_gear_up
 G <none> sim/flight_controls/landing_gear_toggle
 Space OPT sim/general/action
 Space <none> navP/brakes/regular
-B <none> navP/brakes/release
-V <none> navP/brakes/parking
+B <none> xnz/brakes/park/unset
+V <none> xnz/brakes/park/on/set
 A <none> navP/turnaround_set
 U <none> navP/switches/ap_clmb
 Numpad-Enter <none> navP/switches/cdu_toggle

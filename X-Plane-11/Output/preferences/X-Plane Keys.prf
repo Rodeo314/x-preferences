@@ -123,8 +123,8 @@ G <NONE> sim/flight_controls/landing_gear_toggle
 Space OPTION sim/general/action
 M <NONE> sim/map/show_current
 Space <NONE> navP/brakes/regular regular braking action
-B <NONE> navP/brakes/release release parking brake
-V <NONE> navP/brakes/parking apply max. park brake
+B <NONE> xnz/brakes/park/unset parking brake release
+V <NONE> xnz/brakes/park/on/set parking brake set
 A <NONE> navP/turnaround_set friendly cold & dark
 U <NONE> navP/switches/ap_clmb A/P pitch: CLB
 Numpad-Enter <NONE> navP/switches/cdu_toggle CDU pop-up/down
